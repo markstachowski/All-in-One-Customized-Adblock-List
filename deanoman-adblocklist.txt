@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 1 days (update frequency)
-! Last Modified: Saturday, 17 February 2018 8:11:26 PM AEST
-! Version: 0.5.1
+! Last Modified: Sunday, 18 February 2018 7:36:17 AM AEST
+! Version: 0.5.2
 ! Build: Dozy Dragon
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Description:
@@ -42,7 +42,7 @@
 ! * You's List (Chayoung You) [Blocks even more ads.] - https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 ! * YouTube: Pure Video Experience (EasyList) [Blocks all YouTube annoyances.] - https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt
 !
-$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|dekoder.ws|estream.to|fileone.tv|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|lewd.ninja|love-drama.pl|alltube.tv
+$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|dekoder.ws|estream.to|fileone.tv|jkanime.net|hq-porns.com|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|lewd.ninja|love-drama.pl|alltube.tv
 &activate_counter=
 &ad_ids=
 &ad_key=
@@ -1118,7 +1118,7 @@
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1553,7 +1553,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3473,7 +3473,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3892,7 +3892,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialnet.
+/socialNet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -3932,7 +3932,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4013,7 +4013,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4180,7 +4180,7 @@
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4406,7 +4406,7 @@
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -7725,6 +7725,7 @@ _youtube-button.
 ||cdn04.sndkorea.co.kr^
 ||cdn1.smartadserver.com/diff/*/smartadasmi.js^
 ||cdn-aitg.widerplanet.com/js/adr.js^
+||cdn-code.host^$third-party
 ||cdn-fluct.sh.adingo.jp/f.js^
 ||cdnjs.cloudflare.com/ajax/libs/lazyad-loader/*/lazyad-loader.min.js^
 ||cdnprism.pandora.tv/_adv_img/prism_ad/
@@ -8985,6 +8986,7 @@ _youtube-button.
 ||gcboyhlfqxhc.com^
 ||gchfmrxxpfizw.bid^
 ||gcirwjlmyfgxm.bid^
+||g-content.bid^$third-party
 ||gcrqbzvwhz.bid^
 ||gcujnsgvdq.com^
 ||gcw.mysavings.com^
@@ -9938,6 +9940,7 @@ _youtube-button.
 ||jqtftqnkhsw.bid^
 ||jqtsknmobyw.com^
 ||jqtwygdajic.com^
+||jquery-uim.download^$third-party
 ||jqusvvfzw.bid^
 ||jrauyqdbit.bid^
 ||jrdxlxdnohjzs.bid^
@@ -10731,6 +10734,7 @@ _youtube-button.
 ||mining.best^$third-party
 ||minishop.linkprice.com/minishop*.php^
 ||minitoon.net/js/adblockblock.js^
+||minr.pw^$third-party
 ||misosoup.io^$third-party
 ||mixadvert.com^
 ||mixfyfriqtatz.bid^
@@ -12684,9 +12688,12 @@ _youtube-button.
 ||static2.stuff.co.nz^$subdocument
 ||static2.vidto.me/b8/b4/50/*.js$domain=vidto.me
 ||static9.vidzi.tv/*.php^$domain=vidzi.tv
+||static-cnt.bid^$third-party
+||staticsfs.host^$third-party
 ||statictapcdn-a.akamaihd.net^$third-party
 ||statigr.am/widget.php$third-party
 ||statigr.am^*/follow/$third-party
+||statistic.date^$third-party
 ||statistics.
 ||stats.
 ||stats.$domain=pandora.com|paypal.com
@@ -15157,7 +15164,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -17055,6 +17062,7 @@ cnn.com###notice_banner
 cnn.com###notification-legal
 cnn.com###sh_search_box
 cnn.com###teconsent
+cnn.com##._2dc7d020
 cnn.com##.cnn_elxrgtsocialbtns
 cnn.com##.cnn_fb_button
 cnn.com##.cnn_strybtntools
@@ -22141,7 +22149,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#minor_view_middle
+m.dcinside.com##div#Minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -27647,7 +27655,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -28017,7 +28025,9 @@ twitter.com#@#.facebook-container
 twitter.com#@#.follow-bar
 twitter.com#@#.follow-btn
 twitter.com#@#.follow-text
+twitter.com#@#.tweetbox
 twitter.com#@#.tweet-btn
+twitter.com#@#.tweet-btn-container
 twitter.com#@#.tweet-button
 twitter.com#@#.twitter-hashtag
 twitter.com#@#.twitter-timeline
@@ -29406,4 +29416,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.5.1 (Saturday, 17 February 2018 8:11:26 PM AEST)
+! End of Customized All-in-One Adblock List 0.5.2 (Sunday, 18 February 2018 7:36:17 AM AEST)
