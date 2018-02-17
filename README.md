@@ -1,12 +1,9 @@
 # All-in-One-Customized-Adblock-List
 
+**Description:**
 A comprehensive, all-in-one adblock list for thorough blocking of trackers, popup ads, ads, 
 unwanted cookies, fake news, cookie warning messages, unwanted comment sections,
 crypto-coin mining, YouTube clutter and social network hassles.
-
-(VITAL:)
-Be sure to disable any lists that appear in the list below that you already have active in
-the settings/dashboard. e.g. https://i.imgur.com/ZIUPnhD.png
 
 Tested in uBlock Origin for Google Chrome, Firefox and Edge; it should work just
 fine in any decent adblocker that supports Adblock Plus 2.0 formatted lists.
@@ -15,12 +12,17 @@ It includes customized entries that block particularly annoying page elements.
 It is actively maintained (updates daily), has no duplicates, is sorted alphabetically
 and is saved in UTF-8 format. Have fun :D
 
-Usage:
+**(VITAL:)**
+Be sure to disable any lists that appear in the list below that you already have active in
+the settings/dashboard. e.g. https://i.imgur.com/ZIUPnhD.png
+
+**Usage:**
 In your adblocker's filter lists section add the URL: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 
-Credit: Full credit goes to original list creators and maintainers :D
+**Credit:**
+Full credit goes to original list creators and maintainers :D
 
-18 Lists Included:
+**18 Lists Included:**
 * Anti-Facebook List (Fanboy) [Blocks Facebook trackers.] - https://fanboy.co.nz/fanboy-antifacebook.txt
 * Anti-PopAds (Yhonay) [Blocks shady, annoying pop-under ads from the infamous PopAds ad network.] - https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 * Adblock Warning Removal List (EasyList) [Blocks Adblock warnings on websites.] - https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
