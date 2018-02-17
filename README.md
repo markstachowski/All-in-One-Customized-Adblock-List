@@ -1,5 +1,8 @@
 # All-in-One-Customized-Adblock-List
 
+Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
+Wiki/FAQs: https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki
+
 **Description:**
 A comprehensive, all-in-one adblock list for thorough blocking of trackers, popup ads, ads, 
 unwanted cookies, fake news, cookie warning messages, unwanted comment sections,
