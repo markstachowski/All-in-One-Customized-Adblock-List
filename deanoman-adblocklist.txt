@@ -1,11 +1,10 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 1 days (update frequency)
-! Last Modified: Saturday, 17 February 2018 8:05:27 PM AEST
-! Version: 0.4.9
-! Build: Cute Critter
-! Shared Link: https://dl.dropboxusercontent.com/s/gngpfk3e5bty85a/deanoman-adblocklist.txt?dl=1
-! View Link: https://dl.dropboxusercontent.com/s/gngpfk3e5bty85a/deanoman-adblocklist.txt?dl=0
+! Last Modified: Saturday, 17 February 2018 8:07:56 PM AEST
+! Version: 0.5
+! Build: Dozy Dragon
+! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Description:
 !    A comprehensive, all-in-one adblock list for thorough blocking of trackers, popup ads, ads, 
 !    unwanted cookies, fake news, cookie warning messages, unwanted comment sections,
@@ -29407,4 +29406,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.4.9 (Saturday, 17 February 2018 8:05:27 PM AEST)
+! End of Customized All-in-One Adblock List 0.5 (Saturday, 17 February 2018 8:07:56 PM AEST)
