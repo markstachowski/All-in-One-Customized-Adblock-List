@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 1 days (update frequency)
-! Last Modified: Sunday, 18 February 2018 12:44:02 PM AEST
-! Version: 0.6.5
+! Last Modified: Sunday, 18 February 2018 5:27:37 PM AEST
+! Version: 0.6.6
 ! Build: Dozy Dragon
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1121,7 +1121,7 @@
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1556,7 +1556,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/fbicon.
+/FBicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3476,7 +3476,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/Sharefb.
+/sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3935,7 +3935,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialsharecount.
+/socialShareCount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4016,7 +4016,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4409,7 +4409,7 @@
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterFetcher_
+/twitterfetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -6960,6 +6960,7 @@ _youtube-button.
 ||aiiaqehoqgrj.com^
 ||aim-ads.com/multimedia-themonitor-com/wwwroot/*_twitter_
 ||aimatch.com^
+||aionvpexcmm.com^
 ||aioxvilwpg.bid^
 ||airfhtyo.bid^
 ||airpush.com^
@@ -7577,6 +7578,7 @@ _youtube-button.
 ||bwssvome.com^
 ||bwuxrzvr.bid^
 ||bwwstatic.com/socialtop
+||bxexufifrsfr.com^
 ||bxfsdzpffy.bid^
 ||bxoemfpetyqi.bid^
 ||bxpbwitpgbid.bid^
@@ -10042,6 +10044,7 @@ _youtube-button.
 ||jyzhiusk.bid^
 ||jzbarlrhbicg.com^
 ||jzbskhgpivyl.com^
+||jzckyzvlxetror.com^
 ||jzigsobgsmxdmr.bid^
 ||jzlzdnvvktcf.com^
 ||jzthapvjlq.bid^
@@ -27660,7 +27663,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29421,4 +29424,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.6.5 (Sunday, 18 February 2018 12:44:02 PM AEST)
+! End of Customized All-in-One Adblock List 0.6.6 (Sunday, 18 February 2018 5:27:37 PM AEST)
