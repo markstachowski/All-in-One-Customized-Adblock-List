@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 1 days (update frequency)
-! Last Modified: Sunday, 18 February 2018 11:26:47 AM AEST
-! Version: 0.6.2
+! Last Modified: Sunday, 18 February 2018 11:37:53 AM AEST
+! Version: 0.6.3
 ! Build: Dozy Dragon
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1121,7 +1121,7 @@
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/CookiesDirective
+/cookiesdirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1556,7 +1556,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3476,7 +3476,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3895,7 +3895,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialnet.
+/socialNet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -3935,7 +3935,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4016,7 +4016,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -9872,6 +9872,7 @@ _youtube-button.
 ||jjxsdkphpcwu.com^
 ||jjyovwimoydq.com^
 ||jkfgdkesrpx.bid^
+||jkiicqewzn.com^
 ||jkjoxlhkwnxd.com^
 ||jkjwifmep.com^
 ||jkoiwpjk.bid^
@@ -14156,6 +14157,7 @@ _youtube-button.
 ||yieldtraffic.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||yihibfmdq.bid^
 ||yikkagezqsob.com^
+||yiklmnmijwlryv.com^
 ||yimg.com/rq/darla/$subdocument,domain=yahoo.com
 ||yimg.com/uq/syndication/
 ||yincrkvptefw.bid^
@@ -29419,4 +29421,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.6.2 (Sunday, 18 February 2018 11:26:47 AM AEST)
+! End of Customized All-in-One Adblock List 0.6.3 (Sunday, 18 February 2018 11:37:53 AM AEST)
