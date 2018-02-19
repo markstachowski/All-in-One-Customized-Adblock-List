@@ -1,7 +1,7 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 1 days (update frequency)
-! Last Modified: Monday, 19 February 2018 12:00:41 PM AEST
+! Last Modified: Monday, 19 February 2018 2:18:26 PM AEST
 ! Version: 0.6.7
 ! Build: Dozy Dragon
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -697,6 +697,7 @@
 /backtoptab.
 /backtoptop.
 /backtotop.
+/back-to-top.
 /backtotoparrow.
 /backtotopbutton.
 /backtotopicon.
@@ -3484,7 +3485,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/Sharefb.
+/sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3903,7 +3904,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialnet.
+/socialNet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -4024,7 +4025,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4191,7 +4192,7 @@
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4613,6 +4614,7 @@
 /wp-images/twitter.png
 /wpmaster-cookie/*
 /wproxy$~third-party,websocket
+/wp-snow-effect/*
 /wpsocial.
 /wpsocialite.
 /wp-social-toolbar/*
@@ -13389,6 +13391,7 @@ _youtube-button.
 ||vbjwswnic.bid^
 ||vblunqrovanf.com^
 ||vbmvbljjer.bid^
+||vbnvvzedvgx.com^
 ||vbyefnnrswpn.com^
 ||vcavpwzzx.bid^
 ||vcegsisugrwd.bid^
@@ -14853,7 +14856,7 @@ adernats.cat###cookies
 adevarul.ro##.abonare
 adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,ozy.com,tipranks.com#@#.social-buttons
 adf.ly,ratemyprofessors.com###cookie_notice
-adguard.com,africanbank.co.za,autonation.com,brandeating.com,crushplate.com,cutestat.com,eclipse.org,gamerevolution.com,glaad.org,identitymind.com,kaskus.co.id,mg.co.za,mymodernmet.com,quastic.com,scufgaming.com,webnms.com##.scrollup
+adguard.com,africanbank.co.za,autonation.com,brandeating.com,crushplate.com,cutestat.com,eclipse.org,expatica.com,gamerevolution.com,glaad.org,identitymind.com,kaskus.co.id,mg.co.za,mymodernmet.com,quastic.com,scufgaming.com,theritz.co.za,webnms.com##.scrollup
 adicional.pt###overbox3
 adn.com,keysnet.com,modbee.com,newsobserver.com,thenewstribune.com,thestate.com,tri-cityherald.com##.story_nav
 adobe.com##.message
@@ -15196,7 +15199,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -15702,7 +15705,7 @@ avtoset.si##body > div[style*="2A2A2A"]
 awarenessact.com#@#A[href^="http://awarenessact.com"]
 awarenessact.com#@#A[href^="http://www.awarenessact.com"]
 awarenessact.com,bbcccnn.com.ua,chatsports.com,comicbook.com,dogs-magazin.de,gamerisle.org,gen-pop.com,gfycat.com,livetheorganicdream.com,popsugar.com,popsugar.com.au,professorshouse.com,sensationrock.net#@#.share-container
-awd-it.co.uk,ghananewsonline.com.gh,urban1.com###scroll-up
+awd-it.co.uk,ghananewsonline.com.gh,thekwinicollege.co.za,urban1.com###scroll-up
 awdnews.com#@#A[href^="http://awdnews.com"]
 awdnews.com#@#A[href^="http://www.awdnews.com"]
 axa.cz##.axa-cookies
@@ -21116,6 +21119,8 @@ ittoolbox.com,toolbox.com###mdouter
 itunesplusaacm4a.org,liliputing.com,twincities.com,world4.eu##.sd-sharing
 itwayvad.com###light
 itweb.co.za##.itw-prevnext
+itweb.co.za##.itw-scroll-top
+itweb.co.za##.itw-subscribe
 itweb.co.za##.itw-toolbox-item
 itweb.co.za#@##facebook-icon
 itweb.co.za#@#.fb-icon
@@ -27690,7 +27695,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29453,4 +29458,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.6.7 (Monday, 19 February 2018 12:00:41 PM AEST)
+! End of Customized All-in-One Adblock List 0.6.7 (Monday, 19 February 2018 2:18:26 PM AEST)
