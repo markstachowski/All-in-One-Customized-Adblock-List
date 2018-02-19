@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 1 days (update frequency)
-! Last Modified: Sunday, 18 February 2018 5:27:37 PM AEST
-! Version: 0.6.6
+! Last Modified: Monday, 19 February 2018 12:00:41 PM AEST
+! Version: 0.6.7
 ! Build: Dozy Dragon
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -45,7 +45,7 @@
 ! * You's List (Chayoung You) [Blocks even more ads.] - https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 ! * YouTube: Pure Video Experience (EasyList) [Blocks all YouTube annoyances.] - https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt
 !
-$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|dekoder.ws|estream.to|fileone.tv|jkanime.net|hq-porns.com|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|lewd.ninja|love-drama.pl|alltube.tv
+$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|lewd.ninja|love-drama.pl|alltube.tv
 &activate_counter=
 &ad_ids=
 &ad_key=
@@ -151,6 +151,8 @@
 .amznslots=
 .autocomplete.search-
 .bid^$third-party,websocket
+.bzshare.
+.bztotalshare.
 .cf^$third-party,websocket
 .club^$third-party,websocket
 .com/_/tr.ashx?r=*&loc=
@@ -884,6 +886,8 @@
 /buy-me-a-coffee-
 /bvstaging/*
 /bwSocialIcons.
+/bz_share/*
+/bz-share.
 /c.gif?$third-party
 /c.wasm
 /calendarad.
@@ -921,6 +925,7 @@
 /coCookiesDisclaimer.
 /coinblind.js
 /coinblind_beta.
+/coinGofile.
 /coinhive.min.js
 /coinhive-proxy-
 /coin-hive-proxy-
@@ -1556,7 +1561,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -1927,6 +1932,7 @@
 /gpluslogo-50.
 /gplusrp.
 /gplus-share-
+/gplus-share.
 /gprofile_button-
 /gptloader.
 /graphics/twitter.
@@ -2977,6 +2983,7 @@
 /pinmask2.
 /pins/social-
 /pinShare.
+/pin-share.
 /pinterest.png
 /pinterest@2x.
 /pinterest_64.
@@ -3196,6 +3203,7 @@
 /reddit_button.
 /Reddit_Icon.
 /reddit-icon.
+/reddit-share.
 /reddit-small.
 /redes_sociales.
 /redes_sociales/*
@@ -3476,7 +3484,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3895,7 +3903,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialNet.
+/socialnet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -4016,7 +4024,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4183,7 +4191,7 @@
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4229,6 +4237,7 @@
 /tumblr-icon-
 /tumblr-icon.
 /tumblr-logo-
+/tumblr-share.
 /tumblrstamp.
 /tvad300x100_
 /tw_follow.
@@ -8250,6 +8259,7 @@ _youtube-button.
 ||djxvususwvso.com^
 ||dkadbasc.bid^
 ||dkdnvbueigxs.bid^
+||dkfdpglo.com^
 ||dkgdinrubwxro.bid^
 ||dkjgyysfincxps.bid^
 ||dkvblgxkihtys.bid^
@@ -8454,6 +8464,7 @@ _youtube-button.
 ||ehoksipmkejqt.bid^
 ||ehrwekypesnl.bid^
 ||ehrxkeosifmksi.bid^
+||ehxfudlqli.com^
 ||ehxpqwlnittvow.bid^
 ||ehzkfbqpv.bid^
 ||eiadsdmj.bid^
@@ -8470,6 +8481,7 @@ _youtube-button.
 ||ejbvrgespr.bid^
 ||ejdcjjcqcnzhre.bid^
 ||ejgxyfzciwyi.com^
+||ejkoolhhepojeu.com^
 ||ejwocojjv.bid^
 ||ekdamsibldrg.bid^
 ||ekdjdrmqqlc.bid^
@@ -8770,6 +8782,7 @@ _youtube-button.
 ||fgilgpmoudkzx.bid^
 ||fgwsjwiaqtjc.com^
 ||fgxgzjeip.bid^
+||fgyeepfitnvkzz.com^
 ||fgzaxilcgxum.com^
 ||fhgstzgrdhkah.bid^
 ||fhjciatocm.bid^
@@ -8916,6 +8929,7 @@ _youtube-button.
 ||ftqhgapqugv.bid^
 ||ftusprfqtu.bid^
 ||ftvkgkkmthed.com^
+||ftymjfywuyv.com^
 ||ftytssqazcqx.com^
 ||fuckaqunrcjj.bid^
 ||fucrzdux.bid^
@@ -8983,6 +8997,7 @@ _youtube-button.
 ||gbddkzbtczkw.bid^
 ||gbdqimygbobtih.bid^
 ||gbdxxsjzrechci.bid^
+||gbfnuqois.com^
 ||gbgtegzxz.com^
 ||gbnwjjxb.bid^
 ||gbsxcyukuuex.com^
@@ -9196,6 +9211,7 @@ _youtube-button.
 ||gshiupcdkolv.bid^
 ||gsiqerorqkxu.com^
 ||gsqhqbaysfmp.bid^
+||gsqwxrtcabdftt.com^
 ||gstatic.com/swiffy/v*/runtime.js^
 ||gstpgbhqzia.bid^
 ||gtbfhyprjhqz.com^
@@ -10416,6 +10432,7 @@ _youtube-button.
 ||lnnwwxpeodmw.com^
 ||lnsthqzdsvzboo.bid^
 ||loakfiiggz.bid^
+||locjzfoh.com^
 ||lockerdome.com^$third-party
 ||lofipgeld.bid^
 ||log.
@@ -10893,6 +10910,7 @@ _youtube-button.
 ||mv.ad.naver.com/adshow^
 ||mvdbdtwicgw.bid^
 ||mvddovmyeh.bid^
+||mvdnsrgolwgru.com^
 ||mvdqeaxrk.bid^
 ||mvesulbecwq.bid^
 ||mvkmhjlqqjnay.bid^
@@ -11058,6 +11076,7 @@ _youtube-button.
 ||newsworker.co.kr/script/ad_flow1.js^$domain=newsworker.co.kr
 ||nexac.com^
 ||nextdoor.com^$third-party
+||nexus.ensighten.com^$domain=nydailynews.com
 ||nfaqnqsfhih.bid^
 ||nfdntqlqrgwc.com^
 ||nfefwoasiq.bid^
@@ -12293,6 +12312,7 @@ _youtube-button.
 ||rxuqpktyqixa.com^
 ||rxyeukffow.bid^
 ||ryhrabmmprehm.com^
+||rylkihtmnvsh.com^
 ||rylnirfbokjd.com^
 ||ryxpmonwqeg.com^
 ||ryzrdgdvg.bid^
@@ -12910,6 +12930,7 @@ _youtube-button.
 ||thjuvpgdmjj.com^
 ||thncnkzupxwlbo.bid^
 ||thnqemehtyfe.com^
+||thpsflsjw.com^
 ||thrillist.com/campaigns/vortexInfo/$script
 ||thvdzghlvfoh.com^
 ||thvrvojkkjkkpe.bid^
@@ -13837,6 +13858,7 @@ _youtube-button.
 ||ws.audioscrobbler.com^$third-party,domain=~last.fm|~lastfm.de|~lastfm.ru|~play.google.com|~spotify.com
 ||wsaijhlcnsqu.com^
 ||wsp.marketgid.com^$third-party
+||wsrjplhhhfmfsx.com^
 ||wssqvrcqfcfn.bid^
 ||wstatic.dcinside.com/ad/
 ||wstatic.dcinside.com/gallery/top/ad_top/
@@ -14185,6 +14207,7 @@ _youtube-button.
 ||yldbt.com^
 ||ylhjsrwqtqqb.com^
 ||yljrefexjymy.com^
+||ylmnpenjdn.com^
 ||ylqezcnlzfsj.com^
 ||ylsbuudmpiks.bid^
 ||ymgjxtmtfl.bid^
@@ -14904,6 +14927,7 @@ agein.com###rsss_sidebar
 agenceecofin.com##.pwebbox
 agenda.brussels##.confirm.is-entering
 agenda.brussels##.js-confirm
+agendadigitale.eu,corrierecomunicazioni.it##.accetta-container
 agendapompierului.ro##.notification, .Notification, .js-notification, .notifications-container, #notifications, #notification_1, #notification, #notification_area, .notifications, .notif-bar, .notificationBox
 agenziademanio.it###bannerInfo
 ageofwushu.com##.friendlink
@@ -15172,7 +15196,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -15186,6 +15210,7 @@ amazon.it###smart-app-banner
 amazon-adsystem.com
 amazonaws.com###avert
 -amazon-badge.
+ambaile.org.uk###Social-media
 ambulance-photos.com,bus-and-coach-photos.com,campervan-photos.com,classic-and-vintage-cars.com,construction-and-excavation.com,dream-car-photos.com,fire-engine-photos.com,forklift-photos.com,hotrods-customcars.com,military-vehicle-photos.com,motorcycles-motorbikes.com,oilrig-photos.com,planesandchoppers.com,police-car-photos.com,racing-car-photos.com,shipsandharbours.com,taxi-photos.com,traction-engines.net,tractor-photos.com,train-photos.com,transport-models.com,truck-photos.net,vehicle-livery.net,yourboatphotos.com###CQ
 amd.com,batman-news.com,bbcamerica.com,bgr.com,californiasunday.com,cnet.com,espnmediazone.com,esquire.com,fandango.com,flashbak.com,fox10phoenix.com,fromthegrapevine.com,geeksaresexy.net,goodnet.org,grindtv.com,indiatimes.com,inverse.com,kpopstarz.com,nbcnews.com,opposingviews.com,pawnation.com,skatehut.co.uk,sky.com,symmetrymagazine.org,tvnz.co.nz,usatoday.com,vagabomb.com,verisigninc.com,winbeta.org,wonderwall.com##.follow
 amd.com,legalsportsreport.com###slidebox
@@ -15314,6 +15339,7 @@ annyas.com,ap.org,avclub.com,carscoops.com,convertinmp4.com,dirwell.com,fark.com
 anonse.com###polityka
 anpost.ie###topBanner
 anpost.ie,ayraviation.com,emrf.eu,emunewz.net,feyenoord.com,forbiddenplanet.co.uk,fulltilt.com,homecinemachoice.com,inmobi.com,izikart.co.uk,jomast.co.uk,metbiocat.eu,panfurware.com,phonearena.com,picload.org,pokernews.com,premiumcredit.co.uk,private.com,scl.org,studentski.net,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,tsb.co.uk###cookies
+ansa.it##.bt-suggest
 answers.com###facebox_overlay
 answers.com,mylot.com,pravda.ru###facebox
 answers.microsoft.com###PrivacyBanner
@@ -15624,7 +15650,7 @@ autoline-br.com,autoline-market.cl,autoline.bo,autoline.com.py,autoline.es,autol
 autolineeliscio.it###privacy, .privacy, #mainPrivacyDiv, .privacyTop, #privacy-info, .privacy-top, .privacy-overlay, .privacypolicy, #privacy-notification, #inf_privacy, #privacypolicycontainer
 autoline-eu.at,autoline-eu.ch,autoline.de,autoline.li,nachrichten.it,radiotirol.it,suedtirol1.it,welt.de##.share
 autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,gamekult.com,nieuwsblad.be##.share
-autoline-eu.it,comune.torino.it,corriere.it,gazzetta.it,ilsecoloxix.it,ilsole24ore.com,lifegate.it,mobilita.org,panorama.it,tivusat.tv##.share
+autoline-eu.it,comune.torino.it,corriere.it,gazzetta.it,ilsecoloxix.it,ilsole24ore.com,lifegate.it,mobilita.org,paginegialle.it,panorama.it,tivusat.tv,toronews.net##.share
 autoline-eu.se##.share
 autoline-nl.be,autoline.nl##.share
 automapa.pl##body > div:not([id]):not([class])
@@ -17291,7 +17317,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieconsent.js
+cookieConsent.js
 cookieconsent.min.js
 -cookie-consent/
 cookieDisclaimer.js
@@ -18496,6 +18522,7 @@ email.it##script + div[style^="background: #000000;"]
 embed.nicovideo.jp##div#overlayBanner
 embed.nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext"]
 -embed-facebook/
+emb-japan.go.jp##.pagetop
 emedtv.com##.artendad
 emezeta.com###privacy, .privacy, #mainPrivacyDiv, .privacyTop, #privacy-info, .privacy-top, .privacy-overlay, .privacypolicy, #privacy-notification, #inf_privacy, #privacypolicycontainer
 emipm.com##.alert-info, .alert-warning, .alert-box
@@ -18950,8 +18977,8 @@ fbrss.com###cw
 -fb-share.
 fc.de##.mod-alert
 fcarreras.org##.BlockList.NoticesBox
-fcinter1908.it##.arrowleft
-fcinter1908.it##.arrowright
+fcinter1908.it,toronews.net##.arrowleft
+fcinter1908.it,toronews.net##.arrowright
 fck.dk##.notification, .Notification, .js-notification, .notifications-container, #notifications, #notification_1, #notification, #notification_area, .notifications, .notif-bar, .notificationBox
 fc-koeln.de##.mod-alert
 fdrive.cz##.sys-alert
@@ -22157,7 +22184,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -24588,6 +24615,7 @@ paf.es##.mo-notification-bar-fixed
 pagellapolitica.it##.alert-dismissible, .alert-dismissable, .alert--dismissable, .pmd-alert-dismissible
 pagesjaunes.fr###cgu
 -pagesocial-
+paginegialle.it###btt
 paivyri.fi##body > center > table[style*="width:100%"]
 palatine-am.com##body > div:not([id]):not([class])
 paleohacks.com##.free-paleo-recipes
@@ -26820,12 +26848,11 @@ studiog29.it###privacy, .privacy, #mainPrivacyDiv, .privacyTop, #privacy-info, .
 studiokopiowania.pl###cooPInfo
 studiorolety.pl##.content-head-information
 stuff.co.nz###toolbox-gigya
-stuff.co.nz###uber_pointer
 stuff.co.nz##.assignment_icon
 stuff.co.nz##.homesky
 stuff.co.nz##.homesky_image
-stuff.co.nz##.stuffhome-pointer
-stuff.co.nz##.twominutes-pointer
+stuff.co.nz##div[class$="_pointer"]
+stuff.co.nz##div[class$="-pointer"]
 stuff.co.nz##DIV[class*="_ad-"]
 stumbleupon.com#@#.stumble-button
 stumbleupon.com#@#a[href^="https://www.stumbleupon.com/submit?"]
@@ -27663,7 +27690,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -27696,6 +27723,7 @@ tork.de##.headerMessage
 tork.lt##.headerMessage
 tork.nl##.headerMessage
 tork.pl##.headerMessage
+toronews.net##.newsletter
 torontosun.com###PaywallWidgetTopBar
 torontosun.com###remaining
 torrentcup.net,torrentdn.com,torrentdn.net,torrentkim.com,torrentkim.net,torrentkim1.net,torrentkim10.net,torrentkim5.net,torrentman.net##a[href^="/to_cheonseo.php"]
@@ -27923,6 +27951,7 @@ tupperware.pl##.notification, .Notification, .js-notification, .notifications-co
 tupperware.se##.notification, .Notification, .js-notification, .notifications-container, #notifications, #notification_1, #notification, #notification_area, .notifications, .notif-bar, .notificationBox
 turbo.fr###cookieu_header
 turbocso.hu###auroraOverlay
+tusfiles.net##.fa-long-arrow-up
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 tutorials.de##.notice, .header-notice, .notice-bar, .notice-inside, .notice-wrapper, .notice-holder, .global-notice, #top-notice, #noticePanel, .top_notice, #bottom_notice, #Notices, .Notices, #notice
 tutoriaux-excalibur.com###notices
@@ -29424,4 +29453,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.6.6 (Sunday, 18 February 2018 5:27:37 PM AEST)
+! End of Customized All-in-One Adblock List 0.6.7 (Monday, 19 February 2018 12:00:41 PM AEST)
