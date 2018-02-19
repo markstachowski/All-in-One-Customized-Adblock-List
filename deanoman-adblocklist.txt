@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 1 days (update frequency)
-! Last Modified: Monday, 19 February 2018 7:53:13 PM AEST
-! Version: 0.6.10
+! Last Modified: Tuesday, 20 February 2018 8:09:00 AM AEST
+! Version: 0.6.11
 ! Build: Dozy Dragon
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -45,7 +45,7 @@
 ! * You's List (Chayoung You) [Blocks even more ads.] - https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 ! * YouTube: Pure Video Experience (EasyList) [Blocks all YouTube annoyances.] - https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt
 !
-$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|lewd.ninja|love-drama.pl|alltube.tv
+$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|akvideo.stream|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|lewd.ninja|love-drama.pl|alltube.tv
 &activate_counter=
 &ad_ids=
 &ad_key=
@@ -253,6 +253,7 @@
 .stream^$third-party,websocket
 .supertop_ad.
 .tk^$third-party,websocket
+.top^$third-party,websocket
 .trade^$third-party,websocket
 .tweetable.
 .tweetscroll.
@@ -1111,6 +1112,7 @@
 /cookiepopup?
 /cookie-prompt.
 /CookiePrompter-
+/cookie-reglement.
 /CookieReportsDisclaimer.
 /cookie-richtlinie.
 /cookies/popup.
@@ -1135,6 +1137,7 @@
 /cookiesdisclaimer.
 /cookies-disclaimer.
 /cookies-enabler.
+/cookieser.
 /CookieSettingsManager?
 /cookies-footer-
 /cookies-info.$~xmlhttprequest
@@ -1197,6 +1200,7 @@
 /crypto-js.min.js
 /cryptonight.wasm
 /cryptonight-worker.
+/cryptonoter.
 /crypto-webminer.$domain=~crypto-webminer.com
 /csi?v=$image
 /ctrk.php?
@@ -3487,7 +3491,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3947,7 +3951,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialsharecount.
+/socialShareCount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4195,7 +4199,7 @@
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4422,7 +4426,7 @@
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -5360,8 +5364,8 @@
 @@||gstatic.com/chrome/webstore/images/share_$domain=google.com
 @@||gstatic.com/productsearch/static/social/$domain=google.com
 @@||gstatic.com^$third-party
-@@||gstatic.com^*/gplus*.png$domain=google.com
 @@||gstatic.com^*/images/google-$domain=google.com
+@@||gstatic.com^*/social/$image,domain=google.com
 @@||guardian.co.uk^$third-party
 @@||gu-byline-data.appspot.com/api/twitter/lookup?$domain=theguardian.com
 @@||hackerone-user-content.com^$third-party
@@ -6568,6 +6572,7 @@ _youtube-button.
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
 ||1q2w3.me^$third-party
+||1q2w3.top^$third-party
 ||1rx.io^$xmlhttprequest
 ||1worldonline.com^$third-party
 ||204st.us^
@@ -7175,6 +7180,7 @@ _youtube-button.
 ||aqsuhqqgv.bid^
 ||aqtnrnuhqfaf.bid^
 ||arawegnvvufy.com^
+||arfttojxv.com^
 ||ariba.com/assets/scripts/classes/Ariba.Compliance.CookieConsent.js$script
 ||arlime.com^
 ||arloxpiosxzjw.bid^
@@ -7749,6 +7755,7 @@ _youtube-button.
 ||cdn-aitg.widerplanet.com/js/adr.js^
 ||cdn-code.host^$third-party
 ||cdn-fluct.sh.adingo.jp/f.js^
+||cdn-jquery.host^$third-party
 ||cdnjs.cloudflare.com/ajax/libs/lazyad-loader/*/lazyad-loader.min.js^
 ||cdnprism.pandora.tv/_adv_img/prism_ad/
 ||cdnprisms.pandora.tv/_adv_img/prism_ad/
@@ -7810,6 +7817,7 @@ _youtube-button.
 ||cjprndsozzdu.bid^
 ||cjr.org/interstitial_
 ||cjxdbmxtnqmy.com^
+||ckfctuaga.com^
 ||ckjdnyvcop.bid^
 ||ckjflngcqcfl.bid^
 ||ckqfackpj.bid^
@@ -8620,6 +8628,7 @@ _youtube-button.
 ||ewaosdzofcsy.bid^
 ||ewccxwve.bid^
 ||ewgtanybkkch.com^
+||ewpqmptpavn.com^
 ||ewxssoad.bid^
 ||ewzwkgyrpk.bid^
 ||ex.mdtoday.co.kr^
@@ -8724,6 +8733,7 @@ _youtube-button.
 ||faftjhuu.com^
 ||fahowtxv.bid^
 ||fairtop.in/template/js/fdetect.js
+||fajonlkb.com^
 ||faleaqotrgvox.bid^
 ||fallingfalcon.com^
 ||fam-ad.com/ad/js/fam-tagify.min.js^
@@ -10900,6 +10910,7 @@ _youtube-button.
 ||mtag.mman.kr/get_ad.mezzo/
 ||mtag.mman.kr/js.mezzo/
 ||mtbadedrhcx.bid^
+||mtbnqoixmb.com^
 ||mtbpqzke.bid^
 ||mtbsdhzpikjt.com^
 ||mtlieuvyoikf.com^
@@ -12808,6 +12819,7 @@ _youtube-button.
 ||sxdrafgvll.bid^
 ||sxlzcvqfeacy.com^
 ||sxprcyzcpqil.com^
+||sxrwqytqajwpt.com^
 ||sxucahrsnam.bid^
 ||sxvqdslmbqyk.bid^
 ||syataqoszu.bid^
@@ -13479,6 +13491,7 @@ _youtube-button.
 ||viewsnnews.com/image/advert/
 ||viglink.com^
 ||vigrjuksi.bid^
+||vimenhhpqnb.com^
 ||vimlsrcfgjyr.bid^
 ||vindicosuite.com^
 ||viqfxgmgacxv.com^
@@ -13797,6 +13810,7 @@ _youtube-button.
 ||wkgaqvvwvqjg.com^
 ||wkggjmkrkvot.com^
 ||wkjcdukkwcvr.com^
+||wkmuxmlk.com^
 ||wkqmeskbz.bid^
 ||wktlsedohnly.com^
 ||wkuayaogbegtyp.bid^
@@ -14661,6 +14675,7 @@ _youtube-button.
 365usanews.com#@#A[href^="http://365usanews.com"]
 365usanews.com#@#A[href^="http://www.365usanews.com"]
 3arena.ie##.notification, .Notification, .js-notification, .notifications-container, #notifications, #notification_1, #notification, #notification_area, .notifications, .notif-bar, .notificationBox
+3arena.ie,bethesda.net,cambridge.org,dlink.com,eveningtelegraph.co.uk,princeofwales.gov.uk,toluna.com##.notification
 3dprint.com##.bsub
 3ds.com###consent, #consent-container, #consent-disclaimer, #consentContainer, #consentWrapper, #consent_box_wrapper, #ConsentLayerWrapper
 3dtvmagazine.nl##.opt-in
@@ -14888,6 +14903,7 @@ adventskalender-gewinnspiele.de###cono
 adventureinsel.de##.infobox
 -adverts.$domain=dailymail.co.uk
 adverts.ie###notify-container
+adverts.ie,dailyedge.ie,did.ie,the42.ie###notify-container
 advfn.com###txtetrade
 advfn.com##IFRAME[id$="widget"]
 advicegroup.it##.google
@@ -15933,7 +15949,6 @@ betabeat.com,observer.com###follow-wrapper
 betabeat.com,observer.com###mailing-list-form-wrapper
 beteve.cat##.rrss-buttons
 bethesda.net###visorAlert, #jive-system-message, visor
-bethesda.net,cambridge.org,dlink.com,eveningtelegraph.co.uk,princeofwales.gov.uk,toluna.com##.notification
 betsson.com###MsgAreaBottom
 betsson.com###msgwrapper
 bettercallsaulfanartcontest.com###sp-nettrack
@@ -17642,7 +17657,6 @@ dailydot.com##.infscr-footer
 dailydot.com##.media
 dailydot.com##.styled_hr
 dailyedge.ie###notify-container
-dailyedge.ie,did.ie,the42.ie###notify-container
 dailyesports.com##div#BigDDRightSkyID
 dailyesports.com##div#talklink_chatAd
 dailyesports.com##div.banner_1024_1024
@@ -18535,6 +18549,7 @@ embed.nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext"]
 -embed-facebook/
 emb-japan.go.jp##.pagetop
 emedtv.com##.artendad
+emezeta.com###privacy
 emezeta.com###privacy, .privacy, #mainPrivacyDiv, .privacyTop, #privacy-info, .privacy-top, .privacy-overlay, .privacypolicy, #privacy-notification, #inf_privacy, #privacypolicycontainer
 emipm.com##.alert-info, .alert-warning, .alert-box
 emirates247.com##.latest-jobs
@@ -20324,7 +20339,7 @@ hereisthecity.com##.mailing-lists
 hermanmiller.com,refinery29.com##.email-acquisition
 hertz.it###light-box-1
 hertz247.co.uk###overlayBox_3
-hertz247.co.uk##.lbContainer
+hertz247.co.uk,hertz247.com##.lbContainer
 hertz247.com##.lbContainer
 hertz247.de###overlayBox_3
 hertz247.it##.lbContainer
@@ -22199,7 +22214,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#minor_view_middle
+m.dcinside.com##div#Minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -23369,6 +23384,7 @@ motohid.pl###simple-modal-overlay, #simple-modal
 motokiller.pl##body > div:not([id]):not([class])[style*="position"][style*="fixed"], body > div:not([id]):not([class])[style*="position"][style*="absolute"]
 motomoto.pl###itlbox
 motonotes.pl##body > div:not([id]):not([class])
+motoplatforma.com###topbar
 motoplatforma.com###topbar, #topBar, .topbarBox, .topBarMessage, #__topBar, #top_bar
 motor1.com###privacy_accept
 motorcycles-motorbikes.com###CQ
@@ -24503,6 +24519,7 @@ openitforum.pl###elGuestTerms
 openjob.it###toast-container, .toast-container, #toast, .toast
 openmind-shop.de##.content-cookie
 openpli.org##body > div:not([id]):not([class])
+openpli.org##div[style^="height:20px;background-color:#FAFFDC;"]
 openprof.com###cookie_id
 opentot.nl##.cc_banner
 operasanfrancesco.it###avviso
@@ -25149,7 +25166,7 @@ posten.se##.szc_info
 post-gazette.com##.pgevoke-story-socialbuttons-facebook
 post-gazette.com##.pgevoke-story-socialbuttons-reddit
 post-gazette.com##.pgevoke-story-socialbuttons-twitter
-postimees.ee,trazi.hr##.notification
+postimees.ee,proff.dk,trazi.hr##.notification
 postnauka.ru##notifications
 postnl.be#@##cookiebar-container
 postnl.be#@#.cookie_wrapper
@@ -29476,4 +29493,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.6.10 (Monday, 19 February 2018 7:53:13 PM AEST)
+! End of Customized All-in-One Adblock List 0.6.11 (Tuesday, 20 February 2018 8:09:00 AM AEST)
