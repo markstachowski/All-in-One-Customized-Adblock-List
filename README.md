@@ -20,7 +20,7 @@ Be sure to disable any lists that appear in the list below that you already have
 the settings/dashboard. e.g. https://i.imgur.com/ZIUPnhD.png
 
 **Usage:**
-In your adblocker's filter lists section add the URL: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
+In your adblocker's filter lists section add the URL: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt , check the wiki for step by step instructions. (https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki)
 
 **Credit:**
 Full credit goes to original list creators and maintainers :D
