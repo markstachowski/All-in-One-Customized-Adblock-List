@@ -1,9 +1,9 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 1 days (update frequency)
-! Last Modified: Tuesday, 20 February 2018 8:09:00 AM AEST
-! Version: 0.6.11
-! Build: Dozy Dragon
+! Last Modified: Tuesday, 20 February 2018 12:29:22 PM AEST
+! Version: 0.7.1
+! Build: Excited Egret
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
 ! Wiki and FAQs: https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki
@@ -172,7 +172,7 @@
 .com/pixel-
 .com/pixel.
 .com/t.gif?
-.com/tr/?id=$image
+.com/tr/?*=$image,xmlhttprequest
 .consent-cookie.
 .content_tracking.
 .cookie_law.
@@ -1567,7 +1567,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -4426,7 +4426,7 @@
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterFetcher_
+/twitterfetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -7385,6 +7385,7 @@ _youtube-button.
 ||bhejerqgrtlq.com^
 ||bhggbeynqhwm.bid^
 ||bhjhijisulwl.com^
+||bhklyaazmxq.com^
 ||bhmenavkijeufq.bid^
 ||bhmenywkptbkga.bid^
 ||bhmqoolzgxnp.com^
@@ -9273,6 +9274,7 @@ _youtube-button.
 ||gxfzlnwlizmur.com^
 ||gxluqcpsfhc.bid^
 ||gxmpahyt.bid^
+||gxordgtvjr.com^
 ||gxqjoqpkexn.bid^
 ||gxuibhjxssnrol.bid^
 ||gxvbogvbcivs.com^
@@ -10172,6 +10174,7 @@ _youtube-button.
 ||klmvharqoxdq.com^
 ||klnbyxhdilss.bid^
 ||klprrjvqalwx.bid^
+||klsduixe.com^
 ||klurrmvbqrhrwc.com^
 ||kmdqjdktf.bid^
 ||kmdwifcjtbk.bid^
@@ -17343,7 +17346,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieconsent.js
+cookieConsent.js
 cookieconsent.min.js
 -cookie-consent/
 cookieDisclaimer.js
@@ -22214,7 +22217,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -29493,4 +29496,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.6.11 (Tuesday, 20 February 2018 8:09:00 AM AEST)
+! End of Customized All-in-One Adblock List 0.7.1 (Tuesday, 20 February 2018 12:29:22 PM AEST)
