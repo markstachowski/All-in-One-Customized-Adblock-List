@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 1 days (update frequency)
-! Last Modified: Tuesday, 20 February 2018 12:29:22 PM AEST
-! Version: 0.7.1
+! Last Modified: Tuesday, 20 February 2018 3:46:36 PM AEST
+! Version: 0.7.2
 ! Build: Excited Egret
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1130,7 +1130,7 @@
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/CookiesDirective
+/cookiesdirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -3491,7 +3491,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/Sharefb.
+/sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3910,7 +3910,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialNet.
+/socialnet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -3951,7 +3951,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4199,7 +4199,7 @@
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -9013,6 +9013,7 @@ _youtube-button.
 ||gaxmdcfkxygs.com^
 ||gazogsjsoxty.com^
 ||gbakhtzvoguz.com^
+||gbbtziazhn.com^
 ||gbddkzbtczkw.bid^
 ||gbdqimygbobtih.bid^
 ||gbdxxsjzrechci.bid^
@@ -13157,6 +13158,7 @@ _youtube-button.
 ||tweetmeme.com^$third-party
 ||tweetriver.com^$third-party
 ||tweetup.com^$third-party
+||twfzouvm.com^
 ||twhsmftwybkfn.bid^
 ||twitbuttons.com^$third-party
 ||twitcker.com^$third-party
@@ -15225,7 +15227,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -17346,7 +17348,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieConsent.js
+cookieconsent.js
 cookieconsent.min.js
 -cookie-consent/
 cookieDisclaimer.js
@@ -27731,7 +27733,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29496,4 +29498,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.7.1 (Tuesday, 20 February 2018 12:29:22 PM AEST)
+! End of Customized All-in-One Adblock List 0.7.2 (Tuesday, 20 February 2018 3:46:36 PM AEST)
