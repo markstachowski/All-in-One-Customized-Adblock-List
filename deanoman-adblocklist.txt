@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Wednesday, 21 February 2018 9:03:43 PM AEST
-! Version: 0.7.7
+! Last Modified: Thursday, 22 February 2018 9:44:05 AM AEST
+! Version: 0.7.8
 ! Build: Excited Egret
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1196,8 +1196,6 @@
 /crowdbooster-
 /crowdbooster_
 /cryptocpu.js
-/crypto-js.js
-/crypto-js.min.js
 /cryptonight.wasm
 /cryptonight-worker.
 /cryptonoter.
@@ -1567,7 +1565,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/fbicon.
+/FBicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -7258,6 +7256,7 @@ _youtube-button.
 ||awjgketgdpzqxo.bid^
 ||awjkbnhylulcl.bid^
 ||awogbtinorwx.com^
+||awrspmpj.com^
 ||awxjpkxoqfwaj.bid^
 ||axaggthnkquj.com^
 ||axbpixbcucv.bid^
@@ -7804,6 +7803,7 @@ _youtube-button.
 ||cewviaslxyyr.com^
 ||cfdmkifknsjt.com^
 ||cfsdtzggpcmr.com^
+||cfyvrgvopaejx.com^
 ||cgbemyws.bid^
 ||cgdvsvczduzq.bid^
 ||cgjyesqhxzzm.com^
@@ -10220,6 +10220,7 @@ _youtube-button.
 ||kmglqqaeqh.bid^
 ||kmib.co.kr/cp/realclick/
 ||kmiobghwsc.bid^
+||kmkweqtfjw.com^
 ||kmqlirdx.bid^
 ||kmuvzufk.com^
 ||kmuxsbdjxsjqe.com^
@@ -11059,6 +11060,7 @@ _youtube-button.
 ||ncdxfwxijazn.com^
 ||nceuiwtnpyuqtn.bid^
 ||ncjjybttngffe.com^
+||ncouqiwjjaot.com^
 ||ncsirrabtlant.bid^
 ||ncspvnslmmbv.com^
 ||ndemlviibdyc.com^
@@ -11315,6 +11317,7 @@ _youtube-button.
 ||oalicqudnfhf.com^
 ||oann.com^$third-party,popup
 ||oaogilidstvm.bid^
+||oaqwxxjhwpyxjd.com^
 ||oathkeepers.org^$third-party,popup
 ||oaxwtgfhsxod.com^
 ||obhkbdiwl.bid^
@@ -13618,6 +13621,7 @@ _youtube-button.
 ||vqfksrwnxodc.com^
 ||vqfplemoftllvm.bid^
 ||vqirfafd.bid^
+||vqmqhkjfbksda.com^
 ||vqozayvwb.bid^
 ||vqtjeddutdix.com^
 ||vqvnavwaxiizc.bid^
@@ -13766,6 +13770,7 @@ _youtube-button.
 ||weibo.com/staticjs/weiboshare.html$third-party
 ||wellingtonnews.tk^$third-party,popup
 ||welzgxwtvto.bid^
+||wembbuue.com^
 ||wenqyczxgpoyu.bid^
 ||weogkfxrkgyezq.bid^
 ||weqpkntrxqzh.com^
@@ -13988,6 +13993,7 @@ _youtube-button.
 ||wykop.pl/dataprovider/diggerwidget/$third-party
 ||wyksoovox.bid^
 ||wypyocogs.bid^
+||wyueivwashc.com^
 ||wzadmmddcmml.com^
 ||wzagwfcfh.bid^
 ||wzcjtatqi.bid^
@@ -29634,4 +29640,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.7.7 (Wednesday, 21 February 2018 9:03:43 PM AEST)
+! End of Customized All-in-One Adblock List 0.7.8 (Thursday, 22 February 2018 9:44:05 AM AEST)
