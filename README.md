@@ -12,7 +12,7 @@ Tested in uBlock Origin for Google Chrome, Firefox and Edge; it should work just
 fine in any decent adblocker that supports Adblock Plus 2.0 formatted lists.
     
 It includes customized entries that block particularly annoying page elements.
-It is actively maintained (updates daily), has no duplicates, is sorted alphabetically
+It is actively maintained (updates every 3 hours), has no duplicates, is sorted alphabetically
 and is saved in UTF-8 format. Have fun :D
 
 **(VITAL:)**
