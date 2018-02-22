@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Thursday, 22 February 2018 3:02:53 PM AEST
-! Version: 0.7.10
+! Last Modified: Thursday, 22 February 2018 5:37:17 PM AEST
+! Version: 0.7.11
 ! Build: Excited Egret
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1130,7 +1130,7 @@
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/CookiesDirective
+/cookiesdirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -3490,7 +3490,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3950,7 +3950,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4198,7 +4198,7 @@
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -11974,6 +11974,7 @@ _youtube-button.
 ||qgjllgijf.bid^
 ||qgmrchjuqro.bid^
 ||qgraprebabxo.com^
+||qgtbxtex.com^
 ||qguirbzulwmdm.bid^
 ||qhiupkza.bid^
 ||qhlwqzntlwvbf.bid^
@@ -13695,6 +13696,7 @@ _youtube-button.
 ||vxbtrsqjnjpq.com^
 ||vxlpefsjnmws.com^
 ||vxqhchlyijwu.com^
+||vxumimuhg.com^
 ||vxuradoiwrwqga.bid^
 ||vybsiseapra.bid^
 ||vyeesric.bid^
@@ -15734,7 +15736,7 @@ autokennzeichen.info###cmsg
 autoklicecz.cz###cookiesI
 autoline.co.no##.share
 autoline.com.pl##.share
-autoline-az.com,autoline-eu.kz,autoline-eu.ru,autoline-ge.com,autoline-ru.ee,autoline-ru.lt,autoline-ru.lv,autoline-tm.com,autoline.by,autoline.com.ua,autoline.kg,autoline.md,autoline.tj,autoline.ua,autoline.uz##.share
+autoline-az.com,autoline-eu.kz,autoline-eu.ru,autoline-ge.com,autoline-ru.ee,autoline-ru.lt,autoline-ru.lv,autoline-tm.com,autoline.by,autoline.com.ua,autoline.kg,autoline.md,autoline.tj,autoline.ua,autoline.uz,mail.ru##.share
 autoline-br.com,autoline-market.cl,autoline.bo,autoline.com.py,autoline.es,autoline.pe,autoline.pt,elperiodico.cat,elperiodico.com,hispantv.com##.share
 autolineeliscio.it###privacy, .privacy, #mainPrivacyDiv, .privacyTop, #privacy-info, .privacy-top, .privacy-overlay, .privacypolicy, #privacy-notification, #inf_privacy, #privacypolicycontainer
 autoline-eu.at,autoline-eu.ch,autoline.de,autoline.li,nachrichten.it,radiotirol.it,suedtirol1.it,welt.de##.share
@@ -27876,7 +27878,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29647,4 +29649,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.7.10 (Thursday, 22 February 2018 3:02:53 PM AEST)
+! End of Customized All-in-One Adblock List 0.7.11 (Thursday, 22 February 2018 5:37:17 PM AEST)
