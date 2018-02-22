@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Friday, 23 February 2018 12:22:13 AM AEST
-! Version: 0.8.1
+! Last Modified: Friday, 23 February 2018 9:44:35 AM AEST
+! Version: 0.8.2
 ! Build: Excited Egret
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1565,7 +1565,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/fbicon.
+/FBicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3950,7 +3950,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialsharecount.
+/socialShareCount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4198,7 +4198,7 @@
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4425,7 +4425,7 @@
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -4959,6 +4959,7 @@
 @@||bankrate.com^$third-party
 @@||barclays.co.uk/js/cookiepolicy.js
 @@||battleforthenet.com/images/logos/$domain=battleforthenet.com
+@@||bazaarvoice.com^$third-party
 @@||bbb.org^$third-party
 @@||bbc.co.uk^$third-party
 @@||bbci.co.uk^$third-party
@@ -5498,6 +5499,7 @@
 @@||krxd.net^$script,domain=foxnews.com
 @@||ktu.sv2.biz/sv3/advertisement.js
 @@||kw.cx^*/connector_facebook.png$domain=kwick.de
+@@||kxcdn.com^$third-party
 @@||l.ooyala.com^$third-party
 @@||l.yimg.com/zz/combo?*social
 @@||labs.google.com^$third-party
@@ -5956,6 +5958,7 @@
 @@||tegna-media.com^$third-party
 @@||tegna-tv.com^*/googleplus-user-account.js
 @@||telia.se/tse/js/socialmedia/
+@@||textalk.se^$third-party
 @@||theinterview-movie.com/images/btn_youtube.png
 @@||themobileplaybook.com/assets-v2/images/google-mobile-playbook*.png
 @@||themobileplaybook.com/assets-v2/images/share.png
@@ -8546,6 +8549,7 @@ _youtube-button.
 ||ekgmjxjyfzzd.com^
 ||ekhgvpsfrwqm.com^
 ||ekiickqfxqtp.bid^
+||ekiytcllwboe.com^
 ||ekmunhjbh.bid^
 ||ekzstfriawl.bid^
 ||electronista.com/article_newsletter.php
@@ -9143,6 +9147,7 @@ _youtube-button.
 ||gkeahnmvduys.com^
 ||gkhubwgeber.bid^
 ||gkiqfnjtwmj.bid^
+||gkiqlocbirh.com^
 ||gkmaclyrj.bid^
 ||gkrvjofbhdvo.bid^
 ||gkvegijnhienmq.bid^
@@ -9525,6 +9530,7 @@ _youtube-button.
 ||htldvsrwwx.bid^
 ||htnzwuvgphjwqc.bid^
 ||htonrwegnifw.com^
+||htpkxpgbprpklc.com^
 ||htrprrrtrwrc.com^
 ||httftlckaxj.com^
 ||htyazxwc.com^
@@ -9957,6 +9963,7 @@ _youtube-button.
 ||jjyovwimoydq.com^
 ||jkfgdkesrpx.bid^
 ||jkiicqewzn.com^
+||jkiwvfgrsythrw.com^
 ||jkjoxlhkwnxd.com^
 ||jkjwifmep.com^
 ||jkoiwpjk.bid^
@@ -10963,6 +10970,7 @@ _youtube-button.
 ||mtbnqoixmb.com^
 ||mtbpqzke.bid^
 ||mtbsdhzpikjt.com^
+||mtklywkg.com^
 ||mtlieuvyoikf.com^
 ||mtnysmosgmp.bid^
 ||mtpjldykpuhnmg.bid^
@@ -11437,6 +11445,7 @@ _youtube-button.
 ||olpvmzxadjwgk.com^
 ||olthlikechgq.com^
 ||olwopczjfkng.com^
+||olxeziuke.com^
 ||omarsys.com^
 ||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js
 ||omnitagjs.com^
@@ -17425,7 +17434,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieConsent.js
+cookieconsent.js
 cookieconsent.min.js
 -cookie-consent/
 cookieDisclaimer.js
@@ -22335,7 +22344,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#minor_view_middle
+m.dcinside.com##div#Minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -25248,6 +25257,7 @@ polskiprawnik.pl##.reveal-modal-bg, #popup3
 polygon.com###chorus_notifiations
 polygon.com##.m-entry__controls
 polygon.com##.polygon_social
+poncy.ru###hide-adblock
 popdust.com###follow-popdust
 popdust.com##.modal-close
 popdust.com##.modal-image
@@ -29655,4 +29665,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.8.1 (Friday, 23 February 2018 12:22:13 AM AEST)
+! End of Customized All-in-One Adblock List 0.8.2 (Friday, 23 February 2018 9:44:35 AM AEST)
