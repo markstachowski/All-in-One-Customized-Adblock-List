@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Thursday, 22 February 2018 12:20:38 PM AEST
-! Version: 0.7.9
+! Last Modified: Thursday, 22 February 2018 3:02:53 PM AEST
+! Version: 0.7.10
 ! Build: Excited Egret
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1130,7 +1130,7 @@
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1903,6 +1903,7 @@
 /googletaganalytics.
 /googletagmanager/*
 /googletagservices/*
+/goToTop.
 /gourmetads-
 /gp_top.
 /gplus.gif
@@ -3489,7 +3490,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/Sharefb.
+/sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3908,7 +3909,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialNet.
+/socialnet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -7497,6 +7498,7 @@ _youtube-button.
 ||blyppvdjofkqg.bid^
 ||bmalhekpohve.bid^
 ||bmirhdkborr.bid^
+||bmmqsdyud.com^
 ||bmnccwprdrszpj.bid^
 ||bmsmhlpkdvajeo.bid^
 ||bmvhefgdlt.bid^
@@ -8333,6 +8335,7 @@ _youtube-button.
 ||dnqejgrbtlxe.com^
 ||dntlpwpjwcfu.com^
 ||dnvndngbn.bid^
+||dodahirwudrhv.com^
 ||dodegomxh.bid^
 ||dodwnkpzaned.com^
 ||dohhehsgnxfl.com^
@@ -14912,7 +14915,7 @@ acuvue.it###announcement
 adage.com###fl_menu
 adamequipment.com###fl_menu
 adams.es###overbox3
-add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,boscolohotels.com,boxnation.com,flexerasoftware.com,fremantlemedia.com,iadvize.com,keyboardco.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,priorygroup.com,rodacciai.fr,technutty.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,wheatley-group.com###cookie
+add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,boscolohotels.com,boxnation.com,flexerasoftware.com,fremantlemedia.com,iadvize.com,keyboardco.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,priorygroup.com,rodacciai.fr,technutty.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,wheatley-group.com###cookie
 addevent.com
 addictinginfo.org#@#A[href^="http://addictinginfo.org"]
 addictinginfo.org#@#A[href^="http://www.addictinginfo.org"]
@@ -15091,7 +15094,7 @@ alarabiya.net##.floating-left
 alarabiya.net##.frame-fb
 alarabiya.net##.img-caption-facebook-container
 alarabiya.net##.under-link-objects
-alarabiya.net,gasoline-station.com,sammobile.com##.cd-top
+alarabiya.net,gasoline-station.com,sammobile.com,wifi.id##.cd-top
 alarabiya.net,independent.ie###teaser
 alatest.de##.identity-noticebar-content
 alatest.it##.identity-noticebar-content
@@ -17415,7 +17418,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieConsent.js
+cookieconsent.js
 cookieconsent.min.js
 -cookie-consent/
 cookieDisclaimer.js
@@ -23626,6 +23629,7 @@ mtlblog.com###CoverPop-cover
 mtlblog.com##.clip-sharing-social-wrapper
 mtlblog.com##.social-share-bar
 mtm-info.pl###etisoA
+mtn.co.za##.Toast
 mtom-mag.com###alert_trk
 mtsmarkets.com###headerDropDownPanel
 mtv.com###balaMainContainer
@@ -24484,7 +24488,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -26026,7 +26030,6 @@ sammic.fr##.noty_bar
 sammobile.com###backgroundFade
 sammobile.com###promotionalLightbox
 sammobile.com##.samPromoBox
-samsclub.com##.goToTop
 samsung.com##.gb-gnb__notice-bar
 samsung.com#@#.cookiewarning
 samsung.com#@#.cookie-warning
@@ -27339,6 +27342,7 @@ teenvogue.com##.riser
 tekaskiforum.net###footer_message
 tekrevue.com##div.header-ad
 tekstowo.pl###ci-info-box
+telcel.com##.up_button
 tele.fi##.attention-notice
 tele2.nl###targetedPopupFrame
 telefonoassistenza.net###window
@@ -27872,7 +27876,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -28557,6 +28561,7 @@ veeam.com##.header-component__messages-overlay
 veetle.com###lightboxEmail
 veetle.com###lightboxExport
 veetle.com###lightboxGetApp
+vegasinsider.com###twitter-container
 vegetus.nl###tracking
 vende-tu-movil.com###qtip-growl-container
 venetobanca.it##.popup-view.yui3-widget.yui3-widget-positioned
@@ -29642,4 +29647,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.7.9 (Thursday, 22 February 2018 12:20:38 PM AEST)
+! End of Customized All-in-One Adblock List 0.7.10 (Thursday, 22 February 2018 3:02:53 PM AEST)
