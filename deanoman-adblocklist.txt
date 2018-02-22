@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Thursday, 22 February 2018 5:37:17 PM AEST
-! Version: 0.7.11
+! Last Modified: Thursday, 22 February 2018 9:19:03 PM AEST
+! Version: 0.7.12
 ! Build: Excited Egret
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1565,7 +1565,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3909,7 +3909,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialnet.
+/socialNet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -3950,7 +3950,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialsharecount.
+/socialShareCount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4031,7 +4031,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4198,7 +4198,7 @@
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4425,7 +4425,7 @@
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -5581,6 +5581,7 @@
 @@||modernnotion.com^*/EmailShare.min.js
 @@||modernnotion.com^*/FacebookShare.min.js
 @@||modernnotion.com^*/SocialLinks.min.js
+@@||monetate.net^$script,domain=oakley.com
 @@||moneymorning.com/wp-content/plugins/mm-social-share/$stylesheet
 @@||moto.com/wp-content/uploads/*-Social_$image,domain=moto.com
 @@||mozilla.net^$third-party
@@ -8472,6 +8473,7 @@ _youtube-button.
 ||ecflhhxp.bid^
 ||economy.hankooki.com/ad/
 ||ectbduztanog.com^
+||ecvladelayk.com^
 ||ecxtuyttpfe.bid^
 ||edaily.co.kr/adview/
 ||edgecastcdn.net/0004FA/tagman/WAIT/lib.js^
@@ -14521,6 +14523,7 @@ _youtube-button.
 ||zprrfpczfpnh.com^
 ||zpwqekgztngd.bid^
 ||zpznbracwdai.com^
+||zpzsdmpvqudhsz.com^
 ||zqbjcsodjiz.bid^
 ||zqddlgcrxjmwbz.bid^
 ||zqijyjktaxc.bid^
@@ -15285,7 +15288,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -17779,6 +17782,7 @@ dailymail.co.uk##.vjs-social-icon
 dailymail.co.uk##.whatsapp
 dailymail.co.uk##div.billboard_wrapper
 dailymail.co.uk##div.trc-content-sponsored
+dailymail.co.uk##div[class^="floater"]
 dailymail.co.uk##div[class^="socialContainer-"]
 dailymail.co.uk##div[data-adverts-ad]
 dailymail.co.uk##ul[class^="linksHolder-"]
@@ -22329,7 +22333,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#minor_view_middle
+m.dcinside.com##div#Minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -29649,4 +29653,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.7.11 (Thursday, 22 February 2018 5:37:17 PM AEST)
+! End of Customized All-in-One Adblock List 0.7.12 (Thursday, 22 February 2018 9:19:03 PM AEST)
