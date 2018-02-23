@@ -1,7 +1,7 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Friday, 23 February 2018 9:45:25 PM AEST
+! Last Modified: Saturday, 24 February 2018 9:42:36 AM AEST
 ! Version: 0.8.6
 ! Build: Excited Egret
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1566,7 +1566,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3491,7 +3491,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/Sharefb.
+/sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -4032,7 +4032,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4426,7 +4426,7 @@
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -9422,6 +9422,7 @@ _youtube-button.
 ||hgzopbyhidre.com^
 ||hgztvnjbsrki.com^
 ||hhdbbixxs.bid^
+||hhfgemuvmyq.com^
 ||hhnamywutsvovm.bid^
 ||hhnvtfiiitzf.bid^
 ||hhshbknewaikmj.bid^
@@ -10314,6 +10315,7 @@ _youtube-button.
 ||kuqixxjguc.bid^
 ||kuqylnamtv.bid^
 ||kutlvuitevgw.com^
+||kuwogsiplp.com^
 ||kvadaiwjwxdp.com^
 ||kvajiszer.bid^
 ||kvcymnoxr.com^
@@ -11554,6 +11556,7 @@ _youtube-button.
 ||outlook.live.com/owa/service.svc?action=LogDatapoint
 ||ouvhowyqhacec.bid^
 ||ouvtjehb.bid^
+||ovchjqpdh.com^
 ||ovcksawwem.com^
 ||ovfbwavekglf.com^
 ||ovoczhahelca.com^
@@ -13124,6 +13127,7 @@ _youtube-button.
 ||tpnphooeqg.bid^
 ||tpueomljcrvy.com^
 ||tpzukfqaqyxn.bid^
+||tqcxtxglt.com^
 ||tqdarrhactqc.com^
 ||tqssctwtiihwfs.bid^
 ||tqtoeonkw.bid^
@@ -13196,6 +13200,7 @@ _youtube-button.
 ||turnsocial.com^$third-party
 ||turyvfzreolc.com^
 ||tutorvista.com/iframe_container/
+||tuxzictbrqietq.com^
 ||tuzutvisi.com^
 ||tuzyaezlaoju.bid^
 ||tv.sbs.co.kr/common/common_ad.jsp^
@@ -15310,7 +15315,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -16260,6 +16265,7 @@ blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
 blogjob.com##.r1sp--toolbar
 -blog-rss.
 blogs.avg.com###fb-bg
+blogs.bing.com#@#.cc-container
 blogs.cnn.com###cnn_text-3
 blogs.dhnet.be##a[target="_blank"][href^="https://www.facebook.com/pages/"] > img
 blogs.skype.com##.superbar
@@ -22357,7 +22363,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -29678,4 +29684,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.8.6 (Friday, 23 February 2018 9:45:25 PM AEST)
+! End of Customized All-in-One Adblock List 0.8.6 (Saturday, 24 February 2018 9:42:36 AM AEST)
