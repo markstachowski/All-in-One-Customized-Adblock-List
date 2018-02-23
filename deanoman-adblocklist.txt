@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Friday, 23 February 2018 7:03:45 PM AEST
-! Version: 0.8.5
+! Last Modified: Friday, 23 February 2018 9:45:25 PM AEST
+! Version: 0.8.6
 ! Build: Excited Egret
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1566,7 +1566,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/fbicon.
+/FBicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3910,7 +3910,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialNet.
+/socialnet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -4032,7 +4032,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -7281,6 +7281,7 @@ _youtube-button.
 ||ayozhcgcsyun.com^
 ||azditojzcdkc.com^
 ||azfmulmqcz.bid^
+||azhdgruuvllzxg.com^
 ||azkvcgzjsrmk.com^
 ||azlbmpidrvnoi.bid^
 ||azqmmfhmfnpsvb.bid^
@@ -11095,6 +11096,7 @@ _youtube-button.
 ||ndtlcaudedxz.com^
 ||ndtv.com/popupNotification.aspx
 ||ndxidnvvyvwx.com^
+||neaozrrjd.com^
 ||nebabrop.com^$third-party
 ||neddwrmmced.bid^
 ||nedmppiilnld.com^
@@ -17443,7 +17445,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieconsent.js
+cookieConsent.js
 cookieconsent.min.js
 -cookie-consent/
 cookieDisclaimer.js
@@ -21019,6 +21021,8 @@ indyweek.com##div[style="float:left;padding-left:10px;word-spacing:3px;"]
 inelenco.com###hid
 ineolab.fr###cookie-notice
 inews.co.uk###jpsp_widgetpop-3
+inews.co.uk##.widget_jpsp_widget
+inews.co.uk##.widget-cta--newspaper
 infiniti.co.uk##body > .c_128
 infiniti.de##body > .c_128
 infiniti.fr##body > .c_128
@@ -24514,7 +24518,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.sharetools
+nytimes.com#@#.shareTools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -27903,7 +27907,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29674,4 +29678,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.8.5 (Friday, 23 February 2018 7:03:45 PM AEST)
+! End of Customized All-in-One Adblock List 0.8.6 (Friday, 23 February 2018 9:45:25 PM AEST)
