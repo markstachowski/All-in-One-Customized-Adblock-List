@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Sunday, 25 February 2018 3:00:01 AM AEST
-! Version: 0.9.13
+! Last Modified: Sunday, 25 February 2018 6:00:00 AM AEST
+! Version: 0.9.14
 ! Build: Frantic Fossa
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1566,7 +1566,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/fbicon.
+/FBicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3954,7 +3954,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialsharecount.
+/socialShareCount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4035,7 +4035,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -13844,6 +13844,7 @@ _youtube-button.
 ||whkwbllcctfm.com^
 ||whsldqctrvuk.com^
 ||whuvrlmzyvzy.com^
+||whxhegjrqlddko.com^
 ||whyawcjjcoexo.bid^
 ||wibbitz.com^$domain=dallasobserver.com
 ||wibvytsxrm.bid^
@@ -15326,7 +15327,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -22374,7 +22375,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -27925,7 +27926,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29696,4 +29697,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.9.13 (Sunday, 25 February 2018 3:00:01 AM AEST)
+! End of Customized All-in-One Adblock List 0.9.14 (Sunday, 25 February 2018 6:00:00 AM AEST)
