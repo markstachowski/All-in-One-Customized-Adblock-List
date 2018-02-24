@@ -1,7 +1,7 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Saturday, 24 February 2018 3:07:58 PM AEST
+! Last Modified: Saturday, 24 February 2018 3:14:00 PM AEST
 ! Version: 0.8.9
 ! Build: Excited Egret
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -1819,6 +1819,7 @@
 /gettrackingcode?
 /gettrackpixel?
 /get-tweets.
+/getviews2.asp?url=$xmlhttprequest
 /getxmlad?
 /gfx/socials/*
 /gg-share.
@@ -3163,6 +3164,8 @@
 /poweredbypg_
 /poweredbytintsmall.
 /poweredbytsc.
+/prebid.$script
+/prebid/*
 /predictivetextsearch.
 /printarest.
 /privacycookie/*
@@ -4804,6 +4807,7 @@
 @@/js/analytics/*$domain=ebates.com
 @@/noadblock-nice-message/assets/js/ads.js?$script,~third-party
 @@/piwik.$script,domain=myuv.com
+@@/prebid.$script,domain=bodybuilding.com
 @@/pubads_$script,domain=threenow.co.nz
 @@/rutorrent/plugins/rss/*$image,~third-party
 @@/share-sprite-$domain=askubuntu.com|mathoverflow.net|serverfault.com|stackapps.com|stackexchange.com|stackoverflow.com|superuser.com
@@ -12188,6 +12192,7 @@ _youtube-button.
 ||rdmccvanlx.bid^
 ||rdqyasdstllr.com^
 ||rdwfotuyp.bid^
+||reachms.bfmio.com^$xmlhttprequest
 ||readability.com/embed.js$third-party
 ||readrboard.com^$third-party
 ||realdsp.realclick.co.kr/real_ad_dsp.html^
@@ -17452,7 +17457,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieConsent.js
+cookieconsent.js
 cookieconsent.min.js
 -cookie-consent/
 cookieDisclaimer.js
@@ -22364,7 +22369,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#minor_view_middle
+m.dcinside.com##div#Minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -24525,7 +24530,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -29685,4 +29690,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.8.9 (Saturday, 24 February 2018 3:07:58 PM AEST)
+! End of Customized All-in-One Adblock List 0.8.9 (Saturday, 24 February 2018 3:14:00 PM AEST)
