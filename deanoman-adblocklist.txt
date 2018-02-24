@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Sunday, 25 February 2018 6:00:00 AM AEST
-! Version: 0.9.14
+! Last Modified: Sunday, 25 February 2018 9:00:00 AM AEST
+! Version: 0.9.15
 ! Build: Frantic Fossa
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -3494,7 +3494,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/Sharefb.
+/sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3913,7 +3913,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialNet.
+/socialnet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -4035,7 +4035,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4202,7 +4202,7 @@
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -9704,6 +9704,7 @@ _youtube-button.
 ||ilbe.com/m.layouts/default_modify/mobileTopAd.js^$domain=ilbe.com
 ||ilbe.com/myads/openX_passback*.html^$domain=ilbe.com
 ||ilikeview.com/aclk^
+||illizuqkdqjobt.com^
 ||ilrxikdjozlk.com^
 ||ilvibsabwuza.com^
 ||im.obel.kr/file/
@@ -12334,6 +12335,7 @@ _youtube-button.
 ||rokt.com^$third-party
 ||roljcubvx.bid^
 ||romksuecd.bid^
+||ronrmbrrhqdwh.com^
 ||roost.me^$third-party
 ||roppccqbzvizrd.bid^
 ||roqtynlfysu.bid^
@@ -29697,4 +29699,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.9.14 (Sunday, 25 February 2018 6:00:00 AM AEST)
+! End of Customized All-in-One Adblock List 0.9.15 (Sunday, 25 February 2018 9:00:00 AM AEST)
