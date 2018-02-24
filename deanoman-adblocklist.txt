@@ -1,7 +1,7 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Saturday, 24 February 2018 3:14:00 PM AEST
+! Last Modified: Saturday, 24 February 2018 3:16:18 PM AEST
 ! Version: 0.8.9
 ! Build: Excited Egret
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
@@ -29690,4 +29690,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.8.9 (Saturday, 24 February 2018 3:14:00 PM AEST)
+! End of Customized All-in-One Adblock List 0.8.9 (Saturday, 24 February 2018 3:16:18 PM AEST)
