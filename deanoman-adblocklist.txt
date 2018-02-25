@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Monday, 26 February 2018 12:00:01 AM AEST
-! Version: 0.9.22
+! Last Modified: Monday, 26 February 2018 3:00:00 AM AEST
+! Version: 0.9.23
 ! Build: Frantic Fossa
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -45,8 +45,8 @@
 ! * You's List (Chayoung You) [Blocks even more ads.] - https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 ! * YouTube: Pure Video Experience (EasyList) [Blocks all YouTube annoyances.] - https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt
 !
-$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|akvideo.stream|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|tvad.me|vidup.me|lewd.ninja|love-drama.pl|alltube.tv
-$xmlhttprequest,domain=alltube.tv|powvideo.net|vidfile.net
+$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|akvideo.stream|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|tvad.me|vidup.me|lewd.ninja|love-drama.pl|alltube.tv
+$xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 &activate_counter=
 &ad_ids=
 &ad_key=
@@ -353,7 +353,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|vidfile.net
 /\/([0-9]|[a-z]|analytics?|atrk|hit|log|njs|ping|pix|px|stat|track(ers?|ing)?|visitor)\.gif\?/
 /\/(aol|digg|face[-_]?book|flickr|g(oogle)?[-_]?plus|google(\+)?|instagram|jiathis|linked[-_]?in|myspace|newsvine|pinterest|reddit|rss|stumble[-_]?upon|technorati|tumblr|twitter|vimeo|vkontakte|whatsapp|yahoo|you[-_]?tube)([-_][0-9][0-9])?\.(bmp|gif|jpe?g|png|svg|webp)/
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co
-/^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net
+/^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|szukajka.tv|vidfile.net
 /__cookie_js.php
 /__utm.gif
 /_sharrre.php?
@@ -1131,7 +1131,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|vidfile.net
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1567,7 +1567,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|vidfile.net
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/fbicon.
+/FBicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -4035,7 +4035,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|vidfile.net
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4202,7 +4202,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -7276,6 +7276,7 @@ _youtube-button.
 ||axhkxqmrqxf.bid^
 ||axjnnlrc.bid^
 ||axkiznybznfa.bid^
+||axoncoho.tk^$third-party
 ||ayboll.com^
 ||ayhdwulehfdwn.com^
 ||ayjebauqdrys.com^
@@ -8239,6 +8240,7 @@ _youtube-button.
 ||demdex.net^
 ||deouvnqbgflv.com^
 ||deployads.com^
+||depttake.ga^$third-party
 ||deqrdwsjlpjz.com^
 ||derpqpyvym.bid^
 ||deusm.com/informationweek/editor-*.png$domain=informationweek.com
@@ -8908,6 +8910,7 @@ _youtube-button.
 ||flipboard.com/web/buttons/$third-party
 ||flix360.com^
 ||flooaiaubf.bid^
+||flophous.cf^$third-party
 ||fls-*.amazon.
 ||fluidsurveys.com^$third-party
 ||flux.com^
@@ -9949,6 +9952,7 @@ _youtube-button.
 ||jfvoyuxmp.bid^
 ||jfwfnxsdzhvxax.bid^
 ||jfxiirxbl.bid^
+||jfxjpswhcwwq.com^
 ||jgophcykrckik.com^
 ||jgrcggutsilp.com^
 ||jgtnayftk.bid^
@@ -15338,7 +15342,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -17478,7 +17482,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieconsent.js
+cookieConsent.js
 cookieconsent.min.js
 cookieDisclaimer.js
 -cookie-filter/$script
@@ -22393,7 +22397,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#minor_view_middle
+m.dcinside.com##div#Minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -24558,7 +24562,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -29717,4 +29721,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.9.22 (Monday, 26 February 2018 12:00:01 AM AEST)
+! End of Customized All-in-One Adblock List 0.9.23 (Monday, 26 February 2018 3:00:00 AM AEST)
