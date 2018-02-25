@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Sunday, 25 February 2018 3:10:45 PM AEST
-! Version: 0.9.19
+! Last Modified: Sunday, 25 February 2018 6:00:01 PM AEST
+! Version: 0.9.20
 ! Build: Frantic Fossa
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1479,6 +1479,7 @@
 /facebooklike_
 /facebooklikebox/*
 /facebooklikebuttontracking.
+/facebook-link2.
 /facebookloader.
 /Facebook-Logo-
 /facebook-logo.
@@ -1565,7 +1566,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/fbicon.
+/FBicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -4428,7 +4429,7 @@
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -4451,6 +4452,7 @@
 /twitterjs/*
 /twitterlib.
 /twitter-link.
+/twitter-link1.
 /twitter-little-bird.
 /twitterloader.
 /twitterlogin.
@@ -13478,6 +13480,7 @@ _youtube-button.
 ||uzbciwrwzzhs.com^
 ||uzesptwcwwmt.com^
 ||uzkkocgdasr.bid^
+||uzmmpskwon.com^
 ||uzqtaxiorsev.com^
 ||uzsywcdthqplzv.bid^
 ||uzvjymcnwngwau.bid^
@@ -15331,7 +15334,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -22384,7 +22387,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -29707,4 +29710,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.9.19 (Sunday, 25 February 2018 3:10:45 PM AEST)
+! End of Customized All-in-One Adblock List 0.9.20 (Sunday, 25 February 2018 6:00:01 PM AEST)
