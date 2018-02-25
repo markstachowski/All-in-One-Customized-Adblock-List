@@ -1,7 +1,7 @@
 # All-in-One-Customized-Adblock-List
 
 Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/  
-Wiki/FAQs: https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki
+Wiki/FAQs: https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki  
 FilterLists Entry [search for "All-in-One Customized Adblock List", easy subscribe button]: https://filterlists.com
 
 **Description:**
