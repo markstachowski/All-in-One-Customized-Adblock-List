@@ -1,9 +1,9 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Monday, 26 February 2018 3:00:00 AM AEST
-! Version: 0.9.23
-! Build: Frantic Fossa
+! Last Modified: Monday, 26 February 2018 3:28:51 AM AEST
+! Version: 1.0.1
+! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
 ! Wiki and FAQs: https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki
@@ -1567,7 +1567,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3913,7 +3913,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialnet.
+/socialNet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -3954,7 +3954,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4035,7 +4035,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4202,7 +4202,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -15342,7 +15342,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -22397,7 +22397,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -22953,6 +22953,7 @@ martinerhof.at###cks_overlay
 marumaru.in##div#adpickAdBanner
 marumaru.in##div#responsive-banner
 marumaru.in##div#widget__insert_html
+marumaru.in##div.aside>div[style="width:198px;height:264px;margin-bottom:20px;position:relative;"]
 marumaru.in##div.mobfloat
 marykay.pl##.gigyaNotify
 marykay.sk##.gigyaNotify
@@ -27952,7 +27953,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -28948,6 +28949,7 @@ wapteka.pl##.coo
 wargaming.net##.b-resource
 wasabisyrup.com##div.article-gallery>div.article-gallery-group
 wasabisyrup.com##div.bottom-group>div.content-group
+wasabisyrup.com##div.pb_icon
 wasabisyrup.com##div.top-group>div.content-group
 wasabisyrup.com##section#main>div.tracking
 washingtonexaminer.com###dy_Article_Newsletter_Signups
@@ -29721,4 +29723,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.9.23 (Monday, 26 February 2018 3:00:00 AM AEST)
+! End of Customized All-in-One Adblock List 1.0.1 (Monday, 26 February 2018 3:28:51 AM AEST)
