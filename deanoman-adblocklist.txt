@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Sunday, 25 February 2018 12:00:01 PM AEST
-! Version: 0.9.16
+! Last Modified: Sunday, 25 February 2018 3:00:01 PM AEST
+! Version: 0.9.17
 ! Build: Frantic Fossa
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1565,7 +1565,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/fbicon.
+/FBicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3493,7 +3493,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3912,7 +3912,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialNet.
+/socialnet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -3953,7 +3953,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialsharecount.
+/socialShareCount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4201,7 +4201,7 @@
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -13903,6 +13903,7 @@ _youtube-button.
 ||wizard2.sbs.co.kr/w3/common/common_ad.jsp^
 ||wizejdnlqwcb.com^
 ||wjdjovjrxsqx.com^
+||wjkwjcmeymu.com^
 ||wjnkvhlgvixx.com^
 ||wkd.com.pl/cookies/cookies.js
 ||wkfcadtuljnesp.bid^
@@ -14556,6 +14557,7 @@ _youtube-button.
 ||zoomanalytics.co^$third-party
 ||zowhxkwzjpta.com^
 ||zpctncydojjh.com^
+||zpfjfwbij.com^
 ||zpkebyxabtsh.com^
 ||zpnbzxbiqann.com^
 ||zprlpkabqlth.com^
@@ -15329,7 +15331,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -16452,7 +16454,7 @@ bose.nl##.bose-infoBar2016--cookie
 bossini.it###bica
 bossip.com###bossipMobile
 bossip.com###bossip-newsletter-widget
-bossip.com,esquire.com,fansided.com,mp3juices.com,opensiteexplorer.org,saturn.de,winteriscoming.net##.gplus
+bossip.com,esquire.com,fansided.com,lastnighton.com,mp3juices.com,netflixlife.com,opensiteexplorer.org,saturn.de,winteriscoming.net##.gplus
 bossip.com,esquire.com,fashionmagazine.com,foxnews.com,upi.com##.pin
 bossip.com,foreigndesknews.com##.insta
 boss-nekretnine.hr###notice
@@ -19090,7 +19092,8 @@ fanexpocanada.com###top_bar
 fanfics.me##.red.nodata
 fanpop.com###trophy_display_div
 fanpop.com##.fp_panel
-fansided.com,netflixlife.com,winteriscoming.net##.sub-footer-container
+fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.fs-daily
+fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.sub-footer-container
 fansshare.com###galemail
 fansshare.com###hang-lh
 fansshare.com##div[style="width:192px;height:90px;float:left;padding-left:6px;"]
@@ -21230,6 +21233,8 @@ ipv6-test.com##.cc_banner.cc_container.cc_container--open
 ipvm.com##.promo_spacier
 iq-student-accommodation.com#@#.social_bar
 irishcentral.com###sidePromoBar
+irishexaminer.com##.emailupdates
+irishexaminer.com##.ri_container
 irishjobs.ie###cookies
 irishtimes.com###newsdigest-widget
 irishtimes.com##.floating_tab
@@ -24544,7 +24549,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.sharetools
+nytimes.com#@#.shareTools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -27933,7 +27938,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29190,7 +29195,6 @@ winfuture.de##body > div:not([id]):not([class])[style*="position"][style*="fixed
 winphonemetro.com##.c_i_container
 winrar.es###ckwarn
 winsornewton.com###PECR
-winteriscoming.net##.fs-daily
 wios.gov.pl##.a-footer
 wios.warszawa.pl##.JSWrapper
 wired.co.uk###footer-main
@@ -29703,4 +29707,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.9.16 (Sunday, 25 February 2018 12:00:01 PM AEST)
+! End of Customized All-in-One Adblock List 0.9.17 (Sunday, 25 February 2018 3:00:01 PM AEST)
