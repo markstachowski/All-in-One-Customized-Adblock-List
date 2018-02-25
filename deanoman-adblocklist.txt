@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Sunday, 25 February 2018 9:00:00 AM AEST
-! Version: 0.9.15
+! Last Modified: Sunday, 25 February 2018 12:00:01 PM AEST
+! Version: 0.9.16
 ! Build: Frantic Fossa
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1063,11 +1063,10 @@
 /cookiehint.
 /CookieInfo.
 /cookie-info.
-/cookieinfo/*$script
 /cookieInformerBooklet_
 /cookiejar/*
 /cookie-law-$~script
-/cookielaw.
+/cookielaw.$~stylesheet
 /cookielaw.js
 /cookie-law.js
 /cookielawinfo.
@@ -1131,7 +1130,7 @@
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1566,7 +1565,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3913,7 +3912,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialnet.
+/socialNet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -3954,7 +3953,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4035,7 +4034,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4827,6 +4826,7 @@
 @@/wp-content/plugins/super-socializer/js/front/facebook/sdk.js$~third-party
 @@/wp-content/plugins/super-socializer/js/front/social_login/*$~third-party
 @@/wp-content/plugins/wordpress-social-login/*$~third-party
+@@/zig_cookiepolicybar/*/CookieBar.js$script,~third-party
 @@_tracker.$script,domain=huffingtonpost.de
 @@_tracking.$script,domain=kohls.com|slideshare.net
 @@||112.2o7.net^$third-party
@@ -5748,7 +5748,6 @@
 @@||postimg.org^$third-party
 @@||powerreviews.com^$third-party
 @@||presse-algerie.net/js/ads.js$script
-@@||presse-citron.net/wordpress_prod/wp-content/plugins/uk-cookie-consent/$script
 @@||press-start.com^*/icon-google.png
 @@||press-start.com^*/images/facebook.png
 @@||pricegrabber.com^$third-party
@@ -5843,7 +5842,6 @@
 @@||search.yahoo.com^$third-party
 @@||seatme.yelp.com^$third-party
 @@||secondhandsongs.com/art/icons/youtube.png
-@@||secretflying.com/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js
 @@||secure.oneallcdn.com/img/api/socialize/gui/close_cross.png
 @@||secure5.arcot.com^$third-party
 @@||secure-cf-c.ooyala.com^$third-party
@@ -6149,7 +6147,6 @@
 @@||wwwimages.adobe.com^$third-party
 @@||wxc.com^$third-party
 @@||wxug.com^$third-party
-@@||xboxarcade.pl/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js
 @@||xda-developers.com^*/google-plus-login-small.png
 @@||xing-share.com/plugins/$script,stylesheet
 @@||xkcd.com/comics/$image,~third-party
@@ -8804,6 +8801,7 @@ _youtube-button.
 ||fastlane.rubiconproject.com/a/api/fastlane.json^
 ||fatayvywbebgdn.com^
 ||fawhiybzs.bid^
+||fbafbbujy.com^
 ||fbauhaozc.bid^
 ||fbbjlubvwmwd.com^
 ||fbcdn.net/connect.
@@ -13812,6 +13810,7 @@ _youtube-button.
 ||weckosoew.bid^
 ||weebly.com/*_signup.php$third-party
 ||weekwkbulvsy.com^
+||wegbgideb.com^
 ||wegotthiscovered.com/wp-content/themes/wgtc_v2/$script
 ||weheartit.com^$third-party
 ||wehtkuhlwsxy.com^
@@ -14922,6 +14921,7 @@ acara.cz##body > div:not([id]):not([class])
 acceptableads.org,battleforthenet.com,breakoutlist.com,easyicon.net,microsoft.com,rantlifestyle.com#@#img[alt="Reddit"]
 accessibilitacentristorici.it###htmlbox_div1
 accessorize.com##.deliver-container
+account.here.com,uktv.co.uk#@#.cookie-notice
 account.microsoft.com#@#.privacy-container
 accountingtoday.com###wrapper-ofie
 accountkiller.com#@#.social-image
@@ -15329,7 +15329,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -16166,6 +16166,9 @@ bitchmagazine.org,debka.com,esetindia.com,gizmag.com,mediamatters.org,ncregister
 bitchmagazine.org,dreadcentral.com###block-block-16
 bitchmagazine.org,esetindia.com##.jqmWindow
 bitcomputer.pl###pp
+bitfeed.co##.cookiebanner
+bitfeed.co##.widget-follow-us
+bitfeed.co,kitguru.net,thefreethoughtproject.com##.share-post
 bitly.com,framestr.com#@#.share-btn
 bitmarket24.pl##.notification, .Notification, .js-notification, .notifications-container, #notifications, #notification_1, #notification, #notification_area, .notifications, .notif-bar, .notificationBox
 bitpalast.net##.con
@@ -17465,9 +17468,8 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieConsent.js
+cookieconsent.js
 cookieconsent.min.js
--cookie-consent/
 cookieDisclaimer.js
 -cookie-filter/$script
 -CookieInfo.
@@ -19313,7 +19315,7 @@ flikflak.com##.message-container
 flipkart.com##.keep_in_touch
 flipkart.com##.pbo-sticky
 flitsers.nl###cc_overlay
-flooxer.com,metalomarao.pt##.cookies
+flooxer.com,metalomarao.pt,mountainbike.es##.cookies
 florajet.com##.p_cookie
 florexpol.eu###fancybox-wrap, #fancybox-overlay, #fancybox-loading, #fancybox-tmp, .fancybox-wrap, .fancybox-overlay
 floriantravel.com##.cookieatata
@@ -19548,6 +19550,7 @@ francetvinfo.fr##.follow
 francetvsport.fr,pourquoidocteur.fr###cboxOverlay
 francetvsport.fr,pourquoidocteur.fr###colorbox
 france-universite-numerique-mooc.fr###cookie-banner
+franziskaner-weissbier.de#@##accept-cookies
 franziskaner-weissbier.de#@#.accept-cookies
 frateindovino.eu##.cn-wrapper
 fratinardi.it##.wrapper > div[id*="cookie"]
@@ -21577,7 +21580,6 @@ kiplinger.com##div.kip-banner
 kiplinger.com##section.kip-advertisement
 kissvk.com###madBlockModal,.modal-backdrop
 kitacon.org#@#.scroll-top
-kitguru.net,thefreethoughtproject.com##.share-post
 kizlarsoruyor.com#@#.fb-content
 kk.org##[alt="Follow Me"]
 kk.org##[href="http://www.kk.org/follow-me.php "]
@@ -23440,6 +23442,7 @@ modhoster.com,mozillamessaging.com,pinterest.com#@#.facebook.icon
 modhoster.de##.cookie
 moebelix.at##.xxxlutzkarrierecenter-themeBoxCookieInfo
 moejackson.com###fixed-bar
+moemax.de,xxxlshop.de#@#.cookie-bar
 moensmeubelen.be##w-div
 moja-ostroleka.pl##div#reklama_top
 moja-ostroleka.pl##iframe[src^="https://www.moja-ostroleka.pl/uploads/banery/html5/"][src*="index.html"]
@@ -23529,6 +23532,7 @@ moovweb.net
 moreintelligentlife.com###block-block-13
 morewords.com##.coo
 morfix.co.il###morfixInstallTB_main
+morhipo.com###legal-alert
 morizon.pl,tweakers.net#@#.cookieBar
 morningstar.ca#@#.cc_container
 mortgagefit.com##div[style="float:left; width:340px;"]
@@ -23795,6 +23799,7 @@ myway.com##.cp-banner
 mywebook.com##.cui-coks
 mywot.com##.app-stripe
 mywot.com##.popup__container
+n11.com##.warningAlert
 n24.de##.google_interactivepos
 n26.com##footer ~ aside
 na.se###p_ciCont
@@ -24539,7 +24544,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -28395,7 +28400,6 @@ ukr.net##section.commercial-right-block
 uk-spares.com###toolbar
 uktaxcalculators.co.uk##body > p
 uktv.co.uk###back-to-old-site
-uktv.co.uk#@#.cookie-notice
 ukuleleorchestra.com###ewcm2_container
 ulabox.com##.alert--warn
 ulianavalerio.it##.alert-info, .alert-warning, .alert-box
@@ -28850,7 +28854,7 @@ voloweb.it###popupDivC
 volvo.com##.headerNotification
 volvotrucks.gr##.headerNotification
 volvotrucks.nl##.headerNotification
-vonovia.de##.content-module
+vonovia.de##.content-module.controller.partial
 vonvon.me##div.adbanner
 vonvon.me##div.vv-ad
 vonvon.me##vv-dfp-ad
@@ -29072,6 +29076,7 @@ weer.nl###more_content, #IR, #more_content *
 weespreventief.nl###popup
 weetabix.co.uk##.oCookie
 weetabixfoodcompany.co.uk##.oCookie
+wegeheld.org##.fixed-note
 wegetarianie.pl##td[align="center"][height="22"]
 wehkamp.nl###header > div[class*="Cookiebar"]
 weibo.com#@#.follow_box
@@ -29392,7 +29397,6 @@ xtube.com##.signupPanelAd
 xuletas.es###privacy_w
 xvideos.com###tabShare
 xvideos.com##.share-small
-xxxlshop.de#@#.cookie-bar
 xxxmilfpics.com##body > div:not([id]):not([class])
 xxxvogue.net##body > div:not([id]):not([class])
 yabiladi.com###fixed_rg, #fixed_rg_2
@@ -29699,4 +29703,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.9.15 (Sunday, 25 February 2018 9:00:00 AM AEST)
+! End of Customized All-in-One Adblock List 0.9.16 (Sunday, 25 February 2018 12:00:01 PM AEST)
