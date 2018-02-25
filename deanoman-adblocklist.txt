@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Sunday, 25 February 2018 9:00:00 PM AEST
-! Version: 0.9.21
+! Last Modified: Monday, 26 February 2018 12:00:01 AM AEST
+! Version: 0.9.22
 ! Build: Frantic Fossa
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -46,6 +46,7 @@
 ! * YouTube: Pure Video Experience (EasyList) [Blocks all YouTube annoyances.] - https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt
 !
 $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|akvideo.stream|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|tvad.me|vidup.me|lewd.ninja|love-drama.pl|alltube.tv
+$xmlhttprequest,domain=alltube.tv|powvideo.net|vidfile.net
 &activate_counter=
 &ad_ids=
 &ad_key=
@@ -1130,7 +1131,7 @@
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/CookiesDirective
+/cookiesdirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -2632,7 +2633,6 @@
 /lhnhelpouttab-current.min.js
 /li_share.
 /lib/crlt.js$script,third-party
-/lib/miner.js
 /liinkedInBtn.
 /like_bttn_
 /like_button.
@@ -3494,7 +3494,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/Sharefb.
+/sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3954,7 +3954,7 @@
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialsharecount.
+/socialShareCount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4035,7 +4035,7 @@
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4202,7 +4202,7 @@
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4429,7 +4429,7 @@
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -9878,6 +9878,7 @@ _youtube-button.
 ||ixsxgaegvplo.com^
 ||ixzhwyuxxvxb.com^
 ||ixznwuxokydz.com^
+||iygdvith.com^
 ||iyivpsxzgjcarv.bid^
 ||iyjukpbyzsxc.bid^
 ||iynfhmgte.bid^
@@ -10218,6 +10219,7 @@ _youtube-button.
 ||kiip.me^
 ||kiochlocj.bid^
 ||kipnobwbyz.bid^
+||kippbeak.cf^$third-party
 ||kissmetrics.com^
 ||kisvtclf.bid^
 ||kizpkvkdfm.bid^
@@ -10842,7 +10844,6 @@ _youtube-button.
 ||mine.torrent.pw^
 ||minemytraffic.com^$third-party
 ||miner.nablabee.com^
-||miner.nablabee.com^$third-party
 ||miner.pr0gramm.com^$third-party
 ||miner.pr0gramm.com^$websocket
 ||minero.pw^$third-party
@@ -11628,6 +11629,7 @@ _youtube-button.
 ||partnerads1.
 ||parts.blog.livedoor.jp/ad/$domain=blog.livedoor.jp
 ||paruvaubxwwz.bid^
+||pasoherb.gq^$third-party
 ||pastebin.com/i/t.gif$image
 ||patuarioahzaen.bid^
 ||payrfnvfofeq.com^
@@ -17476,7 +17478,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieConsent.js
+cookieconsent.js
 cookieconsent.min.js
 cookieDisclaimer.js
 -cookie-filter/$script
@@ -19595,7 +19597,7 @@ freshome.com###submit_newsletter
 freshtechweb.com##.widget_connect
 frichti.co##.notification--CNIL
 frivolausgehen.eu###hinweise
-frommers.com,hardees.com##.footer-icons
+frommers.com,hardees.com,lineageos.org##.footer-icons
 fromthegrapevine.com##.drk_overlay
 fromthegrapevine.com##.newsletter_modal
 frontdoor.com###article-icons
@@ -22391,7 +22393,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -24556,7 +24558,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.sharetools
+nytimes.com#@#.shareTools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -27946,7 +27948,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29715,4 +29717,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.9.21 (Sunday, 25 February 2018 9:00:00 PM AEST)
+! End of Customized All-in-One Adblock List 0.9.22 (Monday, 26 February 2018 12:00:01 AM AEST)
