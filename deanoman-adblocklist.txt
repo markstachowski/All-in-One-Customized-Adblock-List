@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Sunday, 25 February 2018 6:00:01 PM AEST
-! Version: 0.9.20
+! Last Modified: Sunday, 25 February 2018 9:00:00 PM AEST
+! Version: 0.9.21
 ! Build: Frantic Fossa
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1566,7 +1566,7 @@
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3494,7 +3494,7 @@
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3913,7 +3913,7 @@
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialNet.
+/socialnet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -4429,7 +4429,7 @@
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterFetcher_
+/twitterfetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -8713,6 +8713,7 @@ _youtube-button.
 ||eyeota.net^
 ||eyjuwcrnu.bid^
 ||eylyitpslpqu.com^
+||ezbbxqocxnto.com^
 ||ezbtpdjeimlv.com^
 ||ezdariijmdlg.bid^
 ||ezemyudhkzvx.com^
@@ -10452,6 +10453,7 @@ _youtube-button.
 ||licoxbkagivaf.bid^
 ||life.chosun.com/dhtm/rightBner.html^
 ||lifestreet.com^
+||ligabklr.com^
 ||ligatus.com^$third-party
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
@@ -15334,7 +15336,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -16871,6 +16873,7 @@ cbc.ca##.pinner
 cbc.ca##.quicklinks
 cbc.ca##.stayconnected
 cbfhydraulic.com,marasrl.it###ckInfo
+cbn.com##.view-display-id-blog_webform
 cbr.nl###vale
 cbronline.com###privacy_content
 cbs.com###ad-presented-by
@@ -17473,7 +17476,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieconsent.js
+cookieConsent.js
 cookieconsent.min.js
 cookieDisclaimer.js
 -cookie-filter/$script
@@ -19810,6 +19813,7 @@ geektyrant.com##.widgetMenu
 geekvida.es###bottom_container
 geekvida.it###bottom_container
 geekvida.pt###bottom_container
+geekwire.com###category-heading-subscribe
 geekwire.com##.enews
 geekwire.com##.widget_wpjb-featured-jobs
 geeky.io##.call-out
@@ -22387,7 +22391,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#minor_view_middle
+m.dcinside.com##div#Minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -24560,6 +24564,7 @@ nzherald.co.nz###mrktImg
 nzherald.co.nz###nextLink
 nzherald.co.nz###sclBkt
 nzherald.co.nz##.c-connect
+nzherald.co.nz##.element-action-button
 nzherald.co.nz##.msn
 nzherald.co.nz##.rugbyIntroScreen
 nzherald.co.nz##.supportingBanner
@@ -27941,7 +27946,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29710,4 +29715,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 0.9.20 (Sunday, 25 February 2018 6:00:01 PM AEST)
+! End of Customized All-in-One Adblock List 0.9.21 (Sunday, 25 February 2018 9:00:00 PM AEST)
