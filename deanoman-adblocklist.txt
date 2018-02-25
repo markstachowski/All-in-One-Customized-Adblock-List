@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Monday, 26 February 2018 3:28:51 AM AEST
-! Version: 1.0.1
+! Last Modified: Monday, 26 February 2018 6:05:29 AM AEST
+! Version: 1.0.2
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -3954,7 +3954,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialsharecount.
+/socialShareCount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4035,7 +4035,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4429,7 +4429,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterFetcher_
+/twitterfetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -12467,6 +12467,7 @@ _youtube-button.
 ||saqcgojcure.bid^
 ||sasieidpe.bid^
 ||sasqhtfxsnklxn.bid^
+||satjrvwtaertn.com^
 ||sauispjbeisl.com^
 ||savvysource.com^$third-party
 ||saybfmfptfjlv.bid^
@@ -15525,6 +15526,7 @@ api.dable.io##td.item-sp
 api.leadiacloud.com/
 api.oneall.com#@##button_facebook
 api.oneall.com,lanik.us#@##button_twitter
+api.rollbar.com
 api.tinypass.com
 api.venyoo.ru/wnew.js
 aplus.com###beforeYouGo
@@ -22118,25 +22120,29 @@ linkedin.com##article[class*="jymbii"]
 linkedin.com##article[class*="lynda"]
 linkedin.com##article[class*="pymk"]
 linkedin.com##article[class*="sponsored"]
+linkedin.com##article[class*=-pymk-]
 linkedin.com##aside#msg-overlay
 linkedin.com##button[class*="cta--"]
 linkedin.com##button[class*=follow-button]
+linkedin.com##div.ge-profile-entry-card
 linkedin.com##div.jserp
 linkedin.com##div.name-search
-linkedin.com##div.reg-upsell
 linkedin.com##div.search-s-news-module
 linkedin.com##div.survey
 linkedin.com##div.survey-questions
 linkedin.com##div[class*="feed-s-follows-module"]
 linkedin.com##div[class*="-learning"]
-linkedin.com##div[class*=jobs-upsell]
+linkedin.com##div[class*=feed-follows-]
+linkedin.com##div[class*=feed-shared-news-]
 linkedin.com##div[class*=mn-wylo-promo]
-linkedin.com##div[class*=premium-upsell]
+linkedin.com##div[class*=-upsell]
 linkedin.com##li#app-launcher-nav-item
 linkedin.com##li#spotlight-one-nav-item
 linkedin.com##section.mn-abi-form
 linkedin.com##section[class*="pymk"]
-linkedin.com##section[class*=-course-recommendations]
+linkedin.com##section[class*=course-recommendations]
+linkedin.com##section[class*=mn-suggester]
+linkedin.com##section[class*=suggester]
 linkedin.com##ul.recruiter-upsell
 linkedin.com#@##share-box
 linkedin.com#@#.follow-widget
@@ -22159,7 +22165,7 @@ linkem.com###bottom-banner
 -link-fb.
 linkfm.co.za##.actions
 linkgroup.pl###lg_cookies
-linkined.com##section[class*=course-recommendations]
+linkined.com##section[class*=ad-banner-]
 linkis.com##.deeper-overlay
 linkis.com##.global-modal-popup
 linkis.com#@#.social-panel
@@ -23142,6 +23148,8 @@ medizzine.com##.alerta
 medpagetoday.com##.cme-join
 medyaalemi.com.tr##.paylasWrap
 meetic.fr##.main-frame-bottom-strip
+meetup.com##li#nav-notifications
+meetup.com##p.gtsy
 meewallet.com##.sticky_foot
 megabus.com###GB_overlay
 megadyskont.pl###topInfo4
@@ -24563,7 +24571,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.sharetools
+nytimes.com#@#.shareTools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -25972,6 +25980,7 @@ rogerebert.com##.mailing-list
 rohde-schwarz.com###rusportalnotification
 rokked.com##.likes
 rokkitchentools.com##.bModal
+rollbar.com
 rollingstone.com##.arrow-container-vert
 rollingstone.com##.site-footer-top
 roly.eu##.jq-toast-wrap
@@ -27953,7 +27962,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -28117,6 +28126,7 @@ tre.se##.alert-bar
 treehugger.com###nl_signup_modal
 treehugger.com###sharing-tools
 trekking-koenig.de##.cookie5
+trello.com##a.header-woof
 trendhunter.com###DOMWindow
 trendhunter.com###DOMWindowOverlay
 trendhunter.com###fixed-element
@@ -29723,4 +29733,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.1 (Monday, 26 February 2018 3:28:51 AM AEST)
+! End of Customized All-in-One Adblock List 1.0.2 (Monday, 26 February 2018 6:05:29 AM AEST)
