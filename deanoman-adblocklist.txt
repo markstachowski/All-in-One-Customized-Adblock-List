@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Tuesday, 27 February 2018 6:00:00 AM AEST
-! Version: 1.0.10
+! Last Modified: Tuesday, 27 February 2018 9:00:00 AM AEST
+! Version: 1.0.11
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1131,7 +1131,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -3913,7 +3913,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialNet.
+/socialnet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -3954,7 +3954,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4035,7 +4035,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4202,7 +4202,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -5088,6 +5088,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 @@||cloudfront.net^*/images/gplus-icon.png$domain=bitbucket.org
 @@||cloudfront.net^*/signin_with_facebook.png
 @@||cloudfront.net^*/social-buttons.png$domain=socialreader.com
+@@||cloudinary.com^$third-party
 @@||clubs.nfl.com/nfl-assets/js/social-buttons.js
 @@||cnn.com/cnnnext/*-social-$image
 @@||code.highcharts.com^$third-party
@@ -13450,6 +13451,7 @@ _youtube-button.
 ||utfffrxmzuvy.com^
 ||utildown.co.kr/adv/adv.php^
 ||utjwhrahb.bid^
+||utlpwxdt.com^
 ||utwhgyjgjw.bid^
 ||utyhzjbwfyrz.bid^
 ||utzpjbrtyjuj.com^
@@ -15353,7 +15355,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -19325,6 +19327,7 @@ flattr.com#@#.icon-flickr
 flattr.com#@#.icon-github
 flattr.com#@#.icon-vimeo
 flattr.com#@#.icon-youtube
+flattr.com,gleam.io#@#.icon-instagram
 flattr.com,gleam.io#@#.icon-soundcloud
 flavorwire.com###hire-callout
 fleshbot.com###fbot-gateway-container
@@ -19991,7 +19994,6 @@ glamour.hu###privacy, .privacy, #mainPrivacyDiv, .privacyTop, #privacy-info, .pr
 glamourmagazine.co.uk##.follow-options-container
 glamouronline.hu###privacy, .privacy, #mainPrivacyDiv, .privacyTop, #privacy-info, .privacy-top, .privacy-overlay, .privacypolicy, #privacy-notification, #inf_privacy, #privacypolicycontainer
 glav.su##body > div[id]:not([class])[style*="background"][style*="display: block"]
-gleam.io#@#.icon-instagram
 glennbeck.com###gbtv_embed_banner
 glennbeck.com,nationaljournal.com,nature.org###flyout
 globalassicurazioni.it##body > div:not([id]):not([class])[style*="position"][style*="fixed"], body > div:not([id]):not([class])[style*="position"][style*="absolute"]
@@ -22413,7 +22415,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -29743,4 +29745,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.10 (Tuesday, 27 February 2018 6:00:00 AM AEST)
+! End of Customized All-in-One Adblock List 1.0.11 (Tuesday, 27 February 2018 9:00:00 AM AEST)
