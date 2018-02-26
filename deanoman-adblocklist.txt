@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Monday, 26 February 2018 9:00:00 PM AEST
-! Version: 1.0.7
+! Last Modified: Tuesday, 27 February 2018 12:00:00 AM AEST
+! Version: 1.0.8
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1567,7 +1567,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3913,7 +3913,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialnet.
+/socialNet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -4202,7 +4202,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4429,7 +4429,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterFetcher_
+/twitterfetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -13563,6 +13563,7 @@ _youtube-button.
 ||vfasewomnmco.com^
 ||vfayoytjil.bid^
 ||vfbdtfucvlxi.bid^
+||vfedpgmaxxkug.com^
 ||vfkfctmtgrtq.com^
 ||vfmzddpaznanf.bid^
 ||vfonfnazs.bid^
@@ -17491,7 +17492,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieConsent.js
+cookieconsent.js
 cookieconsent.min.js
 cookieDisclaimer.js
 -cookie-filter/$script
@@ -24578,7 +24579,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -27969,7 +27970,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29740,4 +29741,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.7 (Monday, 26 February 2018 9:00:00 PM AEST)
+! End of Customized All-in-One Adblock List 1.0.8 (Tuesday, 27 February 2018 12:00:00 AM AEST)
