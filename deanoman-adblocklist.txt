@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Monday, 26 February 2018 6:00:00 PM AEST
-! Version: 1.0.6
+! Last Modified: Monday, 26 February 2018 9:00:00 PM AEST
+! Version: 1.0.7
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1131,7 +1131,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1567,7 +1567,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/fbicon.
+/FBicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -13309,6 +13309,7 @@ _youtube-button.
 ||tzlijsurxh.bid^
 ||tzwcaamgd.bid^
 ||uaaholcdcx.bid^
+||uabicxuyovh.com^
 ||uaclvtrcno.bid^
 ||ualobhbpjbjtm.bid^
 ||uamfjudim.bid^
@@ -13854,6 +13855,7 @@ _youtube-button.
 ||whatsapp-sharing.com^$third-party
 ||whatsbroadcast.com^$third-party
 ||whatsyourflower.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
+||whdulnhnrscfqx.com^
 ||whgsyczcofwf.com^
 ||whinjxmkugky.com^
 ||whistleout.$third-party
@@ -14404,6 +14406,7 @@ _youtube-button.
 ||ysexxayb.bid^
 ||ysqdjkermxyt.com^
 ||ysrbddieabo.bid^
+||ysyrcnsb.com^
 ||yszbigwywfzk.bid^
 ||ytapgckhhvou.com^
 ||ytaujxmxxxmm.com^
@@ -17488,7 +17491,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieconsent.js
+cookieConsent.js
 cookieconsent.min.js
 cookieDisclaimer.js
 -cookie-filter/$script
@@ -24575,7 +24578,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.sharetools
+nytimes.com#@#.shareTools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -27966,7 +27969,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29737,4 +29740,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.6 (Monday, 26 February 2018 6:00:00 PM AEST)
+! End of Customized All-in-One Adblock List 1.0.7 (Monday, 26 February 2018 9:00:00 PM AEST)
