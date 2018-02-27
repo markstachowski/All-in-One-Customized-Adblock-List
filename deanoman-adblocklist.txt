@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Tuesday, 27 February 2018 3:54:36 PM AEST
-! Version: 1.0.13
+! Last Modified: Tuesday, 27 February 2018 6:38:41 PM AEST
+! Version: 1.0.14
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1132,7 +1132,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/CookiesDirective
+/cookiesdirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -3495,7 +3495,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/Sharefb.
+/sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -4203,7 +4203,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4430,7 +4430,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -6670,6 +6670,7 @@ _youtube-button.
 ||accengage.net^$third-party
 ||acdn.adnxs.com/ast/ast.js^
 ||acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html^
+||acdn.adnxs.com/ib/static/usersync/v4/async_usersync.html^
 ||aclsqdpgeaik.com^
 ||acnsavlosahs.com^
 ||acpxgmzozlxtbj.bid^
@@ -10578,6 +10579,7 @@ _youtube-button.
 ||lqlksxbltzxw.com^
 ||lqlycogmpxhd.com^
 ||lqpkjasgqjve.com^
+||lqrrkjodhq.com^
 ||lqsclyxh.bid^
 ||lqtxnuramh.bid^
 ||lqvckaciozvs.bid^
@@ -10663,6 +10665,7 @@ _youtube-button.
 ||lzrfxzvfbkay.com^
 ||lzvnaaozpqyb.com^
 ||m.11st.co.kr/MW/html/allianceAd/
+||m.adnxs.com/ut/v3^
 ||m.adtc.daum.net/js/mobilead.js^
 ||m.anyfiles.ovh^
 ||m.asiatoday.co.kr/kn/ad/$domain=m.asiatoday.co.kr
@@ -12162,6 +12165,7 @@ _youtube-button.
 ||r.fullstory.com^
 ||r.logrocket.com
 ||r.staging.fullstory.com^
+||r1.res.office365.com/adbar/*/adbar.js^$domain=outlook.live.com
 ||r42tag.com^$third-party
 ||ra.ntwoad.co.kr^
 ||rackcdn.com/Instagram/
@@ -12452,6 +12456,7 @@ _youtube-button.
 ||s.mixadvert.com/show_json/
 ||s.ntv.io/serve/load.js^
 ||s.pubmine.com/adj/
+||s.telegraph.co.uk/international/Barnebys/$domain=telegraph.co.uk
 ||s.yimg.jp/images/listing/tool/yads/yads-iframe.html^
 ||s.youtube.com^$image
 ||s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png?resize=1%2C1$image
@@ -12546,6 +12551,7 @@ _youtube-button.
 ||seaxhrqc.bid^
 ||secretrune.com^$third-party
 ||secure.adnxs.com/jpt^
+||secure.s.telegraph.co.uk/international/Barnebys/$domain=telegraph.co.uk
 ||secure.uac.advertising.com/wrapper/aceUAC.js^
 ||secure-ads.pictela.net/rm/marketplace/pubtaglib/0_4_0/pubtaglib_0_4_0.js^
 ||securepubads.g.doubleclick.net/gampad/google_ads.js^
@@ -13014,6 +13020,7 @@ _youtube-button.
 ||techbeat.com/wp-content/custom-php/$third-party
 ||technorati.com^$third-party
 ||tefwraudu.bid^
+||telegraph.co.uk/template/ver1-0/js/commWidget.js^$domain=telegraph.co.uk
 ||telize.com^
 ||teqceeivmpvv.com^
 ||tevrzjuymzxpk.bid^
@@ -13878,6 +13885,7 @@ _youtube-button.
 ||wibvytsxrm.bid^
 ||wicxfvlozsqz.com^
 ||widget.adviceiq.com^$third-party
+||widget.barnebys.com/widget.php^
 ||widget.breakingburner.com^$third-party
 ||widget.chipin.com^$third-party
 ||widget.clipix.com^$third-party
@@ -17502,7 +17510,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieConsent.js
+cookieconsent.js
 cookieconsent.min.js
 cookieDisclaimer.js
 -cookie-filter/$script
@@ -24589,7 +24597,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -24846,6 +24854,8 @@ ourlocal.town###d-notification-bar
 oushop.com##body > div:not([id]):not([class])
 outbrain.com
 outbrain.com#@#.outbrain
+outlook.live.com##div#owaadbar
+outlook.live.com##div[class^="__Microsoft_Owa_MessageListAds_ListView_templates_cs_"]
 outsideonline.com##.block-nl-signup
 outsideonline.com##.interjector
 outsideonline.com##.prevnext-nav-inner
@@ -27452,6 +27462,17 @@ tele2.nl###targetedPopupFrame
 telefonoassistenza.net###window
 telegram.com##.topjobs_1
 telegraph.co.uk###TelegraphPics
+telegraph.co.uk##div#configurableTabs
+telegraph.co.uk##div#yell
+telegraph.co.uk##div.adarea
+telegraph.co.uk##div.admpu
+telegraph.co.uk##div.adsky
+telegraph.co.uk##div.adyell
+telegraph.co.uk##div.mobileAdvert
+telegraph.co.uk##div.mobileAdvertInStream
+telegraph.co.uk##div.mobileAdvertInStreamHighlightText
+telegraph.co.uk##div.mobileAdvertInStreamHorizontalLine
+telegraph.co.uk##iframe[src^="https://secure.s.telegraph.co.uk/international/Barnebys/"]
 telekom.de##.message-bar
 telekom.de##.pi-notification
 telenor.se##body > .box
@@ -27980,7 +28001,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29751,4 +29772,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.13 (Tuesday, 27 February 2018 3:54:36 PM AEST)
+! End of Customized All-in-One Adblock List 1.0.14 (Tuesday, 27 February 2018 6:38:41 PM AEST)
