@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Wednesday, 28 February 2018 4:36:07 AM AEST
-! Version: 1.0.17
+! Last Modified: Wednesday, 28 February 2018 3:04:25 PM AEST
+! Version: 1.0.18
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1822,7 +1822,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /gettrackingcode?
 /gettrackpixel?
 /get-tweets.
-/getviews2.asp?url=$xmlhttprequest
+/getviews2.asp?$xmlhttprequest
 /getxmlad?
 /gfx/socials/*
 /gg-share.
@@ -2580,6 +2580,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /joinboxeloqua.
 /join-us-on-
 /jquery.androidbanner.js
+/jquery.bpopup.$script,domain=telechargerunevideo.com
 /jquery.cookie.js$domain=password-decryptor.com
 /jquery.counter.
 /jquery.facebook.
@@ -3496,7 +3497,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/Sharefb.
+/sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -4204,7 +4205,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4431,7 +4432,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterFetcher_
+/twitterfetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -4899,7 +4900,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 @@||alternativeto.net/dist/icons/$image
 @@||amazon.com^$third-party
 @@||amazonaws.com/assets.makerstudios.com/fpf/logos/YouTube-logo-light.png$domain=makerstudios.com
-@@||amazonaws.com/downloads.mailchimp.com/js/mc-validate.js$domain=cnn.com|cover-up.com|eskuvo-kiallitas-osz.hu|fairprice.co.za|genuine-people.com|justrunlah.com|makewarnotlove.com|monetarywatch.com|nikopik.com|nowfoods.com|nyt.fi|propublica.org|sanbs.org.za|thegolfnewsnet.com|truenutrition.com
+@@||amazonaws.com/downloads.mailchimp.com/js/mc-validate.js$domain=cnn.com|cover-up.com|eskuvo-kiallitas-osz.hu|fairprice.co.za|genuine-people.com|justrunlah.com|kliknijwzdrowie.pl|makewarnotlove.com|monetarywatch.com|nikopik.com|nowfoods.com|nyt.fi|propublica.org|sanbs.org.za|thegolfnewsnet.com|truenutrition.com
 @@||amazonaws.com/etc/designs/slate/images/social/$domain=slate.com
 @@||amazonaws.com/images/$image,domain=wordsquared.com
 @@||amazonaws.com/img/facebook_small.$image,domain=ticketabc.com
@@ -5218,6 +5219,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 @@||examiner.com/sites/all/modules/custom/ex_omniture/s_code.js
 @@||expedia.*/opinionlab/oo_engine.js$script
 @@||explainxkcd.com/wiki/images/$image,domain=explainxkcd.com
+@@||facebook.com/ads/profile/$xmlhttprequest
 @@||facebook.com/ajax/browse/$domain=facebook.com
 @@||facebook.com/ajax/bz$domain=facebook.com
 @@||facebook.com/ajax/chat/buddy_list.php$domain=facebook.com
@@ -5663,6 +5665,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 @@||nyt.com^*/sharetools.js$domain=nytimes.com
 @@||nytimes.com^$third-party
 @@||nytimes.com^*/sharetools.js
+@@||ocdn.eu^*/fb_logo.png$image,domain=forbes.pl
 @@||ocsn.com^$third-party
 @@||odnoklassniki.ru/share/odkl_share.js$domain=ivi.ru
 @@||ogdownloaderapk.com/images/og-youtube.png
@@ -5928,6 +5931,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 @@||static.bbci.co.uk/modules/*/sharetools.js$domain=bbc.co.uk
 @@||static.canva.com/designThumbnails/pinterest.png
 @@||static.koreus.com/js/advert.js
+@@||static.lci.fr/assets/scripts/modules/outbrain.js?$script,~third-party
 @@||staticamzn.com^$third-party
 @@||staticflickr.com^$third-party
 @@||statictapcdn-a.akamaihd.net^$domain=tapiture.com
@@ -6602,6 +6606,7 @@ _youtube-button.
 ||310ca263.space^$third-party
 ||320ca3f6.space^$third-party
 ||330ca589.space^$third-party
+||33across.com^
 ||3407.tm.zedo.com/v1/*/atm.js^
 ||340ca71c.space^$third-party
 ||360caa42.space^$third-party
@@ -7550,6 +7555,7 @@ _youtube-button.
 ||botscanner.com^
 ||bounceexchange.com^
 ||bounceexchange.com^$third-party
+||bouncex.com^
 ||bowithow.com^$third-party
 ||bowqvvztlkzn.com^
 ||bpblqdfe.bid^
@@ -10543,6 +10549,7 @@ _youtube-button.
 ||lmoqmsagyjcurg.bid^
 ||lmwdcdzievq.bid^
 ||lndzkpjtjfjz.bid^
+||lnelcbntwru.com^
 ||lnjpyxvbpyvj.com^
 ||lnltyqqop.bid^
 ||lnnwwxpeodmw.com^
@@ -12344,6 +12351,7 @@ _youtube-button.
 ||rlypbeouoxxw.com^
 ||rmbilhzcytee.com^
 ||rmdzbqggjskv.com^
+||rmeolnjxkgfe.com^
 ||rmgxhpflxhmd.com^
 ||rmlzgvnuqxlp.com^
 ||rmprepusb.com/porpoiseant/banger.js^$domain=rmprepusb.com
@@ -12600,6 +12608,7 @@ _youtube-button.
 ||sfpkwhncpllt.com^
 ||sfzcbcrwxhic.com^
 ||sgate.opap.co.kr/view/
+||sg-autorepondeur.com^$third-party
 ||sgccsauvct.bid^
 ||sghradxea.bid^
 ||sgkcijmcduuhhq.bid^
@@ -14291,6 +14300,7 @@ _youtube-button.
 ||yaqysxlohdyg.com^
 ||yashi.com^
 ||yasltdlichfd.com^
+||yasnxwjtjbx.com^
 ||yattprdmuybn.com^
 ||yavli.com^
 ||ybemuzknpvkgn.bid^
@@ -15853,6 +15863,7 @@ automotive.com###cnt-floating-ftr
 automotorsport.se##.alert-info, .alert-warning, .alert-box
 auto-motor-und-sport.de##.j34
 auto-motor-und-sport.de##.p40
+auto-motor-und-sport.de##a[is-google-trigger]
 automovilespalma.es###ico_wrapper
 autonews.fr##body > div[id*="cookie"]
 autonews.ru,rbc.ru,rbcplus.ru##.checkad_info
@@ -18177,6 +18188,7 @@ dialoguj.pl###announcement_1.announcement
 diamond-air.at###privacy-info
 diariolibre.com###bannerRight4
 diarioti.com,estrellatv.com,europapress.es,publico.es##.social
+dibujos.net##.social-container
 dicionariodesimbolos.com.br##.clm
 dictionary.com###email-signup
 dictionary.com##.day-break-subscription-form
@@ -19659,6 +19671,7 @@ freemeteo.hu,gov.hu,lxo.hu###cookies
 freemeteo.rs###cookies
 freenews.fr###cookie-notice
 freeonlinegames.com###cwarn-box
+freep.com##.newsletter-signup-primary
 freeriotpoint.net###den-bg
 freeriotpoint.net###den-main
 freesfx.co.uk###popout
@@ -20473,6 +20486,7 @@ harvard.edu###sticky-filter
 harvard.edu##.daily-gazette
 harvester.co.uk##.notification--notification
 hashflare.io##.alert-dismissible
+hasznaltauto.hu###scroll_top
 hasznalt-laptop.net##.noty_cont
 hattrick.co.uk###TB_window, #TB_overlay
 hattrick.org##.alert, #alert
@@ -22500,7 +22514,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#minor_view_middle
+m.dcinside.com##div#Minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -24484,6 +24498,7 @@ nicovideo.jp##div.sideTxtAd
 nicovideo.jp##div.sidewallAd
 nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext"]
 nidirect.gov.uk###cicw
+niedziela.pl#@#.article-social-btn
 nienhueser.de###fixedfoot
 nienhueser.de###navbuttons
 nienhueser.de##.ff-I-like-it
@@ -24677,7 +24692,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.sharetools
+nytimes.com#@#.shareTools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -25612,6 +25627,7 @@ proff.se##.notification, .Notification, .js-notification, .notifications-contain
 profiloptik.dk##.message-large
 profitguide.com###builder-124
 profmetkol.pl###cookies
+progeeksblog.com##.fpss
 programmableweb.com##.subscribeicon
 programyzadarmo.net.pl##.FloatingContainer.Notices
 prohealthclinic.co.uk###d-notification-bar
@@ -26726,6 +26742,8 @@ smartplanet.com,techrepublic.com,zdnet.com##.mmode-reg-hide
 smartplanet.com,techrepublic.com,zdnet.com##.siu-vertical-cont
 smartplugin.youbora.com
 smashingapps.com#@#a[href^="http://www.stumbleupon.com/submit?"]
+smashingmagazine.com##.membership-promo-box-teaser
+smashingmagazine.com##.product-panel--book
 sme.sk###js-top-info-bar
 smh.com.au,venturebeat.com,washingtonpost.com##DIV[class$="leaderboard"]
 smhi.se##.polopolyNotification
@@ -28327,6 +28345,7 @@ trutv.com###ttvglobalfooter
 trutv.com##.ttvpgshare
 ts.fi##body > div:not([id]):not([class])
 ttela.se##.ttelcGRCookieContainer
+ttgmedia.com##.ao-sbcontent
 ttocorps.com##a[href^="../page/ad.php"]
 ttocorps.com##a[href^="./page/ad.php"]
 ttocorps.com##a[href^="/page/ad.php"]
@@ -29376,17 +29395,19 @@ wired.co.uk##.leaderboardcontainer
 wired.com###around-the-web
 wired.com###books
 wired.com###follow-wired
-wired.com###footer-social
 wired.com###pn_ipad
-wired.com###share-card
 wired.com###we-recommend
 wired.com##.blog-follow
 wired.com##.cm-footer
 wired.com##.js-annotation
+wired.com##.js-prefooter-rad
 wired.com##.paginate-box
 wired.com##.sidebar-component--social-share
 wired.com##.sidebar-inview
-wired.com##.ui-social-wrapper
+wired.com##.siderail-rad
+wired.com##.sponsored-stories-component
+wired.com##.subscribe-panel-component
+wired.com##.we-recommend-wrapper
 wired.com##.widget_WiredWidgetsDartAds
 wired.com##.widget_WiredWidgetsGoogleAds
 wired.com##a[href="http://www.communitysweeps.wired.com"]
@@ -29582,6 +29603,7 @@ yagumania.com##div#ad_comment_bottom
 yagumania.com##div#ad_view_right1
 yagumania.com##div#cto_async_content
 yagumania.com##div.mobile_responsive_1_div
+yahoo.co.jp###pg_top
 yahoo.co.jp###RSAB
 yahoo.com###legal-footer
 yahoo.com###mediacontentfeedback
@@ -29880,4 +29902,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.17 (Wednesday, 28 February 2018 4:36:07 AM AEST)
+! End of Customized All-in-One Adblock List 1.0.18 (Wednesday, 28 February 2018 3:04:25 PM AEST)
