@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Wednesday, 28 February 2018 9:47:18 PM AEST
-! Version: 1.0.22
+! Last Modified: Thursday, 1 March 2018 12:10:00 AM AEST
+! Version: 1.0.23
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1132,7 +1132,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/CookiesDirective
+/cookiesdirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -4038,7 +4038,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -12084,6 +12084,7 @@ _youtube-button.
 ||qlvtfnfxwcq.bid^
 ||qmamdjtoykgl.com^
 ||qmisgnkw.bid^
+||qmjjvpoqhb.com^
 ||qndqwtrwguhv.com^
 ||qnfarzjp.bid^
 ||qnieefmaaqi.bid^
@@ -15397,7 +15398,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -17549,7 +17550,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieConsent.js
+cookieconsent.js
 cookieconsent.min.js
 cookieDisclaimer.js
 -cookie-filter/$script
@@ -28131,7 +28132,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29911,4 +29912,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.22 (Wednesday, 28 February 2018 9:47:18 PM AEST)
+! End of Customized All-in-One Adblock List 1.0.23 (Thursday, 1 March 2018 12:10:00 AM AEST)
