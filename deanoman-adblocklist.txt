@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Thursday, 1 March 2018 6:45:00 AM AEST
-! Version: 1.0.26
+! Last Modified: Thursday, 1 March 2018 9:40:00 AM AEST
+! Version: 1.0.27
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1569,7 +1569,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -4038,7 +4038,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4205,7 +4205,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4802,6 +4802,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 @@.net/ad/$object-subrequest,domain=foxsports.com
 @@/ad1.$image,domain=embed.universaluclick.com
 @@/advertisement.js$script,~third-party,domain=fun-animes.fr
+@@/airbnb/*-tracking.
 @@/angular-facebook.js
 @@/beacon.$domain=amazon.com|sciencechannel.com
 @@/beacon.min.js$domain=huffingtonpost.com
@@ -12011,6 +12012,7 @@ _youtube-button.
 ||qcpegxszbgjm.com^
 ||qcpexkxxyx.bid^
 ||qcxhpohiwawnmo.bid^
+||qdcoqejn.com^
 ||qddgbaux.com^
 ||qdpbtrwvmioo.bid^
 ||qdqhseenooz.bid^
@@ -17551,7 +17553,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieconsent.js
+cookieConsent.js
 cookieconsent.min.js
 cookieDisclaimer.js
 -cookie-filter/$script
@@ -22520,7 +22522,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -24701,7 +24703,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.sharetools
+nytimes.com#@#.shareTools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -28132,7 +28134,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29912,4 +29914,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.26 (Thursday, 1 March 2018 6:45:00 AM AEST)
+! End of Customized All-in-One Adblock List 1.0.27 (Thursday, 1 March 2018 9:40:00 AM AEST)
