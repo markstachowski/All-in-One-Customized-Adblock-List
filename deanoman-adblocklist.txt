@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Thursday, 1 March 2018 2:25:00 AM AEST
-! Version: 1.0.24
+! Last Modified: Thursday, 1 March 2018 3:50:00 AM AEST
+! Version: 1.0.25
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1132,7 +1132,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -4205,7 +4205,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -26079,7 +26079,6 @@ rexel.fr###news-section
 rfi.fr##.pageTop
 rhomberg-reisen.com##.rho-toast--top.rho-pagelane
 rhp.nl###cn-wrapper
-ria.ru##.antiblock
 riassuntini.com##.banner.section.white-bg
 ridble.com##.cd-top
 riddarhuset.se##.cookieWidget
@@ -29912,4 +29911,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.24 (Thursday, 1 March 2018 2:25:00 AM AEST)
+! End of Customized All-in-One Adblock List 1.0.25 (Thursday, 1 March 2018 3:50:00 AM AEST)
