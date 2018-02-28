@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Wednesday, 28 February 2018 6:58:30 PM AEST
-! Version: 1.0.20
+! Last Modified: Wednesday, 28 February 2018 9:26:09 PM AEST
+! Version: 1.0.21
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1132,7 +1132,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1569,7 +1569,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -4038,7 +4038,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4205,7 +4205,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4932,7 +4932,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 @@||api.razorpay.com^$third-party
 @@||api-cdn.embed.ly^$third-party
 @@||api-maps.yandex.ru^
-@@||apis.google.com/js/platform.js$domain=9gag.com|jakdojade.pl|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|jakdojade.pl|passeidireto.com|sato.fi
 @@||apis.google.com^$third-party
 @@||apnewsregistry.com^$third-party
 @@||apple.com/kb/resources/images/i_facebook.png
@@ -8129,6 +8129,7 @@ _youtube-button.
 ||ctzvtevpcssx.com^
 ||cuabgfjnib.bid^
 ||cuchpagh.com^
+||cuhicevdjsfey.com^
 ||cultizm.com/templates/c2012light/javascript/cookies$script
 ||cultofmac.com/detroitchicago/edmonton.webp^$domain=cultofmac.com
 ||cultofmac.com/e2ma.js
@@ -14974,8 +14975,8 @@ abu.nl###euBalk
 abundancegeneration.com##.notification, .Notification, .js-notification, .notifications-container, #notifications, #notification_1, #notification, #notification_area, .notifications, .notif-bar, .notificationBox
 abycyclette.eklablog.com###cookie-info
 ac.at##.notification-wrapper
-academia.edu#@#.google-btn
 academia.edu#@#.social_container
+academia.edu,oneplus.net#@#.google-btn
 academia.edu,twitter.com#@#.fb-btn
 academicearth.org###bottom_toolbar
 academicearth.org,econsultancy.com,thefutureofthings.com###kampylink
@@ -15396,7 +15397,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -15927,7 +15928,7 @@ azimutyachts.com##.floatFooter
 azimutyachts.cz##.floatFooter
 azlyrics.com,theoldreader.com#@#.btn-share
 azorek.pl##.giodoContainer
-azurewebsites.net#@#.facebook-btn
+azurewebsites.net,oneplus.net#@#.facebook-btn
 b1.ro##body > div:not([id]):not([class])
 babble.com###likebox
 babble.com###recommendations
@@ -22455,13 +22456,13 @@ m.asiatoday.co.kr##div[id^="div-lumi_"][style="height:80px;margin-top:15px"]
 m.asiatoday.co.kr##iframe[src^="/kn/ad/"]
 m.asiatoday.co.kr##iframe[src^="inbnet.html"]
 m.bbs1.agora.media.daum.net##a.bnr_livboard
-m.biz.khan.co.kr,m.khan.co.kr##div#article_bottom_ad
-m.biz.khan.co.kr,m.khan.co.kr##div#mezzo_ad
 m.biz.khan.co.kr,m.khan.co.kr##div#photoAD
-m.biz.khan.co.kr,m.khan.co.kr##div.ad_area
 m.biz.khan.co.kr,m.khan.co.kr##div.ad_thumb_btm
-m.biz.khan.co.kr,m.khan.co.kr##div.contBn
-m.biz.khan.co.kr,m.khan.co.kr##div.contBn_foot
+m.biz.khan.co.kr,m.khan.co.kr,m.weekly.khan.co.kr##div#article_bottom_ad
+m.biz.khan.co.kr,m.khan.co.kr,m.weekly.khan.co.kr##div#mezzo_ad
+m.biz.khan.co.kr,m.khan.co.kr,m.weekly.khan.co.kr##div.ad_area
+m.biz.khan.co.kr,m.khan.co.kr,m.weekly.khan.co.kr##div.contBn
+m.biz.khan.co.kr,m.khan.co.kr,m.weekly.khan.co.kr##div.contBn_foot
 m.blog.naver.com##div._adPost
 m.boannews.com##section.banner-zone
 m.breaknews.com##div#bottom_src
@@ -22877,6 +22878,8 @@ m.viva100.com##section.content>div[style="width:100%;height:250px;text-align:cen
 m.viva100.com##section.content>div[style="width:100%;height:260px;text-align:center"]
 m.webtoon.daum.net##div#bnrHori
 m.webtoon.daum.net##div.wrap_valuepotion
+m.weekly.khan.co.kr##div.ad_adtive
+m.weekly.khan.co.kr##div.banner_artmid
 m.wikitree.co.kr##div#contentMidBanner
 m.wikitree.co.kr##div.ad_bottom
 m.wikitree.co.kr##div.ad230
@@ -24696,7 +24699,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.sharetools
+nytimes.com#@#.shareTools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -24817,6 +24820,7 @@ oneindia.in##.sliderightItem
 onemomentmeditation.com##.fhp
 onenewsnow.com###shownextstory
 oneplus.net##.sec-follow
+oneplus.net#@#.ico-facebook
 onet.pl##.social-container
 oneyeartarget.com###sbox-window, #sbox-overlay
 onkiro.com###msgid1
@@ -28430,7 +28434,6 @@ tvfanatic.com##.well-small
 tvfreak.cz###cfooter
 tvgids24.nl###cbar
 tvguide.co.uk###toPopup
-tvguide.com##DIV[class*="popover"]
 tv-kino.net#@#.social-tab
 tvlicensing.co.uk###blq-global
 tvline.com##.share-comment
@@ -28570,6 +28573,7 @@ uctovani.net###message_wrap
 udemy.com##.slp-container
 udlodningsmidler.dk###lbmodal-overlay, #lbmodal
 ufe.org###privm_message_id
+ufpro.de###cookies
 ugo.com###fb_login
 ugo.com###fb_userbox
 ugo.com###liveintent_app_iframe
@@ -29907,4 +29911,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.20 (Wednesday, 28 February 2018 6:58:30 PM AEST)
+! End of Customized All-in-One Adblock List 1.0.21 (Wednesday, 28 February 2018 9:26:09 PM AEST)
