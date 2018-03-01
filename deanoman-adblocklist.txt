@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Thursday, 1 March 2018 9:40:00 AM AEST
-! Version: 1.0.27
+! Last Modified: Thursday, 1 March 2018 12:35:00 PM AEST
+! Version: 1.0.28
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -3916,7 +3916,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialNet.
+/socialnet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -3957,7 +3957,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4205,7 +4205,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4432,7 +4432,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -9967,6 +9967,7 @@ _youtube-button.
 ||jertwakjcaym.com^
 ||jesus-is-savior.com^$third-party,popup
 ||jevijshpvnwm.com^
+||jeyuhcbagxbp.com^
 ||jezqighae.bid^
 ||jfaqiomgvajb.com^
 ||jfcofvhuqzdg.bid^
@@ -15401,7 +15402,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -17437,7 +17438,7 @@ comicbookresources.com###user_message_pop
 comicbookresources.com,viralnova.com##.lean-overlay
 comicsbox.it###bottom-banner
 comingsoon.it##.box-tags
-comingsoon.net,digitaltrends.com,medicalnewstoday.com,techradar.com##DIV[class*="leaderboard"]
+comingsoon.net,digitaltrends.com,indiewire.com,medicalnewstoday.com,techradar.com##DIV[class*="leaderboard"]
 commandandconquer.com##[title="Facebook"]
 commentcamarche.net##.ccmcss_oic
 commentseruiner.com###uec_wrap
@@ -23268,6 +23269,7 @@ medium.com##.js-promoCardWrapper
 medium.com#@#.follow-label
 medizzine.com##.alerta
 medpagetoday.com##.cme-join
+meduza.io##.PageBlock--promo
 medyaalemi.com.tr##.paylasWrap
 meetic.fr##.main-frame-bottom-strip
 meetup.com##li#nav-notifications
@@ -28134,7 +28136,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29914,4 +29916,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.27 (Thursday, 1 March 2018 9:40:00 AM AEST)
+! End of Customized All-in-One Adblock List 1.0.28 (Thursday, 1 March 2018 12:35:00 PM AEST)
