@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Thursday, 1 March 2018 12:35:00 PM AEST
-! Version: 1.0.28
+! Last Modified: Thursday, 1 March 2018 3:26:48 PM AEST
+! Version: 1.0.29
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -3497,7 +3497,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3916,7 +3916,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialnet.
+/socialNet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -3957,7 +3957,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialsharecount.
+/socialShareCount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4205,7 +4205,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -15402,7 +15402,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -15454,7 +15454,7 @@ amicoblu.it##.snap-popup-overlay, .box-snap-popup
 amnesia.es###barra
 amnesty.fr###content > div > div:not([style]):not([id])
 amnesty.fr###sliding-popup
-amnesty.org,asda.com,ashridge.org.uk,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,dorotheum.com,dur.ac.uk,feelunique.com,graspop.be,luxottica.com,mailjet.com,mindshareworld.com,pjon.org,royalparks.org.uk,tescomobile.ie,thenottingham.com,ukcisa.org.uk,umicore.com,unknownphone.com,uptodown.com,volvocars.com##.cookies
+amnesty.org,asda.com,ashridge.org.uk,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,dorotheum.com,dur.ac.uk,feelunique.com,graspop.be,luxottica.com,mailjet.com,mindshareworld.com,pjon.org,playgwent.com,royalparks.org.uk,tescomobile.ie,thenottingham.com,ukcisa.org.uk,umicore.com,unknownphone.com,uptodown.com,volvocars.com##.cookies
 amongtech.com#@##social-sidebar
 amosauto.com##.extra
 amp.ai
@@ -15915,7 +15915,7 @@ avtoset.si##body > div[style*="2A2A2A"]
 awarenessact.com#@#A[href^="http://awarenessact.com"]
 awarenessact.com#@#A[href^="http://www.awarenessact.com"]
 awarenessact.com,bbcccnn.com.ua,chatsports.com,comicbook.com,dogs-magazin.de,gamerisle.org,gen-pop.com,gfycat.com,livetheorganicdream.com,popsugar.com,popsugar.com.au,professorshouse.com,sensationrock.net#@#.share-container
-awd-it.co.uk,ghananewsonline.com.gh,thekwinicollege.co.za,urban1.com###scroll-up
+awd-it.co.uk,countrylife.co.za,ghananewsonline.com.gh,thekwinicollege.co.za,urban1.com###scroll-up
 awdnews.com#@#A[href^="http://awdnews.com"]
 awdnews.com#@#A[href^="http://www.awdnews.com"]
 axa.cz##.axa-cookies
@@ -20643,6 +20643,7 @@ hirealestate.es###stickyFooter, .sticky-footer
 hirelocal.co.uk###itro_popup, #itro_opaco
 hirensbootcd.org###execphp-4
 hirpress.hu###cooky
+hirschs.co.za,thewitcher.com###totop
 hispantv.com###sharings-footer
 hispantv.com##.sharings
 hispazone.com###DownFixed
@@ -22523,7 +22524,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#minor_view_middle
+m.dcinside.com##div#Minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -24705,7 +24706,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -24980,6 +24981,7 @@ overstock.com###cars-facebook
 overstock.com###cars-twitter
 ovh.com###cookiesPop
 ovhcloud.com###block-ovhcookieconsent
+owgr.com##.linkicon
 ox.ac.uk###analytics-notice, #toast-container
 oxforddictionaries.com##.prev-next-link
 oxfordmail.co.uk##.jobs-block
@@ -25791,7 +25793,7 @@ radioem.pl##body > div:not([id]):not([class])[style*="position"][style*="fixed"]
 radioer.pl##body > div:not([id]):not([class])
 radiofama.com.pl##body > div:not([id]):not([class])
 radiogra.pl#@##to-top
-radioitalia.it,tivusat.tv##.cookies
+radioitalia.it,tivusat.tv,walliance.eu##.cookies
 radioline.co###noty-cnil
 radiologie-mannheim.de###myModal, .modal-backdrop, .reveal-modal-bg
 radioluisteren.fm###cbar
@@ -27993,7 +27995,6 @@ theweek.com##.col300_signup
 theweek.com##.fourFreeBar
 theweek.com##.magazineBox
 theweek.com##.subscribe-unit-header
-thewitcher.com###totop
 thewrap.com###content-bottom-sidebar
 thewrap.com###nav-wrapper.fixed
 thewrap.com###tw-newsletter-signup
@@ -28136,7 +28137,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29916,4 +29917,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.28 (Thursday, 1 March 2018 12:35:00 PM AEST)
+! End of Customized All-in-One Adblock List 1.0.29 (Thursday, 1 March 2018 3:26:48 PM AEST)
