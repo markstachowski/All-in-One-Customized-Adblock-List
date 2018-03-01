@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Friday, 2 March 2018 7:13:06 AM AEST
-! Version: 1.1.7
+! Last Modified: Friday, 2 March 2018 10:09:41 AM AEST
+! Version: 1.1.8
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -3497,7 +3497,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/Sharefb.
+/sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3957,7 +3957,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4432,7 +4432,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -5633,6 +5633,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 @@||neighborsink.com^$third-party
 @@||neowin.net/images/uploaded/$image
 @@||netdna-cdn.com^$third-party
+@@||netdna-ssl.com/wp-content/plugins/*/social-share.js$script,domain=threatpost.com
 @@||netdna-ssl.com^$third-party
 @@||netflix.com^$third-party
 @@||networksolutions.com^$third-party
@@ -16941,7 +16942,7 @@ catalunyacaixa.com###politica
 catchnews.com##.bg-col-blue
 catchnews.com##.next_stories_div
 catholicherald.co.uk##.sub-content-promo
-catholicherald.co.uk,kusc.org,motoring.com.au,yellowhammernews.com##.gform_widget
+catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,yellowhammernews.com##.gform_widget
 catonmat.net##.welcome
 catversushuman.com###cookieChoiceInfo
 cauterets.com###wpfront-notification-bar
@@ -23096,6 +23097,7 @@ mashable.com###peek > div:not([id])
 mashable.com###sign-in
 mashable.com##.article-shares-links
 mashable.com##.channel-coverage
+mashable.com##.cookie-notice
 mashable.com##.follow-trigger
 mashable.com##.jobs
 mashable.com##.mashable-head-shortad
@@ -24706,7 +24708,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -28033,6 +28035,7 @@ thomsonsport.com###block-webform-client-block-191
 thoughtworks.com##.BlogPromo
 threatpost.com###block-block-21
 threatpost.com###block-multiblock-2
+threatpost.com##a[href="https://threatpost.com/survey/"]
 thrillist.com###popoutContainer
 thrillist.com##.top-header
 thueringenforst.de##.opt-out
@@ -28138,7 +28141,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29919,4 +29922,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.7 (Friday, 2 March 2018 7:13:06 AM AEST)
+! End of Customized All-in-One Adblock List 1.1.8 (Friday, 2 March 2018 10:09:41 AM AEST)
