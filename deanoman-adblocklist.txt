@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Thursday, 1 March 2018 6:25:00 PM AEST
-! Version: 1.0.31
+! Last Modified: Thursday, 1 March 2018 9:20:03 PM AEST
+! Version: 1.0.32
 ! Build: Gentle Grouse
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -15253,7 +15253,7 @@ alko.fi#@#.cookies-open
 alkohole.poznan.pl###contBanner
 alko-memy.pl###cookieMain
 allafrica.com##.sticky-panel-container
-allafrica.com,callofduty.com,ctvnews.ca,environmentalgraffiti.com,epicurious.com,gap.com,nymag.com,timesnews.net,wolverhamptonhomes.org.uk##.connect
+allafrica.com,callofduty.com,ctvnews.ca,environmentalgraffiti.com,epicurious.com,gap.com,nymag.com,statescoop.com,timesnews.net,wolverhamptonhomes.org.uk##.connect
 allamericanblogger.com,streetinsider.com###floating_footer
 allbusiness.com##.pl-salebar
 allbusiness.com,nofilmschool.com,psdisasters.com##.af-form-wrapper
@@ -15352,7 +15352,7 @@ alternet.org###splashy_div
 alternet.org##.action_form
 alternet.org##.google_one
 alternet.org##.redditit
-alternet.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,businesstech.co.za,caloriesecrets.net,catonmat.net,cheeserank.com,chicagomag.com,cnet.com,dailycaller.com,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,fromthegrapevine.com,gizmag.com,greece-is.com,hpcwire.com,huffingtonpost.com,indiatimes.com,intoday.in,intomobile.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mybroadband.co.za,mygaming.co.za,naij.com,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,propertyobserver.com.au,readwriteweb.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theatlantic.com,thecollegefix.com,themoscowtimes.com,therichest.org,thinq.co.uk,tutsplus.com,tv.com,twice.com,udreview.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
+alternet.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,businesstech.co.za,caloriesecrets.net,catonmat.net,cheeserank.com,chicagomag.com,cnet.com,dailycaller.com,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,fromthegrapevine.com,gizmag.com,greece-is.com,hpcwire.com,huffingtonpost.com,indiatimes.com,intoday.in,intomobile.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mybroadband.co.za,mygaming.co.za,naij.com,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,propertyobserver.com.au,readwriteweb.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theatlantic.com,thecollegefix.com,themoscowtimes.com,therichest.org,thinq.co.uk,tutsplus.com,tv.com,twice.com,udreview.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
 alternet.org,boldprogressives.org,daniweb.com,drsinatra.com,halfhourmeals.com,hotscripts.com,mac-forums.com,mercola.com,motorauthority.com,nomorerack.com,pangeatoday.com,pier1.com,rottentomatoes.com,thebolditalic.com,underarmour.com,warrior.com##.ui-widget-overlay
 alternet.org,csicon.org,irishcentral.com,mediauk.com,techinasia.com,thecaterer.com##.alert
 altfi.com##.fixedbottom
@@ -29917,4 +29917,4 @@ zvono.eu###footer > table
 zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolute"]
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
-! End of Customized All-in-One Adblock List 1.0.31 (Thursday, 1 March 2018 6:25:00 PM AEST)
+! End of Customized All-in-One Adblock List 1.0.32 (Thursday, 1 March 2018 9:20:03 PM AEST)
