@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Friday, 2 March 2018 8:22:10 PM AEST
-! Version: 1.1.15
+! Last Modified: Friday, 2 March 2018 11:13:25 PM AEST
+! Version: 1.1.16
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -15416,7 +15416,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -17568,7 +17568,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieConsent.js
+cookieconsent.js
 cookieconsent.min.js
 cookieDisclaimer.js
 -cookie-filter/$script
@@ -19994,6 +19994,7 @@ getpocket.com#@##shareMenu
 getprice.com.au###popup_bkg
 getprice.com.au###SurveySlider3
 -get-tweets=
+getuikit.com#@#.uk-alert
 getupetfaistontruc.carrefour.fr###tarteaucitronAlertBig
 getyounity.com,howdoyou.do#@#.social-login
 getyounity.com,vimeo.com#@#.facebook-icon
@@ -24722,7 +24723,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -28155,7 +28156,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29938,4 +29939,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.15 (Friday, 2 March 2018 8:22:10 PM AEST)
+! End of Customized All-in-One Adblock List 1.1.16 (Friday, 2 March 2018 11:13:25 PM AEST)
