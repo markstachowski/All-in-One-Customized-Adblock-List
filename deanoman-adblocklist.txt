@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Friday, 2 March 2018 1:14:48 PM AEST
-! Version: 1.1.10
+! Last Modified: Friday, 2 March 2018 2:35:31 PM AEST
+! Version: 1.1.11
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1569,7 +1569,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -1963,6 +1963,8 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /header_fb.
 /header_social_
 /header_socials.
+/headerCookies.
+/headerCookies_
 /header-facebook.png
 /header-rss.
 /header-social-
@@ -3727,6 +3729,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /social_badges/*
 /social_badges_
 /social_black/*
+/social_bookmark_icons/*
 /social_bookmarking.
 /social_bookmarking/*$image
 /social_bookmarks/*
@@ -4213,7 +4216,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -11965,6 +11968,7 @@ _youtube-button.
 ||pushcrew.com^$third-party
 ||pushengage.com^$third-party
 ||pushify.com^$third-party
+||pushpad.xyz^$third-party
 ||pushwoosh.com^$third-party
 ||pussl35.com/*/*/*.js^
 ||puwzwbdopaeq.bid^
@@ -15004,8 +15008,8 @@ accountingtoday.com###wrapper-ofie
 accountkiller.com#@#.social-image
 accounts.codemasters.com,allestörungen.de,encyclopediadramatica.se,facebook.com,foodit.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,inmotionhosting.com,jetpack.wordpress.com,kingswiki.com,ludins.fr,maxthon.com,megabus.com,opendatacity.de,pcgames.de,theoldreader.com,twitter.com,wikipedia.org,youtube.com#@#a[title="Facebook"]
 accounts.codemasters.com,allestörungen.de,encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,jetpack.wordpress.com,kingswiki.com,live.com,maxthon.com,megabus.com,opendatacity.de,outlook.com,twitter.com,wikipedia.org,youtube.com#@#a[title="Twitter"]
-accounts.pixiv.net,adespresso.com,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,aplus.com,appspot.com,chess.com,crowdin.net,dailymotion.com,deezer.com,eventim.de,foodit.com,help.getadblock.com,magine.com,meetme.com,nexoneu.com,nrj.fr,setlist.fm,spotify.com,theoldreader.com,younow.com#@#.btn-facebook
-accounts.pixiv.net,appspot.com,crowdin.net,help.getadblock.com,magine.com,qz.com,setlist.fm,younow.com#@#.btn-twitter
+accounts.pixiv.net,adespresso.com,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,aplus.com,appspot.com,chess.com,crowdin.net,dailymotion.com,deezer.com,eventim.de,foodit.com,help.getadblock.com,magine.com,meetme.com,nexoneu.com,nrj.fr,setlist.fm,spotify.com,thegamebusters.it,theoldreader.com,younow.com#@#.btn-facebook
+accounts.pixiv.net,appspot.com,crowdin.net,help.getadblock.com,magine.com,qz.com,setlist.fm,thegamebusters.it,younow.com#@#.btn-twitter
 accounts.pixiv.net,secure.allocine.fr#@#.btn-gplus
 acega.es##.aviso
 aceprensa.com###anuncio
@@ -19111,6 +19115,7 @@ ezday.co.kr##div#idPigEvent
 ezday.co.kr##div.topr_banner
 ezermester.hu##.alert
 ezermester.hu##.alert-dismissible, .alert-dismissable, .alert--dismissable, .pmd-alert-dismissible
+ezhikezhik.ru#@#.share_content
 e-zikoapteka.pl,tanie-leczenie.pl###notice_bar
 f2p.com###CN
 fabricadetablouri.ro##.uk-alert
@@ -19503,7 +19508,7 @@ foodbabe.com#@#A[href^="http://foodbabe.com"]
 foodbabe.com#@#A[href^="http://www.foodbabe.com"]
 foodbeast.com,glogster.com,good.is,hereisthecity.com,independent.co.uk,petapixel.com,trtworld.com##.shares
 foodingredientsfirst.com,nutritionhorizon.com###News
-foodit.com,theoldreader.com#@#.btn-google-plus
+foodit.com,thegamebusters.it,theoldreader.com#@#.btn-google-plus
 foodnetwork.com###global-toolbar
 foodnetwork.com##.fnmag-ad600
 foodnetwork.com##.geoAdvisoryPopup
@@ -19675,7 +19680,7 @@ frateindovino.eu##.cn-wrapper
 fratinardi.it##.wrapper > div[id*="cookie"]
 free18.net,onbeing.org#@#.addthis_default_style
 freebees.nl##.cc-overlay
-freecodecamp.org#@#.btn-social
+freecodecamp.org,thegamebusters.it#@#.btn-social
 freecycle.org###blocker_message
 freedoflondon.com##.ui-widget, .ui-widget-overlay
 freeenterprise.com###sliding-panel-trigger-1
@@ -29931,4 +29936,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.10 (Friday, 2 March 2018 1:14:48 PM AEST)
+! End of Customized All-in-One Adblock List 1.1.11 (Friday, 2 March 2018 2:35:31 PM AEST)
