@@ -23,7 +23,7 @@ the settings/dashboard. e.g. https://i.imgur.com/ZIUPnhD.png
 **Usage:**
 In your adblocker's filter lists section add the URL: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 
-Check the wiki for step by step instructions. (https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki)
+Check the wiki for step-by-step instructions. (https://github.com/hl2guide/All-in-One-Customized-Adblock-List/wiki)
 
 **Credit:**
 Full credit goes to original list creators and maintainers :D
