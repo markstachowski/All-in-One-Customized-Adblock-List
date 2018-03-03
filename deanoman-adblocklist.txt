@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Saturday, 3 March 2018 5:24:04 PM AEST
-! Version: 1.1.23
+! Last Modified: Saturday, 3 March 2018 8:15:52 PM AEST
+! Version: 1.1.24
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1133,7 +1133,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/CookiesDirective
+/cookiesdirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -3503,7 +3503,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3928,7 +3928,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialnet.
+/socialNet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -4051,7 +4051,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -7345,6 +7345,7 @@ _youtube-button.
 ||baommitouduxo.bid^
 ||barenakedislam.com^$third-party,popup
 ||barilliance.net^$third-party
+||basepush.com^$third-party
 ||basiszinssatz.info/cookiescript.js$script
 ||bat.bing.com^$image
 ||bat.r.msn.com^$image
@@ -14898,6 +14899,7 @@ _youtube-button.
 500px.com,androidsage.com##.spu-box
 500px.com,dearblankpleaseblank.com,groundup.org.za,jpost.com,lumension.com,sciencedaily.com,techsplurge.com###sharing
 50belowinc.com
+538.nl,unileverfoodsolutions.com.br,unileverfoodsolutions.it#@#.cookie-wall
 5pillarsuk.com##.wpcf7
 5-tv.ru##.gttt
 6corde.it##.notice, .header-notice, .notice-bar, .notice-inside, .notice-wrapper, .notice-holder, .global-notice, #top-notice, #noticePanel, .top_notice, #bottom_notice, #Notices, .Notices, #notice
@@ -22557,7 +22559,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -28687,7 +28689,6 @@ uni-kl.de###cookie-uni-kl
 uniladmag.com###itro_opaco
 uniladmag.com###itro_popup
 uniladmag.com##.stb-bottom-right
-unileverfoodsolutions.com.br,unileverfoodsolutions.it#@#.cookie-wall
 unileverfoodsolutions.com.br,unileverfoodsolutions.it#@#.js-cookie-wall
 uni-max.cz##.innerWrap
 uni-max.hu##body > .innerWrap
@@ -29963,4 +29964,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.23 (Saturday, 3 March 2018 5:24:04 PM AEST)
+! End of Customized All-in-One Adblock List 1.1.24 (Saturday, 3 March 2018 8:15:52 PM AEST)
