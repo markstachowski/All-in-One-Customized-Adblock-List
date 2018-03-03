@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Saturday, 3 March 2018 9:02:10 AM AEST
-! Version: 1.1.20
+! Last Modified: Saturday, 3 March 2018 11:53:14 AM AEST
+! Version: 1.1.21
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -2457,31 +2457,31 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /Images2/gp.
 /Images2/tw.
 /imdbads/*
-/img/*/flickr.png
-/img/*/google.png
+/img/*/flickr.png$domain=~github.io
+/img/*/google.png$domain=~github.io
 /img/*/social-
 /img/*/social.gif
 /img/*/social_
 /img/*facebook.gif
-/img/*facebook.jpg
-/img/*facebook.png
+/img/*facebook.jpg$domain=~github.io
+/img/*facebook.png$domain=~github.io
 /img/*google.gif
 /img/*gplus.jpg
-/img/*instagram.png
-/img/*linkedin.jpg
-/img/*linkedin.png
-/img/*pinterest.gif$domain=~pinterest.com
-/img/*pinterest.png$domain=~pinterest.com
+/img/*instagram.png$domain=~github.io
+/img/*linkedin.jpg$domain=~github.io
+/img/*linkedin.png$domain=~github.io
+/img/*pinterest.gif$domain=~github.io|~pinterest.com
+/img/*pinterest.png$domain=~github.io|~pinterest.com
 /img/*quora.png
 /img/*rss.gif
 /img/*rss.png
-/img/*tumblr.png
-/img/*twitter.gif
-/img/*twitter.jpg
-/img/*twitter.png
+/img/*tumblr.png$domain=~github.io
+/img/*twitter.gif$domain=~github.io
+/img/*twitter.jpg$domain=~github.io
+/img/*twitter.png$domain=~github.io
 /img/*youtube.gif
 /img/*youtube.jpg
-/img/*youtube.png
+/img/*youtube.png$domain=~github.io
 /img/facebook-
 /img/facebook.
 /img/facebook_
@@ -3501,7 +3501,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/Sharefb.
+/sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3926,7 +3926,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialnet.
+/socialNet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -4049,7 +4049,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4217,7 +4217,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -5966,6 +5966,7 @@ $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
 @@||surveygizmo.com^$third-party
 @@||surveygizmo.com^*_output$script,domain=motorsport.com
 @@||surveymonkey.com^$third-party
+@@||swappa.com/static/icons/social/login_$image
 @@||swiftype.com^$third-party
 @@||symantec.com/content/*/about/images/social/b-$image
 @@||syndication.twitter.com/tweets.json?*&callback=$script
@@ -9098,6 +9099,7 @@ _youtube-button.
 ||gamefocus.co.kr/bncode2/banner_right.html^$domain=gamefocus.co.kr
 ||gamefocus.co.kr/bncode2/banner_top.html^$domain=gamefocus.co.kr
 ||gamemeca.com/_crossDomain/adload.php^$domain=gamemeca.com
+||gamestop.com^*/btt.jpg
 ||gametoc.hankyung.com/banner/*.html^
 ||gameyum.com/_static/popup/
 ||garss.tv^$third-party
@@ -14867,6 +14869,7 @@ _youtube-button.
 3net.com,500px.com,9gag.com,abc.net.au,about.com,acculturated.com,adsupplyads.com,al.com,algemeiner.com,alibaba.com,askmen.com,autoblog.com,autoguide.com,autoline-eu.co.uk,autoline-eu.co.za,autoline-eu.ie,autoline-market.ca,autoline-market.com,autoline.info,bbc.co.uk,bbc.com,bit-tech.net,blog.swiftkey.com,bloomberg.com,bossip.com,businessinsider.com,care2.com,cbsnews.com,ch-aviation.com,cheezburger.com,cinemablend.com,couriermail.com.au,crossmap.com,dailycaller.com,dailymail.co.uk,dailystar.co.uk,dancestarparty.com,democracynow.org,digitallook.com,digitalrev.com,dogandponyshowwebsite.com,drama.net,drinkaware.co.uk,drive-now.com,dw.com,emigrate2.co.uk,empireonline.com,espnmediazone.com,everybodydancegame.com,ew.com,famouslyfit.com,filecore.co.nz,fileshack.net,flowingdata.com,foodnetwork.com,forward.com,forzaitalianfootball.com,foxnews.com,freshtechweb.com,g4tv.com,galoremag.com,gamepro.com,gamingonlinux.com,getdigital.co.uk,gizmodo.com.au,goal.com,good.is,google.com,gospelherald.com,gossiponthis.com,guyism.com,healthguru.com,heavytshirt.com,hotair.com,howstuffworks.com,html5rocks.com,hulu.com,hypetrak.com,ibtimes.co.in,ibtimes.co.uk,idigitaltimes.com,ifc.com,ijreview.com,independent.co.uk,india.com,indiatimes.com,infamousthegame.com,intomobile.com,iono.fm,jumbosky.com,kbs.co.kr,kmfa.org,kotaku.com.au,kqed.org,leadingcompany.com.au,lifehacker.com,maindevice.com,makeagif.com,mandatory.com,mediauk.com,meteoblue.com,milesplit.com,mobilespect.com,mozilla.org,mtv.com,myrecipes.com,nationalreview.com,naughtydog.com,ncronline.org,newegg.com,newrepublic.com,nickmom.com,nj.com,nola.com,novirusthanks.org,npr.org,nzherald.co.nz,omny.fm,onextrapixel.com,onthewire.io,openforum.com,opposingviews.com,paidcontent.org,parent24.com,pbs.org,pcmag.com,pcworld.com,people.com,petrolicious.com,planetware.com,playstation.com,pleaseshutup.com,politico.com,psfk.com,qz.com,rackspace.com,redbullcrashedice.com,rent-a-home.com.au,sacbee.com,salon.com,scpr.org,segmentnext.com,shacknews.com,si.com,similarweb.com,singstar.com,ski.com.au,skype.com,slantmagazine.com,sltrib.com,soulwire.co.uk,sourcefednews.com,spankbang.com,springer.com,sprintfeed.com,stars-portraits.com,steampowered.com,suntimes.com,surfacemag.com,take40.com,ted.com,thefile.me,theglobaldispatch.com,thenational.ae,thewindowsclub.com,timeline.com,timeslive.co.za,tomonews.net,tor.com,torontosun.com,tunein.com,tv.yahoo.com,tvnz.co.nz,twitchy.com,uanews.org,unhearit.com,usatoday.com,utoronto.ca,vanityfair.com,verisign.com,vh1.com,videoweed.es,virtex.com,visiontimes.com,washingtonpost.com,watchcartoononline.com,wegotthiscovered.com,wheels24.co.za,wired.co.uk,wmagazine.com,wsj.com,xda-developers.com,xhamster.com,yipit.com##.share
 3rei.info###mydiv
 40tech.com,amandapeyton.com,blockr.io,blogsdna.com,businessinsider.com,crikey.com.au,dailymotion.com,designtaxi.com,firstsrowsports.eu,fwix.com,geek.com,geekosystem.com,gossipcop.com,hellomagazine.com,html5test.com,imm.io,indiegogo.com,mcdonalds.com,mediaite.com,medicaldaily.com,midwestsportsfans.com,mtvmusic.com,notepad-plus-plus.org,people-press.org,plosone.org,redpepperland.com,scitechdaily.com,seriouseats.com,stabmag.com,tcmag.com,technewsworld.com,techvert.com,tnp.no,torrentfreak.com,tvnz.co.nz,usgs.gov,voltairenet.org,washingtonpost.com,whatbrowser.org,wolframalpha.com###share
+4399.cn##.gotop
 -468x60.
 47news.jp##div#gAds_detailPage
 48poland.com###gbpl_oba
@@ -14929,10 +14932,10 @@ _youtube-button.
 9to5mac.com,a-ha.com,askvg.com,everfi.com,healthymagination.com,proboards.com,sap.com,saturn.de,techspot.com,wccftech.com##.youtube
 9to5mac.com,sobadsogood.com###header-banner
 9to5toys.com##div.tha4673a86
-a2zapk.com,battleforthenet.com,breakoutlist.com,disqus.com,eff.org,gitlab.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,hackerone.com,incgamers.com,maxthon.com,microsoft.com,opendatacity.de,thoughtcatalog.com,twitter.com,vvhp.net,whatculture.com,whatthetech.com#@#img[alt="Twitter"]
-a2zapk.com,disqus.com,eff.org,facebook.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,heise.de,hockeyapp.net,incgamers.com,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,ludins.fr,maxthon.com,microsoft.com,opendatacity.de,playboy.com,sky.com,t3n.de,thoughtcatalog.com,twitter.com,udacity.com,vvhp.net,whatthetech.com#@#img[alt="Facebook"]
-a2zapk.com,eff.org,google.co.nz,google.co.uk,google.com,google.com.au,google.de,linkedin.com#@#img[alt="LinkedIn"]
-a2zapk.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,vvhp.net,whatculture.com#@#img[alt="Instagram"]
+a2zapk.com,battleforthenet.com,breakoutlist.com,disqus.com,eff.org,github.io,gitlab.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,hackerone.com,incgamers.com,maxthon.com,microsoft.com,opendatacity.de,thoughtcatalog.com,twitter.com,vvhp.net,whatculture.com,whatthetech.com#@#img[alt="Twitter"]
+a2zapk.com,disqus.com,eff.org,facebook.com,github.io,google.co.nz,google.co.uk,google.com,google.com.au,google.de,heise.de,hockeyapp.net,incgamers.com,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,ludins.fr,maxthon.com,microsoft.com,opendatacity.de,playboy.com,sky.com,t3n.de,thoughtcatalog.com,twitter.com,udacity.com,vvhp.net,whatthetech.com#@#img[alt="Facebook"]
+a2zapk.com,eff.org,github.io,google.co.nz,google.co.uk,google.com,google.com.au,google.de,linkedin.com#@#img[alt="LinkedIn"]
+a2zapk.com,github.io,google.co.nz,google.co.uk,google.com,google.com.au,google.de,vvhp.net,whatculture.com#@#img[alt="Instagram"]
 a2zapk.com,maxthon.com,opendatacity.de,whatculture.com#@#img[alt="Youtube"]
 aab.dk##.cookieinject
 aashpazi.com##DIV[id^="ad_300"]
@@ -15001,16 +15004,16 @@ academia.edu,twitter.com#@#.fb-btn
 academicearth.org###bottom_toolbar
 academicearth.org,econsultancy.com,thefutureofthings.com###kampylink
 acara.cz##body > div:not([id]):not([class])
-acceptableads.org,battleforthenet.com,breakoutlist.com,easyicon.net,microsoft.com,rantlifestyle.com#@#img[alt="Reddit"]
+acceptableads.org,battleforthenet.com,breakoutlist.com,easyicon.net,github.io,microsoft.com,rantlifestyle.com#@#img[alt="Reddit"]
 accessibilitacentristorici.it###htmlbox_div1
 accessorize.com##.deliver-container
 account.here.com,uktv.co.uk#@#.cookie-notice
 account.microsoft.com#@#.privacy-container
 accountingtoday.com###wrapper-ofie
 accountkiller.com#@#.social-image
-accounts.codemasters.com,allestörungen.de,encyclopediadramatica.se,facebook.com,foodit.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,inmotionhosting.com,jetpack.wordpress.com,kingswiki.com,ludins.fr,maxthon.com,megabus.com,opendatacity.de,pcgames.de,theoldreader.com,twitter.com,wikipedia.org,youtube.com#@#a[title="Facebook"]
-accounts.codemasters.com,allestörungen.de,encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,jetpack.wordpress.com,kingswiki.com,live.com,maxthon.com,megabus.com,opendatacity.de,outlook.com,twitter.com,wikipedia.org,youtube.com#@#a[title="Twitter"]
-accounts.pixiv.net,adespresso.com,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,aplus.com,appspot.com,chess.com,crowdin.net,dailymotion.com,deezer.com,eventim.de,foodit.com,help.getadblock.com,magine.com,meetme.com,nexoneu.com,nrj.fr,setlist.fm,spotify.com,thegamebusters.it,theoldreader.com,younow.com#@#.btn-facebook
+accounts.codemasters.com,allestörungen.de,encyclopediadramatica.se,facebook.com,foodit.com,github.io,google.co.nz,google.co.uk,google.com,google.com.au,google.de,inmotionhosting.com,jetpack.wordpress.com,kingswiki.com,ludins.fr,maxthon.com,megabus.com,opendatacity.de,pcgames.de,theoldreader.com,twitter.com,wikipedia.org,youtube.com#@#a[title="Facebook"]
+accounts.codemasters.com,allestörungen.de,encyclopediadramatica.se,github.com,github.io,google.co.nz,google.co.uk,google.com,google.com.au,google.de,jetpack.wordpress.com,kingswiki.com,live.com,maxthon.com,megabus.com,opendatacity.de,outlook.com,twitter.com,wikipedia.org,youtube.com#@#a[title="Twitter"]
+accounts.pixiv.net,adespresso.com,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,aplus.com,appspot.com,chess.com,crowdin.net,dailymotion.com,deezer.com,eventim.de,foodit.com,help.getadblock.com,magine.com,meetme.com,nexoneu.com,nrj.fr,setlist.fm,spotify.com,swappa.com,thegamebusters.it,theoldreader.com,younow.com#@#.btn-facebook
 accounts.pixiv.net,appspot.com,crowdin.net,help.getadblock.com,magine.com,qz.com,setlist.fm,thegamebusters.it,younow.com#@#.btn-twitter
 accounts.pixiv.net,secure.allocine.fr#@#.btn-gplus
 acega.es##.aviso
@@ -15258,7 +15261,7 @@ aliexpress.com##.site-notice-header
 aliexpress.com##.ui-fixed-panel
 aliexpress.com##.ui-mask
 aliexpress.com##.ui-newuser-layer-dialog
-aliexpress.com,github.com#@#a[title="facebook"]
+aliexpress.com,github.com,github.io#@#a[title="facebook"]
 alipaczka.pl###bottom-charm
 aljazeera.com###ctl00_ctl03_layout2
 aljazeera.com###ctl00_ctl07_layout2
@@ -15279,11 +15282,11 @@ allday.com##.email-sub
 allegro.pl###show_ads
 allekoszyk.pl###allekoszyk > div[style*="position:fixed"] .ng-scope
 all-episodes.net###odin
-allestörungen.de,encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,heise.de,maxthon.com,opendatacity.de,pcgameshardware.de,wikipedia.org#@#a[title="Youtube"]
-allestörungen.de,encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,linkedin.com,wikipedia.org#@#a[title="LinkedIn"]
-allestörungen.de,fark.com,keepa.com,marketplace.firefox.com,vvhp.net#@#img[title="Twitter"]
-allestörungen.de,keepa.com,marketplace.firefox.com,vvhp.net#@#img[title="Facebook"]
-allestörungen.de,whatismyip.com#@#img[title="LinkedIn"]
+allestörungen.de,encyclopediadramatica.se,github.com,github.io,google.co.nz,google.co.uk,google.com,google.com.au,google.de,heise.de,maxthon.com,opendatacity.de,pcgameshardware.de,wikipedia.org#@#a[title="Youtube"]
+allestörungen.de,encyclopediadramatica.se,github.com,github.io,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,linkedin.com,wikipedia.org#@#a[title="LinkedIn"]
+allestörungen.de,fark.com,github.io,keepa.com,marketplace.firefox.com,vvhp.net#@#img[title="Twitter"]
+allestörungen.de,github.io,keepa.com,marketplace.firefox.com,vvhp.net#@#img[title="Facebook"]
+allestörungen.de,github.io,whatismyip.com#@#img[title="LinkedIn"]
 allfacebook.com,amateurgourmet.com,annyas.com,csgolounge.com,glogster.com,interviewmagazine.com,mediabistro.com,metoffice.gov.uk,recombu.com,socialtimes.com,the-scientist.com,thehairpin.com,thenextweb.com,tvmaze.com,usatoday.com###follow
 all-free-download.com##DIV[class$="banner"]
 all-free-download.com##LI[id^="ads"]
@@ -15417,7 +15420,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -15968,6 +15971,7 @@ bad-wildbad.de##.popupbox
 bagigia.com##.bica-content
 baginton-village.org.uk###message, .message
 bahnhof.se##.top-line-block
+baike.com##.li-top
 bairroarte.com###icookie
 baixaki.com.br###bxkapp
 baks.com.pl##.flash-msg-new
@@ -16618,7 +16622,7 @@ breaknews.com##div#bn25
 breaknews.com##div.bn
 breaknews.com##div.center_bn
 breaknews.com##div.contents_read>table:nth-of-type(2)>tbody>tr>td[style="padding-top:10px"]
-breakoutlist.com,eff.org,facebook.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,microsoft.com,rantlifestyle.com#@#img[alt="Pinterest"]
+breakoutlist.com,eff.org,facebook.com,github.io,google.co.nz,google.co.uk,google.com,google.com.au,google.de,microsoft.com,rantlifestyle.com#@#img[alt="Pinterest"]
 breckon.co.uk###cppd
 brecorder.com##.subhtop
 bredbandsbolaget.se##body > .box
@@ -18313,7 +18317,7 @@ discotecafellini.com###privacybar
 discounto.de##.alert-dismissible, .alert-dismissable, .alert--dismissable, .pmd-alert-dismissible
 discountoffice.nl###bottomscreen
 discountsstory.com##.app_banner_right
-discourse.org,megabus.com#@#img[alt="twitter"]
+discourse.org,github.io,megabus.com#@#img[alt="twitter"]
 discoverholland.com##body > .popup
 discovermagazine.com###tool-box
 discovermagazine.com##.articleToolsPhoto
@@ -18815,9 +18819,9 @@ emtecko.cz###__loadCookie
 en.mercopress.com###email-reports
 encrypted.google.com,stackexchange.com###promo-box
 encyclopediadramatica.se###column-one > .portlet[style="z-index:99999;"]
+encyclopediadramatica.se,github.com,github.io,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,wikipedia.org#@#a[title="Pinterest"]
+encyclopediadramatica.se,github.com,github.io,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,wikipedia.org,youtube.com#@#a[title="Google+"]
 encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,wikipedia.org#@#a[title="Google Plus"]
-encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,wikipedia.org#@#a[title="Pinterest"]
-encyclopediadramatica.se,github.com,google.co.nz,google.co.uk,google.com,google.com.au,google.de,kingswiki.com,wikipedia.org,youtube.com#@#a[title="Google+"]
 end.de###hb-cc-wrap
 endocrineweb.com###simplemodal-container
 endocrineweb.com###simplemodal-overlay
@@ -18888,6 +18892,7 @@ e-pages.dk###privacyConsent
 epapierosylodz.pl###topInfoContainer0, #topInfoContainer1, #topInfoContainer1Mask, #top_info, .top_info
 e-petrol.pl###statement
 epexspot.com###ub
+epicgames.com##.up-button
 epicurious.com###luxury_link_promo
 epicurious.com###newsLetter
 epiotrkow.pl##.cookskom
@@ -19161,7 +19166,7 @@ facebook.com#@#a[href^="https://www.facebook.com/sharer.php?"]
 facebook.com,fb.com#@#.fb-like
 facebook.com,fb.com#@#.fb-link
 facebook.com,forum.albiononline.com#@#.likeButton
-facebook.com,megabus.com,theguardian.com,uservoice.com#@#img[alt="facebook"]
+facebook.com,github.io,megabus.com,theguardian.com,uservoice.com#@#img[alt="facebook"]
 -facebook.js$domain=~king.com
 facebook.net
 -facebook.svg
@@ -19226,7 +19231,7 @@ faqin.org##.alert-dismissible, .alert-dismissable, .alert--dismissable, .pmd-ale
 fareastgizmos.com###sticky-area-container
 fark.com###abPleaBar
 fark.com,geeksaresexy.net,imgur.com,mayoclinic.com,nintendogal.com,opposingviews.com,status.twitter.com###rss
-fark.com,marketplace.firefox.com,vvhp.net#@#img[title="YouTube"]
+fark.com,github.io,marketplace.firefox.com,vvhp.net#@#img[title="YouTube"]
 fark.com,opposingviews.com###gplus
 farmacieaperte.it###warning-popup
 farmacosmo.it###bottombar
@@ -19292,6 +19297,9 @@ ferpy.com##w-div
 feuvert.fr###cookies
 feuvert.pl###info
 fewo-direkt.de,nvidia.pl#@#.subscribe-container
+fextralife.com##.flex-direction-nav
+fextralife.com##.nav-left
+fextralife.com##.nav-right
 feyenoord.nl###cookies
 ffonts.net###sticky-popup
 ffonts.net,whatfontis.com###sticky-popup
@@ -19683,7 +19691,7 @@ frateindovino.eu##.cn-wrapper
 fratinardi.it##.wrapper > div[id*="cookie"]
 free18.net,onbeing.org#@#.addthis_default_style
 freebees.nl##.cc-overlay
-freecodecamp.org,thegamebusters.it#@#.btn-social
+freecodecamp.org,swappa.com,thegamebusters.it#@#.btn-social
 freecycle.org###blocker_message
 freedoflondon.com##.ui-widget, .ui-widget-overlay
 freeenterprise.com###sliding-panel-trigger-1
@@ -19873,6 +19881,7 @@ gamesrepublic.com##.user-tw
 gamesrepublic.com##.user-yt
 gamesrepublic.com#@#.social-top
 gamestar.de##.content > .columnContent > .bottomservice
+gamestop.com##.bttbtn
 games-workshop.com###cookieWarning_gw
 gametoc.hankyung.com##iframe[src^="/banner/"][src$=".html"]
 gametwist.com##.message__container
@@ -20054,6 +20063,7 @@ github.com##div[class*=octofication]
 github.com##div[class*=signup-prompt]
 github.com#@#.social-count
 github.com,kifi.com,okcupid.com,retailmenot.com#@#.signup-email
+github.io,google.co.nz,google.co.uk,google.com,google.com.au,google.de,vvhp.net,xkcd.com,youtube.com#@#img[alt="Google+"]
 gittigidiyor.com##.policy-alert
 giulianomazzuoli.it###cookievjw
 giunti.it##.cookie
@@ -20187,7 +20197,6 @@ google.ca,google.co.nz,google.co.uk,google.com,google.com.au,google.com.eg,googl
 google.ch###epbar, #cnsh, #pushdown, #consent-bump, #taw ._pei, #cnsi ~ [jsaction*="dismiss"], santa-notice
 google.cl###epbar, #cnsh, #pushdown, #consent-bump, #taw ._pei, #cnsi ~ [jsaction*="dismiss"], santa-notice
 google.co.nz,google.co.uk,google.com,google.com.au,google.de,google.fr#@#.rss_icon
-google.co.nz,google.co.uk,google.com,google.com.au,google.de,vvhp.net,xkcd.com,youtube.com#@#img[alt="Google+"]
 google.co.uk###epbar, #cnsh, #pushdown, #consent-bump, #taw ._pei, #cnsi ~ [jsaction*="dismiss"], santa-notice
 google.co.uk##div[style="behavior:url(#default#userData);background-color:#5a5a5a"]
 google.co.ve###epbar, #cnsh, #pushdown, #consent-bump, #taw ._pei, #cnsi ~ [jsaction*="dismiss"], santa-notice
@@ -27400,6 +27409,7 @@ sviluppoeconomico.gov.it###body-bg > div:not([id]):not([class])
 swaego.ru##body > .special-message-wrapper
 swann-morton.com###easyNotification
 swaper.com###confirm-stripe
+swappa.com#@##social-buttons
 swarovskioptik.com###cpp-wrapper
 sw-db.com##.warning
 swedoor.dk###swedoor_privacy_widget
@@ -28160,7 +28170,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.socialButton
+tomshardware.com#@#.SocialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -29943,4 +29953,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.20 (Saturday, 3 March 2018 9:02:10 AM AEST)
+! End of Customized All-in-One Adblock List 1.1.21 (Saturday, 3 March 2018 11:53:14 AM AEST)
