@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Sunday, 4 March 2018 8:27:38 PM AEST
-! Version: 1.1.33
+! Last Modified: Sunday, 4 March 2018 8:55:20 PM AEST
+! Version: 1.1.36
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1133,7 +1133,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/CookiesDirective
+/cookiesdirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1573,7 +1573,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -4052,7 +4052,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spritesocialicons.
+/spriteSocialIcons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -9390,6 +9390,7 @@ _youtube-button.
 ||gwx.adlibr.com/script/advi/advi.js^
 ||gxdyluyqciac.com^
 ||gxfzlnwlizmur.com^
+||gxgtmttcaofiq.com^
 ||gxluqcpsfhc.bid^
 ||gxmpahyt.bid^
 ||gxordgtvjr.com^
@@ -10719,6 +10720,7 @@ _youtube-button.
 ||lzfvonzwjzhz.com^
 ||lzpqpstowpvz.bid^
 ||lzrfxzvfbkay.com^
+||lzsiojww.com^
 ||lzvnaaozpqyb.com^
 ||m.11st.co.kr/MW/html/allianceAd/
 ||m.adnxs.com/ut/v3^
@@ -15455,7 +15457,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -22594,7 +22596,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#minor_view_middle
+m.dcinside.com##div#Minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -28220,7 +28222,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -30003,4 +30005,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.33 (Sunday, 4 March 2018 8:27:38 PM AEST)
+! End of Customized All-in-One Adblock List 1.1.36 (Sunday, 4 March 2018 8:55:20 PM AEST)
