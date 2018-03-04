@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Sunday, 4 March 2018 9:55:37 PM AEST
-! Version: 1.1.37
+! Last Modified: Monday, 5 March 2018 12:46:53 AM AEST
+! Version: 1.1.38
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -45,7 +45,7 @@
 ! * You's List (Chayoung You) [Blocks even more ads.] - https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 ! * YouTube: Pure Video Experience (EasyList) [Blocks all YouTube annoyances.] - https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt
 !
-$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|bitvid.sx|ddmix.net|dekoder.ws|djs.sk|estream.to|fileone.tv|fruitstreams.com|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|mladipodnikatelia.sk|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|shrink-service.it|skyback.ru|streamango.com|streamcherry.com|szukajka.tv|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidfile.net|vidgg.to|vidoza.net|vidto.me|vidtod.me|vidup.me|vidzi.si|vidzi.tv
+$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|bitvid.sx|ddmix.net|dekoder.ws|djs.sk|estream.to|fileone.tv|fruitstreams.com|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|mladipodnikatelia.sk|movie4k.is|oload.info|onlinevideoconverter.com|oload.tv|openload.co|powvideo.net|shrink-service.it|skyback.ru|streamango.com|streamcherry.com|szukajka.tv|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidfile.net|vidgg.to|vidoza.net|vidto.me|vidtod.me|vidup.me|vidzi.si|vidzi.tv
 $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|nowvideo.sx|powvideo.net|szukajka.tv|vidfile.net|vidgg.to|wholecloud.net
 &activate_counter=
 &ad_ids=
@@ -218,6 +218,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 .jtweetsanywhere.
 .kim/adv/
 .kissinsights.com/
+.loan^$third-party,websocket
 .me/ads/
 .membershipfacebookintegration.
 .men^$third-party,websocket
@@ -1133,7 +1134,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1573,7 +1574,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/FBicon.
+/fbicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3504,7 +3505,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3971,7 +3972,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialsharecount.
+/socialShareCount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4448,7 +4449,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -9028,6 +9029,8 @@ _youtube-button.
 ||frczfzikturw.com^
 ||frddujheozns.com^
 ||freecontent.bid^$third-party
+||freecontent.loan^$third-party
+||freecontent.win^$third-party
 ||freegamehosting.eu/js/cookies.js$script
 ||freehostinghero.com/img/tw.png
 ||freeskreen.com^
@@ -10712,6 +10715,7 @@ _youtube-button.
 ||lyovvtevsu.bid^
 ||lytaxbxen.bid^
 ||lytics.io^
+||lyuswpdanr.com^
 ||lyvnduow.bid^
 ||lyygeitghavmm.com^
 ||lyzskjigkxwy.com^
@@ -13583,6 +13587,7 @@ _youtube-button.
 ||uzesptwcwwmt.com^
 ||uzkkocgdasr.bid^
 ||uzmmpskwon.com^
+||uzqptkclvcaa.com^
 ||uzqtaxiorsev.com^
 ||uzsywcdthqplzv.bid^
 ||uzvjymcnwngwau.bid^
@@ -15457,7 +15462,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -24783,7 +24788,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -28222,7 +28227,7 @@ tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
 tomshardware.com#@##shareBar
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -30005,4 +30010,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.37 (Sunday, 4 March 2018 9:55:37 PM AEST)
+! End of Customized All-in-One Adblock List 1.1.38 (Monday, 5 March 2018 12:46:53 AM AEST)
