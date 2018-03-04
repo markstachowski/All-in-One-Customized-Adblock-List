@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Monday, 5 March 2018 3:37:54 AM AEST
-! Version: 1.1.39
+! Last Modified: Monday, 5 March 2018 6:29:14 AM AEST
+! Version: 1.1.40
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -3505,7 +3505,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3930,7 +3930,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /social-media-widget/*$~stylesheet
 /social-myspace-
 /social-nav-
-/socialNet.
+/socialnet.
 /socialNetFooter.
 /social-network.
 /socialnetwork.png
@@ -3972,7 +3972,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4053,7 +4053,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4221,7 +4221,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -7856,6 +7856,7 @@ _youtube-button.
 ||celeb.nann.co.kr^
 ||celebjihad.com^$third-party
 ||cesxssavc.com^
+||cewegncr.com^
 ||cewviaslxyyr.com^
 ||cfdmkifknsjt.com^
 ||cfsdtzggpcmr.com^
@@ -8083,6 +8084,7 @@ _youtube-button.
 ||counterpsyops.com^$third-party,popup
 ||coupontime.co^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||covjoecuzyss.com^
+||cowmslkltc.com^
 ||coxgtwdios.bid^
 ||coyhvotxgrnq.com^
 ||cozclrlpsk.com^
@@ -15167,6 +15169,7 @@ aetv.com,fyi.tv,history.com,mylifetime.com,nintendolife.com,vg247.com##.share-th
 afbbs.afreecatv.com##div#div_video_ad_banner
 afcwimbledon.co.uk##.optional_module.profile_summary
 afecreation.fr###notificationcookie
+affaritaliani.it,hdmotori.it,vg247.it##.social
 affaronissimo.it###af-cw-box
 affecto.fi##.privacy-policy-container
 affiliatefix.com##.sitemaps_links_horizontal
@@ -15464,7 +15467,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -20591,7 +20594,6 @@ hcanews.com##.house300x90
 hcanews.com##.registerNavText
 hcplive.com,policymic.com###article-finished
 hdi.global##.js-top-header
-hdmotori.it,vg247.it##.social
 hdr-photographer.com###rn_container
 hdw.me###clayer, #CLayer
 -header-social-
@@ -22065,6 +22067,7 @@ last.fm##.site-message
 last.fm#@##sharebuttons
 last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,songkick.com#@#.social-sharing
 last.fm,smbc-comics.com#@##sharebar
+lastampa.it,tomshardware.com#@##shareBar
 lasy.gov.pl##.popup-alert-notice
 lateliermoderne.fr###headband
 -latest-tweets/
@@ -28228,7 +28231,6 @@ tomshardware.com###sideOffers
 tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
-tomshardware.com#@##shareBar
 tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
@@ -30012,4 +30014,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.39 (Monday, 5 March 2018 3:37:54 AM AEST)
+! End of Customized All-in-One Adblock List 1.1.40 (Monday, 5 March 2018 6:29:14 AM AEST)
