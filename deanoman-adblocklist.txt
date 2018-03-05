@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Monday, 5 March 2018 9:46:26 PM AEST
-! Version: 1.1.44
+! Last Modified: Tuesday, 6 March 2018 12:37:30 AM AEST
+! Version: 1.1.45
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1107,7 +1107,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -3479,7 +3479,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3946,7 +3946,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4027,7 +4027,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4423,7 +4423,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -7522,6 +7522,7 @@ _youtube-button.
 ||blvqxlczxeda.com^
 ||blyppvdjofkqg.bid^
 ||bmalhekpohve.bid^
+||bmbnpxxwxdt.com^
 ||bmirhdkborr.bid^
 ||bmmqsdyud.com^
 ||bmnccwprdrszpj.bid^
@@ -8420,6 +8421,7 @@ _youtube-button.
 ||dreamsearch.or.kr/servlet/adBannerFloating^
 ||dreamsearch.or.kr/servlet/adbn^
 ||dreamsearch.or.kr/servlet/adbnMobileBanner^
+||dreamsearch.or.kr/servlet/adbnMobileFloating^
 ||dreamsearch.or.kr/servlet/iadbn^
 ||dreamsearch.or.kr/servlet/nateMobileServlet^
 ||dreamsearch.or.kr/servlet/sadbn^
@@ -8614,6 +8616,7 @@ _youtube-button.
 ||emvdlnwph.com^
 ||emxbuugvudofbc.bid^
 ||emxwkunx.bid^
+||emzotevsto.com^
 ||encrypted-tbn2.gstatic.com/images?$domain=vitorrent.org
 ||encvhiseje.bid^
 ||endoftheamericandream.com^$third-party,popup
@@ -11831,6 +11834,8 @@ _youtube-button.
 ||plmvsvgyaeyo.bid^
 ||plquutxxewil.com^
 ||plugin.2beon.co.kr^
+||plugin.adplex.co.kr/script/2beonAdScript.js^
+||plugin.adplex.co.kr/script/bridgeAd.js^
 ||plugin.me2day.net^$third-party
 ||plus.google.com^$third-party
 ||plus.google.com^*/js/widget/$third-party
@@ -15450,7 +15455,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -22590,7 +22595,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -24777,7 +24782,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -27170,6 +27175,7 @@ sports.media.daum.net##div.wing_bnr2
 sports.mk.co.kr##body>center>div[style="display:inline-block;width:970px;height:90px"]
 sports.mk.co.kr##div#artText>div.read_txt>div.right_image
 sports.mk.co.kr##div#new_header>div[style="float: right; width: 250px; height: 60px;padding-top: 14px;"]
+sports.mk.co.kr##div.bn_wrap
 sports.mk.co.kr##div[id^="slidemenu"]
 sports.mk.co.kr##iframe[src^="http://artsnews.mk.co.kr/paper/ad/"]
 sports.mk.co.kr##td.rightsec>table>tbody>tr:nth-of-type(2)>td>div[style="position:relative; width:300px; height:250px; margin:0; padding:0; overflow:hidden;"]
@@ -29998,4 +30004,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.44 (Monday, 5 March 2018 9:46:26 PM AEST)
+! End of Customized All-in-One Adblock List 1.1.45 (Tuesday, 6 March 2018 12:37:30 AM AEST)
