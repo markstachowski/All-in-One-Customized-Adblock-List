@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Monday, 5 March 2018 12:11:14 PM AEST
-! Version: 1.1.41
+! Last Modified: Monday, 5 March 2018 12:37:22 PM AEST
+! Version: 1.1.42
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1102,7 +1102,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -3940,7 +3940,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialsharecount.
+/socialShareCount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -9361,6 +9361,7 @@ _youtube-button.
 ||gwasavfgelbuah.bid^
 ||gwk.adlibr.com/script/web/smart/banner_ad.js^
 ||gwqkliacsn.bid^
+||gwquuagkjxbq.com^
 ||gwx.adlibr.com/script/advi/advi.js^
 ||gxdyluyqciac.com^
 ||gxfzlnwlizmur.com^
@@ -22578,7 +22579,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -29986,4 +29987,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.41 (Monday, 5 March 2018 12:11:14 PM AEST)
+! End of Customized All-in-One Adblock List 1.1.42 (Monday, 5 March 2018 12:37:22 PM AEST)
