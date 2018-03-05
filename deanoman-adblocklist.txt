@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Tuesday, 6 March 2018 3:28:28 AM AEST
-! Version: 1.1.46
+! Last Modified: Tuesday, 6 March 2018 6:19:49 AM AEST
+! Version: 1.1.47
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1107,7 +1107,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/CookiesDirective
+/cookiesdirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -4028,7 +4028,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /sprite-social-
 /spriteSocial.
 /sprite-social.
-/spriteSocialIcons.
+/spritesocialicons.
 /spritesocialiconsbig.
 /spritesocialiconssmall.
 /sprites-social-
@@ -4196,7 +4196,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingcode.
+/trackingCode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -4424,7 +4424,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -4643,6 +4643,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /xmr-monero.js
 /xpopunder.
 /xrss_icon.
+/xshare_
 /xsocial_sprites_
 /xsocial-icons.
 /xtopadlabel?
@@ -15159,7 +15160,7 @@ aetv.com,fyi.tv,history.com,mylifetime.com,nintendolife.com,vg247.com##.share-th
 afbbs.afreecatv.com##div#div_video_ad_banner
 afcwimbledon.co.uk##.optional_module.profile_summary
 afecreation.fr###notificationcookie
-affaritaliani.it,corriere.it,hdmotori.it,vg247.it##.social
+affaritaliani.it,corriere.it,hdmotori.it,milanofinanza.it,vg247.it##.social
 affaronissimo.it###af-cw-box
 affecto.fi##.privacy-policy-container
 affiliatefix.com##.sitemaps_links_horizontal
@@ -16057,9 +16058,9 @@ basilicasanzeno.it##.policy, #policy, .cpolicy
 basinga.net,biosciencetechnology.com,cemag.us,culturemap.com,dailykos.com,dealcanada.ca,eatingwell.com,economist.com,electricpig.co.uk,newrepublic.com,pddnet.com,petri.com,rdmag.com,richersounds.com,securityweek.com,stagram.com,technologyreview.com###simplemodal-overlay
 basinga.net,biosciencetechnology.com,cemag.us,culturemap.com,dailykos.com,dealcanada.ca,eatingwell.com,economist.com,electricpig.co.uk,newrepublic.com,pddnet.com,petri.com,richersounds.com,securityweek.com,stagram.com,technologyreview.com###simplemodal-container
 basiszins.de###wrapperdiv
+basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilfoglio.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.newsletter
 basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowleft
 basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.arrowright
-basketinside.com,carpicalcionews.it,cittaceleste.it,corsedimoto.com,fantamagazine.com,fcinter1908.it,forzaroma.info,gazzamercato.it,golssip.it,ilmilanista.it,itasportpress.it,juvenews.eu,mediagol.it,mondoudinese.it,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,sassuolocalcionews.it,sportavellino.it,tenniscircus.com,toronews.net,tuttobolognaweb.it,violanews.com##.newsletter
 basketsession.com##body > div:not([id]):not([class])
 baskino.co##div#b-mtbcbar__container
 baskino.co##div.skin-block
@@ -16582,6 +16583,7 @@ borelioza.vegie.pl###menubar > center
 bornrich.com##.navigatePerma
 bornrich.com##.Ticker
 borotalco.it##.ccp-banner
+borse.it,evomagazine.it##.top
 bose.at##.bose-infoBar2016
 bose.co.uk##.bose-infoBar2016
 bose.de##.bose-infoBar2016--cookie
@@ -19086,7 +19088,6 @@ evite-analytics.appspot.com
 evo.co.uk###__ic-notice, #__ic-notice-container
 evobanco.com###container > .portlet-layout
 evomagazine.it###RegSito
-evomagazine.it##.top
 evomagazine.it##.Twitter
 evomagazine.it,rai.it##.Facebook
 evonomics.com##.optshorts
@@ -19951,7 +19952,6 @@ gaytimes.co.uk##.pre-header
 gazetapolska.pl##div[style="border: 2px solid #900; clear: left; margin-left: auto; margin-right: auto; padding: 3px; width: 984px"]
 gazzetta.it###multifunctionBar-container
 gazzetta.it###share
-gazzetta.it##.embed-social-buttons
 gcn.com##.google_top
 gcnlive.com,nasa.gov#@##backtotop
 gcpat.com##.ms-dlgOverlay, .ms-dlgContent
@@ -21115,6 +21115,10 @@ ilblogdellestelle.it###disclaimer, .disclaimer, .disclaimerContainer, .disclaime
 ildaro.com##div#contents_wrap_sub2>table>tbody>tr>td[align="center"][style="padding-top:25"]
 ildesertofiorira.org###system-message, #system-messages, #system-message-container
 ilfattoquotidiano.it##.side-arrow
+ilfoglio.it##.facebook
+ilfoglio.it##.instagram
+ilfoglio.it##.rss
+ilfoglio.it##.twitter
 ilfruttarolo.it###decretopr
 ilgiornale.it,virgilio.it###bottombar
 ilmarinen.fi##.ilmarinen-cookie-consent
@@ -23303,7 +23307,6 @@ mediapost.com###linkedin
 mediapost.com###subscribe_form
 mediapost.com##.widget_group
 mediaset.it###pinit
-mediaset.it##.btn__share
 mediaset.it,meteo.it##.shr
 mediaspeed.net##.cp_overly, #cpContainer
 mediatakeout.com###fansback
@@ -24785,7 +24788,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.shareTools
+nytimes.com#@#.sharetools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -28224,7 +28227,7 @@ tomshardware.com###sideOffers
 tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -30007,4 +30010,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.46 (Tuesday, 6 March 2018 3:28:28 AM AEST)
+! End of Customized All-in-One Adblock List 1.1.47 (Tuesday, 6 March 2018 6:19:49 AM AEST)
