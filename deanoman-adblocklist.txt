@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Tuesday, 6 March 2018 9:10:57 AM AEST
-! Version: 1.1.48
+! Last Modified: Tuesday, 6 March 2018 12:02:32 PM AEST
+! Version: 1.1.49
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -275,9 +275,9 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /(\W|_)(search(box)?|swiftype|ui)(\W|_)*autocomplete(\W|_)/$~stylesheet
 /(\W|_)(search|type)ahead(\W|_)/$~stylesheet
 /(\W|_)(secured|trusted|verified)[-_]?by[0-9]*(\W|_)/$~stylesheet
-/(\W|_)[0-9]*(adbutler|adelixir|adforge|adfuel|adriver|adroll|admantx|adnexus|adnium|adnxs|adrum|adskeeper|adswizz|adyield|adzerk|amung[-_.]us|audience[-_.]?science|backlinks?|betrad|bidexchange|bidvertiser|bluekai|brightcove|buysellads|cedexis|casalemedia|chartbeat|clicktale|comscore|coremetrics|criteo|crsspxl|crwdcntrl|cxense|demdex|domdex|dynamicyield|eloqua|ensighten|evercookie|evidon|exelator|exoclick|foresee|gumroad|histats|imrworldwide|inspectlet|intellitxt|lijit|linksynergy|livejasmin|localytics|loggly|marketgid|mgid|moatads?|mpulse|netseer|new[-_]?relic|ooyala|openx|optnmnstr|optimizely|outbrain|pagefair|parsely|popunders?|prebid|publicidad|qksrv|qualtrics|quantcast|quantserve|queryly|realvu|revcontent|revsci|rich[-_]?relevance|sail[-_]?horizon|sailthru|scorecardresearch|skimlinks|stattrax|super[-_.]?cookie|taboola|teads|tealium|upprev|upsell|utrack|virool|visualdna|visualrevenue|webtrekk|webtrends|yieldmo|yieldoptimizer|zedo|zemanta|zergnet|zone[-_]?id)[0-9]*(\W|_)/$~stylesheet
 /(\W|_)[0-9]*(ads?|adv|banners?)(\W|_)*(88x31|100x28|100x70|120x60|120x90|120x240|120x600|125x125|160x600|180x150|200x200|300x50|300x60|300x250|300x300|300x600|320x50|336x280|350x250|720x300|728x90)[a-z]*(\W|_)/$~stylesheet
-/(\W|_)[0-9]*(advanced|advice|ajax|anchored|article|api|applet|async|auto|background|banners?|beacons?|bing|blogs?|book|boost|bottom|box|brand|buny|cache|cam|carousel|commercial|common|community|companion|components?|content|contextual|contrib|cookies?|core|counters?|covers?|custom|default|deliver|deploy|dfp|display|door|downloads?|dynamic|event|expanding|external|facebook|featured|files?|flash|float(er|ing)?|footers?|generic|get|global|head(ers?)?|holiday|home|house|html|iframes?|imgs?|images?|include|index|inline|integrated|internal|interstitial|iphone|javascripts?|jquery|json|juicy|landing|large|layer(ed|s)?|left|(lazy)?load|listings?|live|logos?|image|impressions?|leader[-_]?board|links?|load|main|masthead|media|merchant|mobile|multi|native|new|news|news[-_]?(letters?|paper)|overlays?|page|php|player|pop|popunders?|popups?|post|premium|print|products?|promos?|realmedia|render|report|request|responsive|right|rotat(e|ing)|secure|scripts?|search|serv(e|ing)?|sex|shared?|sharing|shop(ping)?|(slide)?show|side(bar)?|site|skyscraper|simple|slide|sliders?|small|smart|spark|spotlight|standard|static|station|sticky|storage|store|stream(ing)?|subscriber?|table|takeover|target(ed|ing)?|text|tiles?|top|update|upload(ed)?|user|videos?|views?|weekly|web(site)?|welcome|wired|word|yahoo)[0-9]*(\W|_)*ads?[0-9]*(\W|_)/$~stylesheet
+/(\W|_)[0-9]*(advanced|advice|ajax|anchored|article|api|applet|async|auto|background|banners?|beacons?|bing|blogs?|book|boost|bottom|box|brand|buny|cache|cam|carousel|commercial|common|community|companion|components?|content|contextual|contrib|cookies?|core|counters?|covers?|custom|default|deliver|deploy|dfp|display|door|downloads?|dynamic|event|evil|expanding|external|facebook|featured|files?|flash|float(er|ing)?|footers?|generic|get|global|head(ers?)?|holiday|home|house|html|iframes?|imgs?|images?|include|index|inline|integrated|internal|interstitials?|iphone|javascripts?|jquery|json|juicy|landing|large|layer(ed|s)?|left|(lazy)?load|listings?|live|logos?|image|impressions?|leader[-_]?board|links?|load|main|masthead|media|merchant|mobile|multi|native|new|news|news[-_]?(letters?|paper)|overlays?|page|php|player|pop|popunders?|popups?|post|premium|print|products?|promos?|realmedia|render|report|request|responsive|right|rotat(e|ing)|secure|scripts?|search|serv(e|ing)?|sexy?|shared?|sharing|shop(ping)?|(slide)?show|side(bar)?|site|skyscraper|simple|slide|sliders?|small|smart|spark|spotlight|standard|static|station|sticky|storage|store|stream(ing)?|subscriber?|table|takeover|target(ed|ing)?|text|tiles?|top|update|upload(ed)?|user|videos?|views?|weekly|web(site)?|welcome|wired|word|yahoo)[0-9]*(\W|_)*ads?[0-9]*(\W|_)/$~stylesheet
+/(\W|_)[0-9]*(backlinks?|evercookie|marketgid|openx|outbrain|popunders?|prebid|publicidad|upsell|zone[-_]?id)[0-9]*(\W|_)/$~stylesheet
 /(\W|_)[0-9]*(icon)?(back|btn|float|footer|go|icon|jump|return|scroll|ui|up)[-_.]*(2|to)[-_.]*top[0-9]*(\W|_)/$~stylesheet
 /(\W|_)[0-9]*(shar(e|ing)|social((\W|_)?media)?)[0-9]*(\W|_)*(article|auth|background|badges?|bannieres?|bar|block|blog|blogger|bookmark(ing|s)?|btns?|buttons?|cnts?|connect|core|counts?|counters?|embed(ed)?|e[-_]?mail|favorites?|feeds?|float(er)?|flyout|follow|footer|frames?|friends?|header|hover|icns?|icos?|icone|icons?|iframes?|ikons?|(light)?box|likes?|link(s|z)?|login|logos?|manager|menus|modules?|nav(bar|icons?)?|oauth|overlays?|page|panel|popins?|popunders?|popups?|posts?|plugins?|plus|promos?|referrals?|shar(e|ed|er|ing)|sidebars?|sliders?|small|snippet|sprites?|stats?|tab|tag|toolbars?|tools?|top(bar)?|track(ers?|ing)|urls?|videos?|widgets?)[0-9]*(\W|_)/$~stylesheet
 /(\W|_)[0-9]*ads?(\W|_)*(backgrounds?|banners?|bar|below|bottom|box|buttons?|campaigns?|captions?|center|channels?|check|client|click(through)?|common|components?|container|content|controller|cookies?|counts?|counters?|create|delivery?|details|dfp|display|event|exchange|feedback|files?|footer|form|frames?|framework|free|gallery|generated|get|gpt|head|headers?|holders?|home|hover|icons?|iframes?|imgs?|images?|impressions?|include|index|init|inject(ed|or)?|inline|insert(er)?|interstitials?|json|label|large|layers?|leader[-_]?boards?|left|limit|load(ers?)?|management|manager|medium|modules?|native|networks?|new|news|news[-_]?(letters?|paper)|notices?|optimizer|overlays?|page|partners?|placement|placeholders?|plugins?|polic(ies|y)|popups?|position|premium|promos?|promotions?|rectangle|remote|referr?er|requests?|right|rotate|sales?|scores|scripts?|search(es)?|serve?|servers?|serving|service|session|show|side[-_]?bar|skyscraper|slide([-_]?out|r)?|slots?|spaces?|squares?|srvr?|stats?|status|stream|tags?|target(ing)?|tech|text|thumbnails?|tiles?|titles?|top|track(ers?|ing|s)?|traffic|types?|units?|videos?|views?|widgets?|words?|wrappers?|yahoo|zone)[0-9]*(\W|_)/$~stylesheet
@@ -1107,7 +1107,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/cookiesdirective
+/CookiesDirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1320,7 +1320,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /EUCookieUtility.
 /eu-notice.js
 /eurocookie.
-/evil-ads.
 /ExitIntentPopUp.
 /exitpopup-
 /exit-tracker.
@@ -1427,6 +1426,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /Facebook-Buttons.
 /facebookcommenters/*
 /facebook-comments-
+/facebookcomments.
 /facebook-connectivity-
 /facebookconnectobject.
 /facebook-Custom.
@@ -1488,6 +1488,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /facebooksmalllogo_
 /facebooksocialplugins.
 /facebooksocialplugins/*
+/facebooksomments/*
 /facebook-space.
 /facebook-spot.
 /facebooksquare.
@@ -2533,6 +2534,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /instagram-logo.
 /instagram-placeholder-
 /insta-icon-
+/instreamads/*
 /instrumentomniturebasejs/*
 /interstitial.js
 /interstitial_overlay*.js
@@ -4424,7 +4426,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /twitter-embed/*
 /twitterfeedreader.
 /twitterfetcher.
-/twitterfetcher_
+/twitterFetcher_
 /twitterfloat.js
 /twitter-follow-
 /twitterfollow.png
@@ -11089,6 +11091,7 @@ _youtube-button.
 ||mwqkpxsrlrus.com^
 ||mwxurdlzjbuvh.bid^
 ||mwztugbv.bid^
+||mwzutiypqyyx.com^
 ||mxltxnomp.bid^
 ||mxqxkljb.bid^
 ||mxsuikhqaggf.com^
@@ -14795,6 +14798,8 @@ _youtube-button.
 =dfp&
 =dynamic_banner&
 =googleplus_icon.
+=interstitial1&
+=interstitial2&
 =marketing-banner-
 =newsLetterRegistrationBlock&
 =partner_experience&
@@ -15459,7 +15464,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=QuickPromo]
+amazon.com##div[id*=quickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -22603,7 +22608,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#minor_view_middle
+m.dcinside.com##div#Minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -24789,7 +24794,7 @@ nytimes.com##div.text-ad
 nytimes.com##div[class^="Dock-dock-"]
 nytimes.com##li.ad
 nytimes.com##li.ribbon-ad-container
-nytimes.com#@#.sharetools
+nytimes.com#@#.shareTools
 nytimes.com#@#.shareToolsItem
 nzherald.co.nz###backdrop
 nzherald.co.nz###backdropT
@@ -29970,6 +29975,7 @@ zmyslovezakupy.pl###topInfoContainer0, #topInfoContainer1, #topInfoContainer1Mas
 zoiglapp.de###boxes
 zombiearmy.com##.alert-box
 zombiearmy.com##.alert-info, .alert-warning, .alert-box
+-zone-injection/
 zoomalia.com##.cnil_container
 zoover.at###infobarDiv, #infobar, .infobar, #info-bar, #info_c_box, .info-message
 zoover.be###infobarDiv, #infobar, .infobar, #info-bar, #info_c_box, .info-message
@@ -30011,4 +30017,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.48 (Tuesday, 6 March 2018 9:10:57 AM AEST)
+! End of Customized All-in-One Adblock List 1.1.49 (Tuesday, 6 March 2018 12:02:32 PM AEST)
