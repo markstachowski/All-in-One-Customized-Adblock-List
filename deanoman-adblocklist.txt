@@ -1,8 +1,8 @@
 ﻿[Adblock Plus 2.0]
 ! Title: All-in-One Customized Adblock List
 ! Expires: 3 hours
-! Last Modified: Tuesday, 6 March 2018 12:02:32 PM AEST
-! Version: 1.1.49
+! Last Modified: Tuesday, 6 March 2018 3:42:19 PM AEST
+! Version: 1.1.50
 ! Build: Hesitant Heron
 ! Shared Link: https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 ! Official Website: https://hl2guide.github.io/All-in-One-Customized-Adblock-List/
@@ -1107,7 +1107,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /cookies-compliant.
 /cookiesConsent.
 /cookiescontrol-
-/CookiesDirective
+/cookiesdirective
 /cookiesdirective.
 /cookies-directive.
 /cookiesDirective.min.js
@@ -1548,7 +1548,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /fb-ico.
 /fb-ico2.
 /fb-icon-
-/fbicon.
+/FBicon.
 /fb-icon.
 /fbinterestsdata/*
 /fblike.
@@ -3482,7 +3482,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /shareFacebook.
 /share-facebook.
 /share-fb-
-/sharefb.
+/Sharefb.
 /share-fb.
 /share-fb1a.
 /share-footer.
@@ -3949,7 +3949,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /socialsharebar.
 /socialsharebar/*
 /socialsharebuttons/*
-/socialShareCount.
+/socialsharecount.
 /socialshareicons_
 /socialshareplugin.
 /socialshareplugin/*
@@ -4198,7 +4198,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 /tracking/tracker?
 /tracking?
 /tracking_
-/trackingCode.
+/trackingcode.
 /trackingdata?
 /trackingimage?
 /trackingProtection/*
@@ -11081,6 +11081,7 @@ _youtube-button.
 ||mvlcwazi.bid^
 ||mvncasmaxapgyk.bid^
 ||mvtunjij.bid^
+||mvvecbfomk.com^
 ||mvyfuwczzotfe.bid^
 ||mvzmmcbxssgp.com^
 ||mwcouuxv.bid^
@@ -14082,6 +14083,7 @@ _youtube-button.
 ||wqocynupmbad.com^
 ||wqpcxujvkvhr.com^
 ||wqrwopgkkohk.com^
+||wqxccfoswbwo.com^
 ||wqzaloayckal.com^
 ||wqzorzjhvzqf.com^
 ||wrasyzhf.bid^
@@ -15464,7 +15466,7 @@ amazon.com##div.prime-ad-banner-content
 amazon.com##div.rhf
 amazon.com##div.rhf-frame
 amazon.com##div[class*=digital-dash-gateway]
-amazon.com##div[id*=quickPromo]
+amazon.com##div[id*=QuickPromo]
 amazon.com##div[id*=quick-promo]
 amazon.com##div[id*=-upsell-]
 amazon.com##DIV[id^="sponsored"]
@@ -16249,6 +16251,7 @@ bigsexyboobs.net###bookmarkPage
 bigthink.com###booster_pack
 bigthink.com###floating-toolbar
 bik.pl###cmsgcont
+bikeexchange.com.au,bikeexchange.co.nz,bikeexchange.com,bikeexchange.de,bikeexchange.be,bikeexchange.nl,bikeexchange.co.uk,bikeexchange.ie,bikeexchange.com.co,oakley.com#@#.advert
 bikemap.net##.messages.temporary .info
 bikestacja.pl###cndiv
 bilbasen.dk##body > div:not([id]):not([class])
@@ -17620,7 +17623,7 @@ cookiechoices.org##.maia-notification.maia-stage.display
 -cookie-cnil.
 -cookieconsent-
 -cookie-consent.
-cookieconsent.js
+cookieConsent.js
 cookieconsent.min.js
 cookieDisclaimer.js
 -cookie-filter/$script
@@ -19515,6 +19518,7 @@ fmkorea.com##div#banner3
 fmkorea.com##iframe[src^="//www.fmkorea.com/_loader/loader.php"]
 fmkorea.com##iframe[src^="/_adpage/"]
 fnac.com###alerts
+fnac.com###link-top
 fnacplay.com##.cookie
 fnacspectacles.com###layerCookies
 fnacspectacles.com,largus.fr##.modal-backdrop
@@ -22608,7 +22612,7 @@ m.dcinside.com##div#comment_first ul.list_best>li:not([id])
 m.dcinside.com##div#list_more_foot>div[style="margin-top:10px;margin-bottom:10px;padding-bottom:0px;text-align:center;height:250px;"]
 m.dcinside.com##div#minor_list_top
 m.dcinside.com##div#minor_prevNextList_bottom
-m.dcinside.com##div#Minor_view_middle
+m.dcinside.com##div#minor_view_middle
 m.dcinside.com##div#Minor_view_recomm
 m.dcinside.com##div#minor_view_top
 m.dcinside.com##div#program_ad
@@ -24808,7 +24812,6 @@ nzherald.co.nz##.supportingBanner
 nzherald.co.nz##.toolsAlt
 nzherald.co.nz##div[style="padding-top:12px;margin-bottom:10px;"]
 nzz.ch###articleMore
-oakley.com#@#.advert
 oalley.fr###CGU
 oann.com#@#A[href^="http://oann.com"]
 oann.com#@#A[href^="http://www.oann.com"]
@@ -28233,7 +28236,7 @@ tomshardware.com###sideOffers
 tomshardware.com##.blocSubscribeTH
 tomshardware.com##.ftFollowBox
 tomshardware.com##.hService
-tomshardware.com#@#.SocialButton
+tomshardware.com#@#.socialButton
 tomshw.it##.content-autopromo
 tomshw.it##.content-related
 tongilvoice.com###sns_bar
@@ -30017,4 +30020,4 @@ zwitserleven.nl##.top_cookiewall, .top_cookiewall ~ div[style*="position: absolu
 zylab.com###Footercolumn3
 zysk.com.pl###pageUpperInfo
 кинокрад.net,xn--80aikhbrhr.net##.warning-adblock-box
-! End of Customized All-in-One Adblock List 1.1.49 (Tuesday, 6 March 2018 12:02:32 PM AEST)
+! End of Customized All-in-One Adblock List 1.1.50 (Tuesday, 6 March 2018 3:42:19 PM AEST)
